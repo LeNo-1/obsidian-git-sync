@@ -1,0 +1,10 @@
+---
+tags:
+  - Videogame
+---
+## Story
+
+
+
+## Online
+- 
