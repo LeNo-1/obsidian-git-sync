@@ -20,9 +20,9 @@ Harmful fungi:
 - multi-nucleate
 - nuclei are haploid (n)
 #### Three types of hyphae in Rhizopus
-1. Stolons - Hyphae that grow across the surface of the substrate
-2. Rhizoids - hyphae that grow down into substrate. provide anchorage and absorb digested food
-3. Sporangiophores - hyphae that grow vertically upwards
+1. **Stolons** - Hyphae that grow across the surface of the substrate
+2. **Rhizoids** - hyphae that grow down into substrate. provide anchorage and absorb digested food
+3. **Sporangiophores** - hyphae that grow vertically upwards
 #### Mode of Nutrition
 Rhizopus are saprophytic heterotroph
 Gets its nutrition by releasing enzymes
