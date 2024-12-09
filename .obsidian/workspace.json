@@ -219,8 +219,8 @@
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           },
           {
@@ -234,7 +234,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -243,6 +243,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -262,7 +263,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "debf45ca143a5c88",
+  "active": "cecc0fb5dcbf1279",
   "lastOpenFiles": [
     "obsidian-git-sync",
     "00 - M.O.C/Fungi and Protists.md",
