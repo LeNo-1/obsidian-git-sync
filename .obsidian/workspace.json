@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - M.O.C/1 -App. Maths-.md",
+                "file": "00 - M.O.C/5 -Maths-.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 -App. Maths-"
+              "title": "5 -Maths-"
             }
           }
         ],
@@ -263,15 +263,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9fa4eb4ca5f228fa",
+  "active": "1014a56f65a24996",
   "lastOpenFiles": [
-    "04 - Permanent/Chapters/Vectors.md",
+    "00 - M.O.C/2 -Biology-.md",
     "00 - M.O.C/1 -App. Maths-.md",
+    "04 - Permanent/Chapters/Vectors.md",
     "04 - Permanent/Chapters/Newton's Laws and Connected Particles.md",
     "00 - M.O.C/0 -HomePage-.md",
-    "00 - M.O.C/Fungi and Protists.md",
+    "04 - Permanent/Chapters/Fungi and Protists.md",
     "obsidian-git-sync",
-    "00 - M.O.C/2 -Biology-.md",
     "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
     "02 - Areas/Computer Science/YouTube Channels.md",
     "02 - Areas/Computer Science/Cool Things.md",
