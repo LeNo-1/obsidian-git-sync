@@ -99,5 +99,6 @@
   "notation-2-theme@@heading-colors-bg": "headings-default",
   "notation-2-theme@@font-select": "default-mono",
   "notation-2-theme@@wys": false,
-  "notation-2-theme@@banner-type-select": "banner-glow"
+  "notation-2-theme@@banner-type-select": "banner-glow",
+  "notation-2-theme@@notation-titlebar": false
 }

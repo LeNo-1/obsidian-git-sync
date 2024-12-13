@@ -19,6 +19,4 @@ Teacher: Mr. Kennedy
 12. [[Complex Numbers]]
 13. [[Differential Calculus 1]]
 14. [[Differential Calculus 2]]
-15. [[Integra]]
-
-
+15. [[Integral Calculus]]
