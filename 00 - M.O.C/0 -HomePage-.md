@@ -11,8 +11,8 @@ _____________________________________________________________
 
 ## Personal Centre
 [[Bookshelf.canvas|Bookshelf]]
-|->[[To Be Read]]
-|->[[Done]]
+->[[To Be Read]]
+->[[Done]]
 [[Music]]
 [[GYM]]
 [[Library]]
