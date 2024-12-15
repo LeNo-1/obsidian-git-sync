@@ -1,4 +1,5 @@
 ---
-tags:
+tags: 
+Discover: "[[Music Discovery]]"
 ---
-[[Music Discovery]]
+
