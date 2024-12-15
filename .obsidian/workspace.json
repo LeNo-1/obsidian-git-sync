@@ -4,12 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "a71e37829c92caa2",
+        "id": "f666b68e37f937a1",
         "type": "tabs",
         "children": [
           {
-            "id": "09976a0283263b1f",
+            "id": "1bc89d7caf0ba1a7",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,6 +19,7 @@
                 "backlinks": false,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "0 -HomePage-"
             }
@@ -262,13 +264,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cecc0fb5dcbf1279",
+  "active": "1bc89d7caf0ba1a7",
   "lastOpenFiles": [
+    "00 - M.O.C/0 -HomePage-.md",
     "99 - Meta/Images/Biology Sheets-20240829225101621.webp",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
     "02 - Areas/Computer Science/Python stuff.md",
     "99 - Meta/Images/alena-aenami-horizon-1k.jpg",
-    "00 - M.O.C/0 -HomePage-.md",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/5 -Maths-.md",
     "00 - M.O.C/2 -Biology-.md",
@@ -293,7 +295,6 @@
     "Remote Git/publish/attachments/publish-dir-yml.png",
     "Remote Git/publish/attachments/how-linked-blog-starter-works.png",
     "Remote Git/publish/attachments/fork-linked-blog-starter-md.png",
-    "Remote Git/publish/attachments/fn-website-demo.gif",
     "Remote Git/publish/works-out-of-the-box-with-markdown-files.md",
     "Remote Git/publish/update-publish-settings-github-actions.md",
     "Remote Git/publish/reinventing-the-wheel.md",
