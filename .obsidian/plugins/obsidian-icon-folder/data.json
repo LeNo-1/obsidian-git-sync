@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiHome",
-      "LiToyBrick",
-      "LiPaintbrush",
-      "LiFolderGit2",
-      "LiGitBranch"
+      "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "LiSigma",
+      "LiApple",
+      "LiComputer",
+      "LiBiohazard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,10 @@
   "03 - Resources": "LiBookMarked",
   "07 - Archives": "LiFileStack",
   "00 - M.O.C": "LiGlobe2",
-  "00 - M.O.C/0 -HomePage-.md": "LiHome"
+  "00 - M.O.C/0 -HomePage-.md": "LiHome",
+  "00 - M.O.C/1 -App. Maths-.md": "LiCalculator",
+  "00 - M.O.C/2 -Biology-.md": "LiBiohazard",
+  "00 - M.O.C/3 -Comp. Sci.-.md": "LiComputer",
+  "00 - M.O.C/4 -Physics-.md": "LiApple",
+  "00 - M.O.C/5 -Maths-.md": "LiSigma"
 }
