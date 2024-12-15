@@ -1,3 +1,7 @@
 {
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrainsMono NF",
+  "textFontFamily": "JetBrainsMono NF",
+  "interfaceFontFamily": "JetBrainsMono NF"
 }

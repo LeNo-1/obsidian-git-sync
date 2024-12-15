@@ -4,5 +4,6 @@
   "showLineNumber": true,
   "vimMode": true,
   "strictLineBreaks": false,
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "attachmentFolderPath": "./"
 }
