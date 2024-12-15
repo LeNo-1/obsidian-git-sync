@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Languages/Irish/Untitled.md",
+                "file": "02 - Areas/Languages/Irish/Irish- RoadMap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Irish- RoadMap"
             }
           },
           {
@@ -45,13 +45,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "02 - Areas/Languages/Irish/Irish- RoadMap.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Irish- RoadMap"
             }
           }
         ],
@@ -244,29 +244,9 @@
               "icon": "lucide-info",
               "title": "File properties for 0 -HomePage-"
             }
-          },
-          {
-            "id": "cecc0fb5dcbf1279",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
-          },
-          {
-            "id": "debf45ca143a5c88",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -297,8 +277,8 @@
   },
   "active": "5b0372d2f9e88d3b",
   "lastOpenFiles": [
-    "02 - Areas/Languages/Irish/Untitled.md",
-    "Untitled.md",
+    "02 - Areas/Languages/Spanish/Spa- RoadMap.md",
+    "02 - Areas/Languages/Irish/Irish- RoadMap.md",
     "01 - Projects/Learning Irish/Youtube Channels.md",
     "01 - Projects/Learning Spanish/Youtube Channels 1.md",
     "00 - M.O.C/0 -HomePage-.md",
