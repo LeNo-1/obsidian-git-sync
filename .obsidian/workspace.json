@@ -30,13 +30,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Music/Music.md",
+                "file": "Functions.py.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Music"
+              "title": "Functions.py"
             }
           }
         ],
@@ -282,11 +282,13 @@
   },
   "active": "685841ff38805051",
   "lastOpenFiles": [
+    "02 - Areas/Computer Science/Python stuff.md",
+    "Functions.py.md",
+    "02 - Areas/Music/Music.md",
     "03 - Resources/Music Discovery.md",
     "00 - M.O.C/0 -HomePage-.md",
     "99 - Meta/Images/Biology Sheets-20240829225101621.webp",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
-    "02 - Areas/Computer Science/Python stuff.md",
     "99 - Meta/Images/alena-aenami-horizon-1k.jpg",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/5 -Maths-.md",
@@ -317,8 +319,6 @@
     "Remote Git/publish/reinventing-the-wheel.md",
     "Remote Git/publish/statically-generated.md",
     "Remote Git/publish/publish-your-obsidian-notes-with-linked-blog-starter.md",
-    "Remote Git/publish/linked-blog-starter-does-not-reinvent-wheel.md",
-    "Remote Git/publish/install-linked-blog-starter-locally.md",
     "Remote Git/publish/attachments",
     "Remote Git/publish",
     "Remote Git",
