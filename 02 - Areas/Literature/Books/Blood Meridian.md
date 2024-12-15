@@ -8,14 +8,15 @@ Format: Kindle
 tags: 
 Date Finished: 
 Class: Class
-Rating: 
-Recommendation: 
-Complete: 
+Rating:
+  - ⭐⭐⭐⭐⭐
+Recommendation: 🔎🔎🔎🔎🔎
+Complete: "true"
 cssclasses:
   - cards
   - cards-cover
-Priotity: [high]
-Status: [reading]
+Priotity: 
+Status: 
 ---
 
 ```dataview

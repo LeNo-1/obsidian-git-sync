@@ -4,9 +4,8 @@
 		{"id":"32a9f6e7678c7886","type":"group","x":-1880,"y":-460,"width":1840,"height":740,"color":"5","label":"low"},
 		{"id":"5f91ac140bcde9a5","type":"group","x":-880,"y":-1360,"width":760,"height":1720,"color":"4","label":"reading"},
 		{"id":"b5810c9728cf323e","type":"group","x":-1880,"y":-1280,"width":1840,"height":700,"color":"5","label":"high"},
-		{"id":"9a0e173710e911fc","type":"file","file":"02 - Areas/Literature/Done.md","x":880,"y":-1220,"width":2400,"height":1800},
+		{"id":"9a0e173710e911fc","type":"file","file":"02 - Areas/Literature/Done.md","x":920,"y":-1220,"width":2360,"height":1800},
 		{"id":"692d01b83499bd00","type":"file","file":"02 - Areas/Literature/To Be Read.md","x":-4480,"y":-1220,"width":2400,"height":1800},
-		{"id":"a325c40bf4b1bdd2","type":"file","file":"02 - Areas/Literature/Books/Blood Meridian.md","x":-720,"y":-1220,"width":400,"height":400},
 		{"id":"aadddf1fda8f42f8","type":"file","file":"02 - Areas/Literature/Library.md","x":-1600,"y":-2680,"width":1280,"height":960}
 	],
 	"edges":[]
