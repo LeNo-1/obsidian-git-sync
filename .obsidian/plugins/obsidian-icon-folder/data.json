@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
-      "LiSigma",
-      "LiApple",
-      "LiComputer",
-      "LiBiohazard"
+      "LiWine",
+      "🇮🇪",
+      "🇪🇸",
+      "LiCastle",
+      "LiSkull"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,8 @@
   "00 - M.O.C/2 -Biology-.md": "LiBiohazard",
   "00 - M.O.C/3 -Comp. Sci.-.md": "LiComputer",
   "00 - M.O.C/4 -Physics-.md": "LiApple",
-  "00 - M.O.C/5 -Maths-.md": "LiSigma"
+  "00 - M.O.C/5 -Maths-.md": "LiSigma",
+  "00 - M.O.C/6 -English-.md": "LiSkull",
+  "00 - M.O.C/7 -Irish-.md": "LiCastle",
+  "00 - M.O.C/8 -Spanish-.md": "LiWine"
 }
