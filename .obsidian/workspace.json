@@ -28,9 +28,26 @@
             "id": "5f355d89f06cedbb",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "02 - Areas/Literature/Bookshelf.canvas",
+                "viewState": {
+                  "x": -218.18742732721165,
+                  "y": -558.9831782162103,
+                  "zoom": -2.1675904142224267
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Bookshelf"
+            }
+          },
+          {
+            "id": "567a293c655fc3e5",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "The Road.md",
+                "file": "02 - Areas/Literature/Books/The Road.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -261,15 +278,16 @@
   },
   "active": "5f355d89f06cedbb",
   "lastOpenFiles": [
+    "02 - Areas/Literature/Books/The Road.md",
+    "02 - Areas/Literature/Bookshelf.canvas",
+    "02 - Areas/Literature/Done.md",
     "02 - Areas/Literature/Library.md",
     "The Road.md",
     "00 - M.O.C/0 -HomePage-.md",
-    "02 - Areas/Literature/Bookshelf.canvas",
     "02 - Areas/Languages/Irish/Irish- RoadMap.md",
     "02 - Areas/Literature/Books/The Laws of Human Nature.md",
     "02 - Areas/Literature/Books/False Gods.md",
     "02 - Areas/Literature/To Be Read.md",
-    "02 - Areas/Literature/Done.md",
     "02 - Areas/Literature/Books/Blood Meridian.md",
     "02 - Areas/Languages/Spanish/Spa- RoadMap.md",
     "01 - Projects/Learning Irish/Youtube Channels.md",
@@ -293,8 +311,6 @@
     "04 - Permanent/Chapters/Fungi and Protists.md",
     "obsidian-git-sync",
     "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
-    "02 - Areas/Computer Science/YouTube Channels.md",
-    "02 - Areas/Computer Science/Cool Things.md",
     "Remote Git/publish/attachments/vercel-project-id.png",
     "Remote Git/publish/attachments/vercel-create-token.png",
     "Remote Git/publish/attachments/github-secrets-vercel.png",
