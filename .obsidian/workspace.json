@@ -69,8 +69,7 @@
               "title": "Blood Meridian"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -285,13 +284,13 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "surfing:surfing-bookmark-manager": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b0372d2f9e88d3b",
+  "active": "9c227477ef303e56",
   "lastOpenFiles": [
+    "02 - Areas/Literature/Library.md",
     "02 - Areas/Literature/Done.md",
     "02 - Areas/Literature/Bookshelf.canvas",
     "02 - Areas/Literature/Books/Blood Meridian.md",
@@ -332,7 +331,6 @@
     "Remote Git/publish/attachments/publish-dir-yml.png",
     "Remote Git/publish/attachments/how-linked-blog-starter-works.png",
     "Remote Git/publish/attachments/fork-linked-blog-starter-md.png",
-    "Remote Git/publish/works-out-of-the-box-with-markdown-files.md",
     "Remote Git/publish/attachments",
     "Remote Git/publish",
     "Remote Git",
