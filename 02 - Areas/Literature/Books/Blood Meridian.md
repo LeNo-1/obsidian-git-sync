@@ -16,7 +16,7 @@ cssclasses:
   - cards
   - cards-cover
 Priotity: 
-Status: 
+Status: Done
 ---
 
 ```dataview
