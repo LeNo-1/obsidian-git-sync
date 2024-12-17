@@ -56,8 +56,7 @@
               "title": "The Road"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -276,10 +275,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f355d89f06cedbb",
+  "active": "9c227477ef303e56",
   "lastOpenFiles": [
-    "02 - Areas/Literature/Books/The Road.md",
     "02 - Areas/Literature/Bookshelf.canvas",
+    "02 - Areas/Literature/Books/The Road.md",
     "02 - Areas/Literature/Done.md",
     "02 - Areas/Literature/Library.md",
     "The Road.md",
