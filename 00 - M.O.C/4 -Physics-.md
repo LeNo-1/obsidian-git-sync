@@ -5,7 +5,7 @@ Teacher: Mr. Kennedy
 ---
 ### Chapters (5th Yr.)
 1. [[Introduction]]
-2. [[Geometrical Optics - 02]]
+2. [[Geometrical Optics]]
 3. [[Reflection of Light from Spherical Mirrors]]
 4. [[Refraction]]
 5. [[Lenses]]

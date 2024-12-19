@@ -1,5 +1,6 @@
 _____________________________________________________________
 ## Academic Centre
+#AcedemicCentre 
 [[1 -App. Maths-]]
 [[2 -Biology-]]
 [[3 -Comp. Sci.-]]
@@ -10,6 +11,7 @@ _____________________________________________________________
 [[8 -Spanish-]]
 
 ## Personal Centre
+#PersonalCentre 
 [[Bookshelf.canvas|Bookshelf]]
 ->[[To Be Read]]
 ->[[Done]]
@@ -17,4 +19,4 @@ _____________________________________________________________
 [[GYM]]
 [[Library]]
 
-[]
+#HOMEPAGE
