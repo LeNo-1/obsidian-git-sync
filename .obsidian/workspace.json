@@ -6,6 +6,7 @@
       {
         "id": "dfc0bd5ab9947a1e",
         "type": "tabs",
+        "dimension": 69.15760869565217,
         "children": [
           {
             "id": "9c227477ef303e56",
@@ -27,20 +28,114 @@
           {
             "id": "29e2c5552a0b6cda",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/{Project Ideas}.md",
+                "file": "00 - M.O.C/0 -HomePage-.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0 -HomePage-"
+            },
+            "group": "f4f33bf3b4290f77"
+          },
+          {
+            "id": "9bad0309c8e8ac57",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - M.O.C/0 -HomePage-.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "{Project Ideas}"
+              "title": "0 -HomePage-"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "4046b722ebf241e2",
+        "type": "split",
+        "dimension": 30.842391304347828,
+        "children": [
+          {
+            "id": "95175ec39487cb4a",
+            "type": "tabs",
+            "dimension": 43.7246963562753,
+            "children": [
+              {
+                "id": "f27086fe99a1341e",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          },
+          {
+            "id": "098ba201fba23cf5",
+            "type": "tabs",
+            "dimension": 56.2753036437247,
+            "children": [
+              {
+                "id": "6c87e45021479763",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "00 - M.O.C/0 -HomePage-.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 0.3628873693012117,
+                      "close": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of 0 -HomePage-"
+                },
+                "group": "f4f33bf3b4290f77"
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -122,7 +217,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -259,9 +355,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29e2c5552a0b6cda",
+  "active": "9bad0309c8e8ac57",
   "lastOpenFiles": [
+    "02 - Areas/Literature/Library.md",
     "00 - M.O.C/0 -HomePage-.md",
+    "00 - M.O.C/8 -Spanish-.md",
     "02 - Areas/Computer Science/{Project Ideas}.md",
     "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
     "02 - Areas/Literature/Books/The Road.md",
@@ -271,7 +369,6 @@
     "02 - Areas/Computer Science/CSS Stuff.md",
     "02 - Areas/Computer Science/Html Stuff.md",
     "02 - Areas/Literature/Done.md",
-    "02 - Areas/Literature/Library.md",
     "02 - Areas/Languages/Irish/Irish- RoadMap.md",
     "02 - Areas/Literature/Books/The Laws of Human Nature.md",
     "02 - Areas/Literature/Books/False Gods.md",
@@ -293,7 +390,6 @@
     "99 - Meta/Images/alena-aenami-horizon-1k.jpg",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/5 -Maths-.md",
-    "00 - M.O.C/2 -Biology-.md",
     "obsidian-git-sync",
     "Remote Git/publish/attachments/vercel-project-id.png",
     "Remote Git/publish/attachments/vercel-create-token.png",
