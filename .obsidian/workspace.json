@@ -16,7 +16,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 - M.O.C/0 -HomePage-.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
@@ -27,21 +27,19 @@
             "group": "f4f33bf3b4290f77"
           },
           {
-            "id": "ff8c7de032f8f0c2",
+            "id": "8a7c09cfc3456fd4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "surfing-view",
               "state": {
-                "file": "00 - M.O.C/6 -English-.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "url": "https://duckduckgo.com/?q=skibidi+toilet&ia=web"
               },
               "icon": "lucide-file",
-              "title": "6 -English-"
+              "title": "skibidi toilet at DuckDuckGo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4046b722ebf241e2",
@@ -321,7 +319,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cb65f59107045de",
+  "active": "8a7c09cfc3456fd4",
   "lastOpenFiles": [
     "00 - M.O.C/0 -HomePage-.md",
     "00 - M.O.C/6 -English-.md",
