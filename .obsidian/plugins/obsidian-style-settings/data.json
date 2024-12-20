@@ -77,9 +77,9 @@
   "blue-topaz-theme@@background-settings-workplace-background-image": true,
   "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-sublime",
   "blue-topaz-theme@@left-ribbon-style": "bt-bubble-ribbon",
-  "blue-topaz-theme@@search-bar-style-option": "bt-search-bar-bottom",
+  "blue-topaz-theme@@search-bar-style-option": "default-search-bar",
   "blue-topaz-theme@@scrollbar-style-option": "remove-scrollbars",
-  "blue-topaz-theme@@layout-style-options": "asymmetric-split-left",
+  "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
   "blue-topaz-theme@@font-family-change-to-default": false,
   "blue-topaz-theme@@bt-status-on": true,
   "blue-topaz-theme@@color-scheme-options": "color-scheme-options-simplicity-topaz",
@@ -110,9 +110,14 @@
   "blue-topaz-theme@@bg-panel-page-opacity-cp": 0,
   "blue-topaz-theme@@bg-panel-page-option": "panel-page-bg-theme-light-wall",
   "blue-topaz-theme@@bg-panel-page-option-dark": "panel-page-bg-theme-dark-custom",
-  "blue-topaz-theme@@tab-title-bar-position": true,
+  "blue-topaz-theme@@tab-title-bar-position": false,
   "blue-topaz-theme@@toggle-calendar-shadow": false,
   "blue-topaz-theme@@muted-activeline-bg": false,
   "blue-topaz-theme@@plain-file-title": false,
-  "blue-topaz-theme@@simple-p-kanban": true
+  "blue-topaz-theme@@simple-p-kanban": true,
+  "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
+  "blue-topaz-theme@@stack-tabs-text-ori-options": "stack-tab-text-ori-mixed",
+  "blue-topaz-theme@@disable-auto-hide-header": false,
+  "blue-topaz-theme@@toggle-divider-lines": false,
+  "blue-topaz-theme@@toggle-header-bottom-line": false
 }

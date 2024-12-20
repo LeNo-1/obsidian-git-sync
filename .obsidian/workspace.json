@@ -64,8 +64,19 @@
                   "icon": "lucide-git-fork",
                   "title": "Graph view"
                 }
+              },
+              {
+                "id": "8cb65f59107045de",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "098ba201fba23cf5",
@@ -310,16 +321,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29e2c5552a0b6cda",
+  "active": "8cb65f59107045de",
   "lastOpenFiles": [
+    "00 - M.O.C/0 -HomePage-.md",
+    "00 - M.O.C/6 -English-.md",
     "00 - M.O.C/5 -Maths-.md",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
     "00 - M.O.C/2 -Biology-.md",
     "00 - M.O.C/1 -App. Maths-.md",
-    "00 - M.O.C/0 -HomePage-.md",
     "04 - Permanent/Chapters/Geometrical Optics.md",
-    "00 - M.O.C/6 -English-.md",
     "02 - Areas/Literature/To Be Read.md",
     "02 - Areas/Literature/Library.md",
     "00 - M.O.C/8 -Spanish-.md",
