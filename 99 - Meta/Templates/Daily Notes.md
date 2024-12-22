@@ -10,7 +10,9 @@ done on {{date}}
 ```
 
 ### Created
-
+- [ ] Clean badroom
+- [ ] drink water
+- [ ] 
 
 ## Note
 
