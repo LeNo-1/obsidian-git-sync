@@ -93,8 +93,19 @@
                   "title": "Graph of 0 -HomePage-"
                 },
                 "group": "e79b534f768cfaad"
+              },
+              {
+                "id": "e9911c65c0f510b2",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "New tab"
+                }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "b8dbcae432fe0a4f",
@@ -135,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tasks",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -309,14 +320,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b30367a62b7cea3c",
+  "active": "e9911c65c0f510b2",
   "lastOpenFiles": [
+    "99 - Meta/Templates/Daily Notes.md",
     "00 - M.O.C/0 -HomePage-.md",
     "06 - Daily/2024/12 2024-12-22 Sun.md",
     "99 - Meta/Utility/Inbox.md",
     "99 - Meta/Utility",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
-    "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2024",
     "99 - Meta/Templates/Untitled.md",
     "00 - M.O.C/6 -English-.md",
