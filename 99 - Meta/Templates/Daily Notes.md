@@ -1,12 +1,8 @@
 ---
-tags: 
-Water (L.): 
 Study: 
 "|->Length":
 ---
-
-
-# #Tasks
+---
 ## Completed
 ```tasks
 done on {{date}}
@@ -16,4 +12,5 @@ done on {{date}}
 
 
 
-# 
+# Note
+

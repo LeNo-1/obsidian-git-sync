@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "99 - Meta/Templates/Daily Notes.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -22,7 +22,8 @@
               "title": "Daily Notes"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -79,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -276,7 +276,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85a5f6a5849c62d4",
+  "active": "bfaabb6c23539cf1",
   "lastOpenFiles": [
     "99 - Meta/Templates/Daily Notes.md",
     "00 - M.O.C/0 -HomePage-.md",
