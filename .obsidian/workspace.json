@@ -6,26 +6,7 @@
       {
         "id": "dfc0bd5ab9947a1e",
         "type": "tabs",
-        "dimension": 51.4945652173913,
         "children": [
-          {
-            "id": "29e2c5552a0b6cda",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "0 -HomePage-"
-            },
-            "group": "e79b534f768cfaad"
-          },
           {
             "id": "bfaabb6c23539cf1",
             "type": "leaf",
@@ -41,93 +22,7 @@
               "title": "Daily Notes"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "b9467e16e4bf4a99",
-        "type": "split",
-        "dimension": 48.5054347826087,
-        "children": [
-          {
-            "id": "95175ec39487cb4a",
-            "type": "tabs",
-            "dimension": 27.125506072874497,
-            "children": [
-              {
-                "id": "6c87e45021479763",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "localgraph",
-                  "state": {
-                    "file": "00 - M.O.C/0 -HomePage-.md",
-                    "options": {
-                      "collapse-filter": true,
-                      "search": "",
-                      "localJumps": 1,
-                      "localBacklinks": true,
-                      "localForelinks": true,
-                      "localInterlinks": false,
-                      "showTags": false,
-                      "showAttachments": false,
-                      "hideUnresolved": false,
-                      "collapse-color-groups": true,
-                      "colorGroups": [],
-                      "collapse-display": true,
-                      "showArrow": false,
-                      "textFadeMultiplier": 0,
-                      "nodeSizeMultiplier": 1.01875,
-                      "lineSizeMultiplier": 1.19739583333333,
-                      "collapse-forces": true,
-                      "centerStrength": 0.518713248970312,
-                      "repelStrength": 10,
-                      "linkStrength": 1,
-                      "linkDistance": 250,
-                      "scale": 0.3628873693012117,
-                      "close": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph of 0 -HomePage-"
-                },
-                "group": "e79b534f768cfaad"
-              },
-              {
-                "id": "e9911c65c0f510b2",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "b8dbcae432fe0a4f",
-            "type": "tabs",
-            "dimension": 72.8744939271255,
-            "children": [
-              {
-                "id": "f27086fe99a1341e",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -192,15 +89,15 @@
       {
         "id": "262c67dfd41553fd",
         "type": "tabs",
+        "dimension": 34.82587064676617,
         "children": [
           {
             "id": "3e25589f955c65ac",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md",
+                "file": "99 - Meta/Templates/Daily Notes.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,9 +106,8 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "pinned": true,
               "icon": "links-coming-in",
-              "title": "Backlinks for 0 -HomePage-"
+              "title": "Backlinks for Daily Notes"
             }
           },
           {
@@ -220,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/Images/Cell Continuity-20241020192557628.webp",
+                "file": "99 - Meta/Templates/Daily Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Cell Continuity-20241020192557628"
+              "title": "Outgoing links from Daily Notes"
             }
           },
           {
@@ -261,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - M.O.C/Fungi and Protists.md"
+                "file": "99 - Meta/Templates/Daily Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Fungi and Protists"
+              "title": "Outline of Daily Notes"
             }
           },
           {
@@ -273,8 +169,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -292,12 +188,72 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "0724510fcd937907",
+        "type": "tabs",
+        "dimension": 32.43781094527363,
+        "children": [
+          {
+            "id": "29e2c5552a0b6cda",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4eb8e6cdee976020",
+        "type": "tabs",
+        "dimension": 32.7363184079602,
+        "children": [
+          {
+            "id": "6a0cbb91ce9cad30",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "99 - Meta/Templates/Daily Notes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792588,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Daily Notes"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 216.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -320,10 +276,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9911c65c0f510b2",
+  "active": "85a5f6a5849c62d4",
   "lastOpenFiles": [
     "99 - Meta/Templates/Daily Notes.md",
     "00 - M.O.C/0 -HomePage-.md",
+    "04 - Permanent/Chapters/Number Patterns, Sequences and Series.md",
     "06 - Daily/2024/12 2024-12-22 Sun.md",
     "99 - Meta/Utility/Inbox.md",
     "99 - Meta/Utility",
@@ -351,7 +308,6 @@
     "02 - Areas/Literature/Done.md",
     "02 - Areas/Languages/Irish/Irish- RoadMap.md",
     "02 - Areas/Literature/Books/The Laws of Human Nature.md",
-    "02 - Areas/Literature/Books/False Gods.md",
     "02 - Areas/Languages/Spanish",
     "04 - Permanent/Self  Storage",
     "02 - Areas/Languages/Irish",

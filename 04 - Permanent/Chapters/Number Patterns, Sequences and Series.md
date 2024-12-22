@@ -38,4 +38,4 @@ $=\frac{43463}{9990}$
 __ __ __
 ## Limits
 
-#mathsMain #Sequences/Series
+#mathsMain
