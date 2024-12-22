@@ -63,7 +63,7 @@
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
-  "things-style@@fancy-highlight": false,
+  "things-style@@fancy-highlight": true,
   "things-style@@fancy-code": true,
   "shimmering-focus@@hide-vault-switcher-and-settings": false,
   "shimmering-focus@@show-sidebar-header-buttons": true,
@@ -119,5 +119,9 @@
   "blue-topaz-theme@@stack-tabs-text-ori-options": "stack-tab-text-ori-mixed",
   "blue-topaz-theme@@disable-auto-hide-header": false,
   "blue-topaz-theme@@toggle-divider-lines": false,
-  "blue-topaz-theme@@toggle-header-bottom-line": false
+  "blue-topaz-theme@@toggle-header-bottom-line": false,
+  "things-style@@mobile-black-background": false,
+  "things-style@@floating-button-off": false,
+  "things-style@@active-line": true,
+  "things-style@@default-font-color": false
 }
