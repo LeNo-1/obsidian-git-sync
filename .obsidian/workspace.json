@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Daily Notes"
             }
+          },
+          {
+            "id": "f352b299708dc959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - M.O.C/1 -App. Maths-.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1 -App. Maths-"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,6 +201,18 @@
               "icon": "lucide-info",
               "title": "File properties for 0 -HomePage-"
             }
+          },
+          {
+            "id": "08e0f8cad1ed5016",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00 - M.O.C/1 -App. Maths-.md"
+              },
+              "icon": "lucide-info",
+              "title": "File properties for 1 -App. Maths-"
+            }
           }
         ],
         "currentTab": 5
@@ -217,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md",
+                "file": "00 - M.O.C/1 -App. Maths-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Daily Notes"
+              "title": "Graph of 1 -App. Maths-"
             }
           }
         ]
@@ -275,10 +303,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b46673f0bb1fbf1",
+  "active": "f352b299708dc959",
   "lastOpenFiles": [
-    "00 - M.O.C/6 -English-.md",
+    "02 - Areas/Games/Minecraft/Build Ideas.md",
     "99 - Meta/Templates/Daily Notes.md",
+    "00 - M.O.C/6 -English-.md",
     "00 - M.O.C/2 -Biology-.md",
     "06 - Daily/2024/12/2024-12-22 Sun.md",
     "06 - Daily/2024/12",
@@ -307,7 +336,6 @@
     "02 - Areas/Computer Science/CSS Stuff.md",
     "02 - Areas/Computer Science/Html Stuff.md",
     "02 - Areas/Literature/Done.md",
-    "02 - Areas/Languages/Irish/Irish- RoadMap.md",
     "02 - Areas/Languages/Spanish",
     "04 - Permanent/Self  Storage",
     "02 - Areas/Languages/Irish",
