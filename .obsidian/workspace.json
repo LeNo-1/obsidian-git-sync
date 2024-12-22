@@ -228,7 +228,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2024/12 2024-12-22 Sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +255,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 12 2024-12-22 Sun"
+              "title": "Graph view"
             }
           }
         ]
@@ -286,10 +285,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bfaabb6c23539cf1",
+  "active": "29e2c5552a0b6cda",
   "lastOpenFiles": [
-    "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2024/12 2024-12-22 Sun.md",
+    "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2024",
     "00 - M.O.C/0 -HomePage-.md",
     "04 - Permanent/Chapters/Number Patterns, Sequences and Series.md",
