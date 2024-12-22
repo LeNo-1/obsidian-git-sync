@@ -12,7 +12,6 @@ done on {{date}}
 ### Created
 
 
-
 ## Note
 
 # SUMM
