@@ -3,15 +3,9 @@ tags:
 Water (L.): 
 Mood:
 ---
-## Reminders
-- [ ] Duolingo
-- [ ] Daily reading (min. 10 pg.)
-- [ ] 
+## Completed
+```tasks
+done on {{date}}
+```
 
-#           ~ Journal ~ 
-- 
-- 
-- 
-
-## 
-
+## Created
