@@ -38,6 +38,9 @@
     "Run Date": "date",
     "Distance": "number",
     "Struggle": "checkbox",
-    "Location": "text"
+    "Location": "text",
+    "Study": "checkbox",
+    "-Length": "number",
+    "|->Length": "number"
   }
 }

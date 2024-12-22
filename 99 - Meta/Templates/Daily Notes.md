@@ -1,11 +1,17 @@
 ---
 tags: 
 Water (L.): 
-Mood:
+Study: 
+"|->Length":
 ---
+# #Tasks
 ## Completed
 ```tasks
 done on {{date}}
 ```
 
 ## Created
+
+
+
+# 
