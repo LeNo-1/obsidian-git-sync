@@ -1,0 +1,4 @@
+# Binary
+# ASCII
+# Unicode
+# Algorithms
