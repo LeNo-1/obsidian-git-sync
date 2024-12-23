@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b46673f0bb1fbf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Computer Science/Java/Java Introduction.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Java Introduction"
-            }
-          },
-          {
             "id": "f352b299708dc959",
             "type": "leaf",
             "state": {
@@ -94,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -245,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Computer Science/Java/Java Introduction.md",
+                "file": "00 - M.O.C/1 -App. Maths-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -273,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Java Introduction"
+              "title": "Graph of 1 -App. Maths-"
             }
           }
         ]
@@ -303,18 +287,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b46673f0bb1fbf1",
+  "active": "1014a56f65a24996",
   "lastOpenFiles": [
-    "02 - Areas/Computer Science/Java/~ Java.md",
-    "02 - Areas/Computer Science/Java/Java Introduction.md",
-    "02 - Areas/Computer Science/Java",
     "06 - Daily/2024/12/ 2024-12-22 Sun.md",
+    "06 - Daily/2024/12/2024-12-22 Sun.md",
     "99 - Meta/Templates/Daily Notes.md",
+    "06 - Daily/2024/12/ 2024-12-23 Mon.md",
+    "02 - Areas/Computer Science/Java/Java Introduction.md",
+    "02 - Areas/Computer Science/Java/~ Java.md",
+    "02 - Areas/Computer Science/Java",
     "00 - M.O.C/1 -App. Maths-.md",
     "02 - Areas/Games/Minecraft/Build Ideas.md",
     "00 - M.O.C/6 -English-.md",
     "00 - M.O.C/2 -Biology-.md",
-    "06 - Daily/2024/12/2024-12-22 Sun.md",
     "06 - Daily/2024/12",
     "06 - Daily/2024",
     "06 - Daily/2024/12 2024-12-22 Sun.md",
@@ -336,7 +321,6 @@
     "02 - Areas/Literature/Books/The Road.md",
     "02 - Areas/Literature/Books/The Road 1.md",
     "02 - Areas/Literature/Bookshelf.canvas",
-    "02 - Areas/Computer Science/- YouTube Channels -.md",
     "02 - Areas/Languages/Spanish",
     "04 - Permanent/Self  Storage",
     "02 - Areas/Languages/Irish",

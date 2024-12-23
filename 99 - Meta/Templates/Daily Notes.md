@@ -10,11 +10,10 @@ done on {{date}}
 ```
 
 ### Created
-- [ ] Clean badroom
-- [ ] drink water
-- [ ] 
-
+- [ ] 1. 
+- [ ] 2. 
+- [ ] 3. 
 ## Note
 
-# SUMM
+# Journal
 
