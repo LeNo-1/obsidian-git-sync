@@ -17,12 +17,6 @@
   "statusBar": [
     {
       "id": "obsidian-tasks-plugin:edit-task",
-      "icon": "pencil",
-      "name": "Tasks: Create or edit task",
-      "mode": "any"
-    },
-    {
-      "id": "obsidian-tasks-plugin:edit-task",
       "icon": "lucide-clipboard-signature",
       "name": "Tasks: Create or edit task",
       "mode": "any"

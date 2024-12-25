@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/CS50 2024/Ep. 2 - C.md",
+                "file": "06 - Daily/2024/12/ 2024-12-25 Wed.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ep. 2 - C"
+              "title": "2024-12-25 Wed"
             }
           },
           {
@@ -244,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Computer Science/CS50 2024/Ep. 2 - C.md",
+                "file": "06 - Daily/2024/12/ 2024-12-25 Wed.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ep. 2 - C"
+              "title": "Graph of  2024-12-25 Wed"
             }
           }
         ]
@@ -283,7 +283,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "remotely-save:Remotely Save": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -293,18 +292,13 @@
       "templates:Insert template": false,
       "markdown-importer:Open format converter": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
-      "surfing:surfing-bookmark-manager": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f352b299708dc959",
   "lastOpenFiles": [
     "02 - Areas/Computer Science/CS50 2024/Ep. 2 - C.md",
+    "06 - Daily/2024/12/ 2024-12-25 Wed.md",
     "02 - Areas/Computer Science/CS50 2024/Ep. 1.md",
     "06 - Daily/2024/12/ 2024-12-23 Mon.md",
     "03 - Resources/Untitled.md",
@@ -335,7 +329,6 @@
     "04 - Permanent/Chapters/Geometrical Optics.md",
     "02 - Areas/Literature/To Be Read.md",
     "02 - Areas/Literature/Library.md",
-    "00 - M.O.C/8 -Spanish-.md",
     "02 - Areas/Literature/Bookshelf.canvas",
     "02 - Areas/Languages/Spanish",
     "04 - Permanent/Self  Storage",
