@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Areas/Computer Science/CS50 2024/Ep. 2 - C.md",
+                "file": "06 - Daily/2024/12/ 2024-12-31 Tue.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ep. 2 - C"
+              "title": "2024-12-31 Tue"
             }
           },
           {
@@ -244,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "02 - Areas/Computer Science/CS50 2024/Ep. 2 - C.md",
+                "file": "06 - Daily/2024/12/ 2024-12-31 Tue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ep. 2 - C"
+              "title": "Graph of  2024-12-31 Tue"
             }
           }
         ]
@@ -305,6 +305,7 @@
   "active": "f352b299708dc959",
   "lastOpenFiles": [
     "02 - Areas/Computer Science/CS50 2024/Ep. 2 - C.md",
+    "06 - Daily/2024/12/ 2024-12-31 Tue.md",
     "02 - Areas/Computer Science/CS50 2024/Ep. 1.md",
     "06 - Daily/2024/12/ 2024-12-23 Mon.md",
     "03 - Resources/Untitled.md",
@@ -335,7 +336,6 @@
     "04 - Permanent/Chapters/Geometrical Optics.md",
     "02 - Areas/Literature/To Be Read.md",
     "02 - Areas/Literature/Library.md",
-    "00 - M.O.C/8 -Spanish-.md",
     "02 - Areas/Literature/Bookshelf.canvas",
     "02 - Areas/Languages/Spanish",
     "04 - Permanent/Self  Storage",
