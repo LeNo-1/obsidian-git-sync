@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2024/12/ 2024-12-31 Tue.md",
+                "file": "00 - M.O.C/7 -Irish-.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-31 Tue"
+              "title": "7 -Irish-"
             }
           }
         ]
@@ -229,6 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00 - M.O.C/7 -Irish-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 7 -Irish-"
             }
           }
         ]
@@ -286,9 +287,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7f9580b5cf77e21b",
+  "active": "6fb700981f3592d1",
   "lastOpenFiles": [
-    "06 - Daily/2024/12/ 2024-12-31 Tue.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "00 - M.O.C/3 -Comp. Sci.-.md",
+    "06 - Daily/2024/12/2024-12-31 Tue (New Years Resolution).md",
+    "00 - M.O.C/0 -HomePage-.md",
+    "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
     "06 - Daily/2024/12/ 2024-12-23 Mon.md",
     "conflict-files-obsidian-git.md",
     "06 - Daily/2024/12/ 2024-12-25 Wed.md",
@@ -310,16 +315,12 @@
     "06 - Daily/2024/12",
     "06 - Daily/2024",
     "06 - Daily/2024/12 2024-12-22 Sun.md",
-    "00 - M.O.C/0 -HomePage-.md",
     "04 - Permanent/Chapters/Number Patterns, Sequences and Series.md",
     "99 - Meta/Utility/Inbox.md",
     "99 - Meta/Utility",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
     "99 - Meta/Templates/Untitled.md",
     "00 - M.O.C/5 -Maths-.md",
-    "00 - M.O.C/4 -Physics-.md",
-    "00 - M.O.C/3 -Comp. Sci.-.md",
-    "04 - Permanent/Chapters/Geometrical Optics.md",
     "02 - Areas/Literature/Bookshelf.canvas",
     "02 - Areas/Languages/Spanish",
     "04 - Permanent/Self  Storage",
@@ -333,7 +334,6 @@
     "Remote Git/publish/attachments/vercel-account-id.png",
     "Remote Git/publish/attachments/publish-dir-yml.png",
     "Remote Git/publish/attachments/how-linked-blog-starter-works.png",
-    "Remote Git/publish/attachments/fork-linked-blog-starter-md.png",
     "Remote Git/publish/attachments",
     "Untitled.canvas",
     "Flow Chart.canvas",
