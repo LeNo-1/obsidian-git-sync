@@ -276,7 +276,15 @@
       "audio-recorder:Start/stop recording": false,
       "templates:Insert template": false,
       "markdown-importer:Open format converter": false,
-      "obsidian-book-search-plugin:Create new book note": false
+      "obsidian-book-search-plugin:Create new book note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "surfing:surfing-bookmark-manager": false,
+      "obsidian-git:Open Git source control": false,
+      "remotely-save:Remotely Save": false
     }
   },
   "active": "6fb700981f3592d1",
