@@ -14,14 +14,7 @@
   "leftRibbon": [],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [
-    {
-      "id": "obsidian-tasks-plugin:edit-task",
-      "icon": "lucide-clipboard-signature",
-      "name": "Tasks: Create or edit task",
-      "mode": "any"
-    }
-  ],
+  "statusBar": [],
   "pageHeader": [],
   "macros": [],
   "explorer": [],
