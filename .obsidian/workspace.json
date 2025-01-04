@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md",
+                "file": "99 - Meta/Templates/Week Template.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes"
+              "title": "Week Template"
             }
           }
         ]
@@ -229,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md",
+                "file": "99 - Meta/Templates/Week Template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Daily Notes"
+              "title": "Graph of Week Template"
             }
           }
         ]
@@ -290,6 +290,8 @@
   },
   "active": "9d6ee24815944507",
   "lastOpenFiles": [
+    "99 - Meta/Templates/Daily Notes.md",
+    "99 - Meta/Templates/Week Template.md",
     "06 - Daily/2025/2025 - Plan.md",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "06 - Daily/2025/01/ 2025-01-04 Sat.md",
@@ -319,7 +321,6 @@
     "00 - M.O.C/1 -App. Maths-.md",
     "06 - Daily/2024/12/ 2024-12-22 Sun.md",
     "06 - Daily/2024/12/2024-12-22 Sun.md",
-    "99 - Meta/Templates/Daily Notes.md",
     "02 - Areas/Computer Science/Java/Java Introduction.md",
     "02 - Areas/Computer Science/Java",
     "06 - Daily/2024/12",

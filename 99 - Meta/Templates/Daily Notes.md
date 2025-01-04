@@ -3,11 +3,6 @@ Study:
 "|->Length":
 ---
 ---
-
-```dataview
-table title as ""
-```
-
 ## Tasks
 ### Completed
 ```tasks
