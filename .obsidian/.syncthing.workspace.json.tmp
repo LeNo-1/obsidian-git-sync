@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c76b76a5a22eca7e",
+        "id": "900e46a02de1a276",
         "type": "tabs",
         "children": [
           {
-            "id": "c6f8d2632fb163db",
+            "id": "494b0af3082f1490",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -224,7 +224,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2025/2025 - Plan.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025 - Plan"
+              "title": "Graph view"
             }
           }
         ]
@@ -283,12 +282,13 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c6f8d2632fb163db",
+  "active": "494b0af3082f1490",
   "lastOpenFiles": [
-    "06 - Daily/2025/01/ 2025-01-04 Sat.md",
     "99 - Meta/Templates/Week Template.md",
+    "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2025/2025 - Plan.md",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
+    "06 - Daily/2025/01/ 2025-01-04 Sat.md",
     "06 - Daily/2025/01/2025-01-04 Sat.md",
     "06 - Daily/2025/01/ 2025-01-03 Fri.md",
     "06 - Daily/Untitled.md",
@@ -315,7 +315,6 @@
     "00 - M.O.C/1 -App. Maths-.md",
     "06 - Daily/2024/12/ 2024-12-22 Sun.md",
     "06 - Daily/2024/12/2024-12-22 Sun.md",
-    "99 - Meta/Templates/Daily Notes.md",
     "02 - Areas/Computer Science/Java/Java Introduction.md",
     "02 - Areas/Computer Science/Java",
     "06 - Daily/2024/12",

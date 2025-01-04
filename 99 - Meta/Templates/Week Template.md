@@ -1,5 +1,3 @@
-```dataview
-LIST from Resourses
-```
+
 ``
 
