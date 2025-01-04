@@ -6,5 +6,6 @@
   "strictLineBreaks": false,
   "propertiesInDocument": "visible",
   "attachmentFolderPath": "./",
-  "livePreview": true
+  "livePreview": true,
+  "promptDelete": false
 }

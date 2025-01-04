@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🚀",
       "LiLibraryBig",
       "LiDumbbell",
       "LiMusic2",
-      "LiWine",
-      "🇮🇪"
+      "LiWine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -61,5 +61,6 @@
   "00 - M.O.C/8 -Spanish-.md": "LiWine",
   "02 - Areas/Music/Music.md": "LiMusic2",
   "02 - Areas/GYM/GYM.md": "LiDumbbell",
-  "02 - Areas/Literature/Library.md": "LiLibraryBig"
+  "02 - Areas/Literature/Library.md": "LiLibraryBig",
+  "06 - Daily/2025/2025 - Plan.md": "🚀"
 }
