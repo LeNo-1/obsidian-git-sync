@@ -8,15 +8,6 @@
       "key": "A"
     }
   ],
-  "app:toggle-right-sidebar": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "omnisearch:show-modal": [
     {
       "modifiers": [
@@ -32,6 +23,15 @@
         "Mod"
       ],
       "key": "\\"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
     }
   ]
 }
