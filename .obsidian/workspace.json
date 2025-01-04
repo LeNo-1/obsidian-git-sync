@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6fb700981f3592d1",
+            "id": "06f8352fd6e7afd8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -289,11 +288,11 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "6fb700981f3592d1",
+  "active": "06f8352fd6e7afd8",
   "lastOpenFiles": [
+    "06 - Daily/2025/2025 - Plan.md",
     "06 - Daily/2025/01/ 2025-01-04 Sat.md",
     "06 - Daily/2025/01/2025-01-04 Sat.md",
-    "06 - Daily/2025/2025 - Plan.md",
     "06 - Daily/2025/01/ 2025-01-03 Fri.md",
     "06 - Daily/Untitled.md",
     "06 - Daily/Do you see this.md",

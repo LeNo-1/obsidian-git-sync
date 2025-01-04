@@ -123,5 +123,6 @@
   "things-style@@mobile-black-background": false,
   "things-style@@floating-button-off": false,
   "things-style@@active-line": true,
-  "things-style@@default-font-color": false
+  "things-style@@default-font-color": false,
+  "blue-topaz-theme@@accent-strong@@light": "#C70909"
 }
