@@ -1,5 +1,5 @@
 # This directory is a Syncthing folder marker.
 # Do not delete.
 
-folderID: lnkpa-6rt99
-created: 2025-01-03T21:45:11Z
+folderID: hyzmo-ru2t2
+created: 2025-01-05T01:12:42Z
