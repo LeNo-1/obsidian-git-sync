@@ -283,9 +283,7 @@
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "obsidian-importer:Open Importer": false,
-      "surfing:surfing-bookmark-manager": false,
-      "obsidian-git:Open Git source control": false,
-      "remotely-save:Remotely Save": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c6f8d2632fb163db",

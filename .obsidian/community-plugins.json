@@ -1,5 +1,4 @@
 [
-  "obsidian-banners",
   "obsidian-book-search-plugin",
   "calendar",
   "cmdr",
@@ -18,9 +17,6 @@
   "obsidian-image-toolkit",
   "obsidian-importer",
   "obsidian-footnotes",
-  "obsidian-hider",
-  "obsidian-custom-frames",
-  "surfing",
   "obsidian-git",
   "obsidian-tasks-plugin",
   "obsidian-languagetool-plugin"
