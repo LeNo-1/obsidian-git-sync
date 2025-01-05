@@ -127,5 +127,9 @@
   "blue-topaz-theme@@accent-strong@@light": "#C70909",
   "shimmering-focus@@normal-tab-bar": false,
   "shimmering-focus@@show-new-tab-button": false,
-  "shimmering-focus@@show-close-buttons": false
+  "shimmering-focus@@show-close-buttons": false,
+  "primary-theme@@zero-popup-popdown": true,
+  "primary-theme@@zero-popup-blur": true,
+  "primary-theme@@ribbon_styles": "ribbon-default",
+  "primary-theme@@interface_editor-bg": "editor-bgpattern-dotgrid"
 }
