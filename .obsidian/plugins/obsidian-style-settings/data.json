@@ -123,7 +123,7 @@
   "things-style@@mobile-black-background": false,
   "things-style@@floating-button-off": true,
   "things-style@@active-line": true,
-  "things-style@@default-font-color": true,
+  "things-style@@default-font-color": false,
   "blue-topaz-theme@@accent-strong@@light": "#C70909",
   "shimmering-focus@@normal-tab-bar": false,
   "shimmering-focus@@show-new-tab-button": false,
@@ -139,5 +139,10 @@
   "Editor@@bold-color@@light": "#4E2B2B",
   "Editor@@inline-code-normal@@dark": "#1F788F",
   "things-style@@link-external-decoration": "Underline",
-  "things-style@@link-decoration": "None"
+  "things-style@@link-decoration": "None",
+  "things-style@@text-highlight-bg-d": "#FFD137",
+  "things-style@@strong-color": "#FF6666",
+  "things-style@@em-color": "#DFBFFF",
+  "things-style@@progress-color": true,
+  "things-style@@progress-color-5": "#11C675"
 }

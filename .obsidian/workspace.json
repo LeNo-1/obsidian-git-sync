@@ -8,18 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6f8d2632fb163db",
+            "id": "c5cb38fe8fbf635f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-05 Sun.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2025-01-05 Sun"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -88,7 +83,7 @@
       {
         "id": "262c67dfd41553fd",
         "type": "tabs",
-        "dimension": 38.77245508982036,
+        "dimension": 44.125,
         "children": [
           {
             "id": "3e25589f955c65ac",
@@ -202,26 +197,9 @@
         "currentTab": 5
       },
       {
-        "id": "52e395487e978946",
-        "type": "tabs",
-        "dimension": 30.61377245508982,
-        "children": [
-          {
-            "id": "7f9580b5cf77e21b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
-      },
-      {
         "id": "4eb8e6cdee976020",
         "type": "tabs",
-        "dimension": 30.61377245508982,
+        "dimension": 55.875,
         "children": [
           {
             "id": "6a0cbb91ce9cad30",
@@ -229,7 +207,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-05 Sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -257,15 +234,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of  2025-01-05 Sun"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,7 +262,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f8d2632fb163db",
+  "active": "c5cb38fe8fbf635f",
   "lastOpenFiles": [
     "06 - Daily/2025/01/ 2025-01-05 Sun.md",
     "06 - Daily/2025/01/2025-01-04 Sat.md",
