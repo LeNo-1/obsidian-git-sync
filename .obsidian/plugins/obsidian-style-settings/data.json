@@ -82,7 +82,7 @@
   "blue-topaz-theme@@layout-style-options": "layout-style-options-default",
   "blue-topaz-theme@@font-family-change-to-default": false,
   "blue-topaz-theme@@bt-status-on": true,
-  "blue-topaz-theme@@color-scheme-options": "null",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-honey-milk-topaz",
   "blue-topaz-theme@@background-image-settings-switch": false,
   "blue-topaz-theme@@toggle-nonoverlapping-bg": false,
   "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-theme-light-in-the-note",
@@ -121,9 +121,9 @@
   "blue-topaz-theme@@toggle-divider-lines": false,
   "blue-topaz-theme@@toggle-header-bottom-line": false,
   "things-style@@mobile-black-background": false,
-  "things-style@@floating-button-off": false,
+  "things-style@@floating-button-off": true,
   "things-style@@active-line": true,
-  "things-style@@default-font-color": false,
+  "things-style@@default-font-color": true,
   "blue-topaz-theme@@accent-strong@@light": "#C70909",
   "shimmering-focus@@normal-tab-bar": false,
   "shimmering-focus@@show-new-tab-button": false,
@@ -137,5 +137,7 @@
   "Editor@@bold-color@@dark": "#BA3F38",
   "Editor@@italic-color@@dark": "#1CA260",
   "Editor@@bold-color@@light": "#4E2B2B",
-  "Editor@@inline-code-normal@@dark": "#1F788F"
+  "Editor@@inline-code-normal@@dark": "#1F788F",
+  "things-style@@link-external-decoration": "Underline",
+  "things-style@@link-decoration": "None"
 }
