@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md",
+                "file": "06 - Daily/2025/01/ 2025-01-06 Mon.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Notes"
+              "title": "2025-01-06 Mon"
             }
           }
         ]
@@ -168,8 +168,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -278,19 +278,14 @@
       "templates:Insert template": false,
       "markdown-importer:Open format converter": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
-      "templater-obsidian:Templater": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "c6f8d2632fb163db",
   "lastOpenFiles": [
+    "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2025/01/ 2025-01-06 Mon.md",
     "06 - Daily/2025/01/2025-01-04 Sat.md",
-    "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2025/01/ 2025-01-05 Sun.md",
     "06 - Daily/2025/01/ 2025-01-06 Mon.sync-conflict-20250106-194513-5KR6ZIC.md",
     "06 - Daily/2025/01/ 2025-01-05 Sun.sync-conflict-20250105-163924-IQJAD6N.md",
