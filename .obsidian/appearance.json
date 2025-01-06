@@ -7,7 +7,6 @@
   "accentColor": "#b0d5e3",
   "enabledCssSnippets": [
     "Notebook Backgrounds",
-    "extended-colorschemes",
-    "Cards"
+    "extended-colorschemes"
   ]
 }

@@ -59,7 +59,7 @@
   "anuppuccin-theme-settings@@anp-cursor": "initial",
   "anuppuccin-theme-settings@@anp-status-bar-select": "anp-fixed-status-bar",
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
-  "anuppuccin-theme-settings@@anp-hide-status-bar": true,
+  "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
   "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
@@ -144,5 +144,12 @@
   "things-style@@strong-color": "#FF6666",
   "things-style@@em-color": "#DFBFFF",
   "things-style@@progress-color": true,
-  "things-style@@progress-color-5": "#11C675"
+  "things-style@@progress-color-5": "#11C675",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-dark": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-extended": "ctp-atom-light",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-light": true,
+  "anuppuccin-theme-settings-extended@@catppuccin-theme-dark-extended": "ctp-notion-dark",
+  "anuppuccin-theme-settings-extended@@anp-theme-ext-amoled": true,
+  "anuppuccin-theme-settings@@anp-button-metadata-toggle": false,
+  "anuppuccin-theme-settings@@anp-toggle-preview": true
 }
