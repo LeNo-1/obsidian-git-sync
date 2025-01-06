@@ -13,7 +13,8 @@ done on {{date}}
 - [ ] 1. 
 - [ ] 2. 
 - [ ] 3. 
-## School 
+## School
+
 
 # Journal
 
