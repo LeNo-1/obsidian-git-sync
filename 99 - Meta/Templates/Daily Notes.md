@@ -13,7 +13,7 @@ done on {{date}}
 - [ ] 1. 
 - [ ] 2. 
 - [ ] 3. 
-## Note
+## School 
 
 # Journal
 
