@@ -53,9 +53,24 @@
               "icon": "lucide-file",
               "title": "Links"
             }
+          },
+          {
+            "id": "83bf1a36d4632a5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 - Daily/2025/01/ 2025-01-08 Wed.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-08 Wed"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -112,7 +127,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -319,15 +334,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "683bf241765d7b2d",
+  "active": "83bf1a36d4632a5c",
   "lastOpenFiles": [
-    "02 - Areas/Games/Minecraft/MODS.md",
-    "02 - Areas/Games/Minecraft/Links.md",
+    "99 - Meta/Templates/Daily Notes.md",
+    "06 - Daily/2025/01/ 2025-01-05 Sun.sync-conflict-20250108-103811-5KR6ZIC.md",
+    "06 - Daily/2025/01/ 2025-01-08 Wed.md",
     "00 - M.O.C/0 -HomePage-.md",
+    "02 - Areas/Games/Minecraft/Links.md",
+    "02 - Areas/Games/Minecraft/MODS.md",
     "04 - Permanent/Chapters/Work, Energy and Power.md",
     "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
     "06 - Daily/2025/01/ 2025-01-06 Mon.md",
-    "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2025/01/2025-01-04 Sat.md",
     "06 - Daily/2025/01/ 2025-01-05 Sun.md",
     "06 - Daily/2025/01/ 2025-01-06 Mon.sync-conflict-20250106-194513-5KR6ZIC.md",
@@ -349,9 +366,7 @@
     "06 - Daily/2025",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
-    "06 - Daily/2024/12/2024-12-31 Tue (New Years Resolution).md",
     "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
-    "06 - Daily/2024/12/ 2024-12-23 Mon.md",
     "02 - Areas/Computer Science/CS50 2024",
     "02 - Areas/Computer Science/Java",
     "06 - Daily/2024/12",
