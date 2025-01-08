@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6f8d2632fb163db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/Chapters/Work, Energy and Power.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Work, Energy and Power"
-            }
-          },
-          {
             "id": "683bf241765d7b2d",
             "type": "leaf",
             "pinned": true,
@@ -40,21 +25,6 @@
             }
           },
           {
-            "id": "78200bd7aa55288a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Areas/Games/Minecraft/Links.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Links"
-            }
-          },
-          {
             "id": "83bf1a36d4632a5c",
             "type": "leaf",
             "state": {
@@ -68,9 +38,24 @@
               "icon": "lucide-file",
               "title": "2025-01-08 Wed"
             }
+          },
+          {
+            "id": "5b39475d52349c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - M.O.C/4 -Physics-.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4 -Physics-"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -336,13 +321,14 @@
   },
   "active": "83bf1a36d4632a5c",
   "lastOpenFiles": [
-    "99 - Meta/Templates/Daily Notes.md",
-    "06 - Daily/2025/01/ 2025-01-05 Sun.sync-conflict-20250108-103811-5KR6ZIC.md",
+    "00 - M.O.C/4 -Physics-.md",
     "06 - Daily/2025/01/ 2025-01-08 Wed.md",
     "00 - M.O.C/0 -HomePage-.md",
     "02 - Areas/Games/Minecraft/Links.md",
-    "02 - Areas/Games/Minecraft/MODS.md",
     "04 - Permanent/Chapters/Work, Energy and Power.md",
+    "99 - Meta/Templates/Daily Notes.md",
+    "06 - Daily/2025/01/ 2025-01-05 Sun.sync-conflict-20250108-103811-5KR6ZIC.md",
+    "02 - Areas/Games/Minecraft/MODS.md",
     "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
     "06 - Daily/2025/01/ 2025-01-06 Mon.md",
     "06 - Daily/2025/01/2025-01-04 Sat.md",
@@ -364,7 +350,6 @@
     "00 - M.O.C/7 -Irish-.md",
     "06 - Daily/2025/01",
     "06 - Daily/2025",
-    "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
     "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
     "02 - Areas/Computer Science/CS50 2024",
