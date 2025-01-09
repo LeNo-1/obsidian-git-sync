@@ -200,8 +200,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -261,7 +261,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-05 Sun.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,15 +288,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of  2025-01-05 Sun"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -321,8 +319,8 @@
   "active": "683bf241765d7b2d",
   "lastOpenFiles": [
     "06 - Daily/2025/01/ 2025-01-08 Wed.md",
-    "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/0 -HomePage-.md",
+    "00 - M.O.C/4 -Physics-.md",
     "02 - Areas/Games/Minecraft/Links.md",
     "04 - Permanent/Chapters/Work, Energy and Power.md",
     "99 - Meta/Templates/Daily Notes.md",

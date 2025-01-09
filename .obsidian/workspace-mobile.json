@@ -15,28 +15,13 @@
               "type": "markdown",
               "state": {
                 "file": "00 - M.O.C/0 -HomePage-.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
               "title": "0 -HomePage-"
-            }
-          },
-          {
-            "id": "ac0fa5b063709932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 - Permanent/0 -Binder/'A Call' by Seamus Heaney.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "'A Call' by Seamus Heaney"
             }
           },
           {
@@ -54,8 +39,7 @@
               "title": "2025-01-08 Wed"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,13 +127,13 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "06 - Daily/2025/01/ 2025-01-06 Mon.md",
+            "file": "06 - Daily/2025/01/ 2025-01-08 Wed.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
             "searchQuery": "",
-            "backlinkCollapsed": false,
+            "backlinkCollapsed": true,
             "unlinkedCollapsed": true
           },
           "icon": "links-coming-in",
@@ -162,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "06 - Daily/2025/01/ 2025-01-05 Sun.md",
+            "file": "06 - Daily/2025/01/ 2025-01-08 Wed.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -188,8 +172,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -213,14 +197,11 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "left-ribbon": {
     "hiddenItems": {
       "markdown-importer:Open format converter": false,
-      "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -229,16 +210,19 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "homepage:Open homepage": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ec882d4d6bc715d",
+  "active": "e753f0ef995ad109",
   "lastOpenFiles": [
-    "00 - M.O.C/0 -HomePage-.md",
     "06 - Daily/2025/01/ 2025-01-08 Wed.md",
+    "00 - M.O.C/0 -HomePage-.md",
     "04 - Permanent/0 -Binder/'A Call' by Seamus Heaney.md",
     "04 - Permanent/0 -Branches/Sheamus Heaney.md",
     "Algebra 2.md",
