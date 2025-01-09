@@ -3,4 +3,5 @@
 
 The SI Unit of work is Joules(J)
 
-$E$
+$$E_k = \frac{1}{2}mv^2$$
+:LiArrowBigUpDash: 
