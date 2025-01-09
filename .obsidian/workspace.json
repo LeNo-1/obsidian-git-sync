@@ -60,13 +60,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - M.O.C/1 -App. Maths-.md",
+                "file": "04 - Permanent/Chapters/Work, Energy and Power.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 -App. Maths-"
+              "title": "Work, Energy and Power"
             }
           }
         ],
@@ -261,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md",
+                "file": "04 - Permanent/Chapters/Work, Energy and Power.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0 -HomePage-"
+              "title": "Graph of Work, Energy and Power"
             }
           }
         ]
@@ -317,8 +317,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a0cbb91ce9cad30",
+  "active": "79da9e021fdc95b0",
   "lastOpenFiles": [
+    "00 - M.O.C/1 -App. Maths-.md",
     "00 - M.O.C/0 -HomePage-.md",
     "99 - Meta/Templates/Daily Notes.md",
     "06 - Daily/2025/01/ 2025-01-09 Thu.md",
@@ -346,7 +347,6 @@
     "_debug_remotely_save/sync_plans_hist_exported_on_1735939452452.md",
     "_debug_remotely_save",
     "02 - Areas/Languages/Irish/Irish- RoadMap.md",
-    "00 - M.O.C/7 -Irish-.md",
     "06 - Daily/2025/01",
     "06 - Daily/2025",
     "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
