@@ -15,7 +15,7 @@
               "type": "markdown",
               "state": {
                 "file": "00 - M.O.C/0 -HomePage-.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -111,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "c55bf128edf3f20e",

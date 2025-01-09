@@ -1,6 +1,5 @@
 _____________________________________________________________
-<--            :LiSunrise:            -->
-`="[[" + dateformat(date(yesterday), "yyyy-MM-dd") + "]]"` `="[[" + dateformat(date(today), "yyyy-MM-dd") + "]]"` `="[[" + dateformat(date(tomorrow), "yyyy-MM-dd") + "]]"` 
+⏮ `="[[" + dateformat(date(yesterday), "yyyy-MM-dd") + "]]"` `="[[" + dateformat(date(today), "yyyy-MM-dd") + "]]"` `="[[" + dateformat(date(tomorrow), "yyyy-MM-dd") + "]]"` ⏭
 ## Academic Centre
 #AcedemicCentre 
 [[1 -App. Maths-]]
