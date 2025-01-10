@@ -3,5 +3,9 @@
 
 The SI Unit of work is Joules(J)
 
+###### :LiArrowBigDownDash: Formula for Kinetic Energy
+
 $$E_k = \frac{1}{2}mv^2$$
-:LiArrowBigUpDash: 
+
+###### :LiArrowBigDownDash: Formula for Gravitational Potential Energy
+$$E_P=mgh$$

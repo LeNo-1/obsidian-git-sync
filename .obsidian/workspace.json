@@ -61,7 +61,7 @@
               "type": "markdown",
               "state": {
                 "file": "04 - Permanent/Chapters/Work, Energy and Power.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
@@ -69,8 +69,7 @@
               "title": "Work, Energy and Power"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,7 +295,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,7 +317,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "79da9e021fdc95b0",
+  "active": "683bf241765d7b2d",
   "lastOpenFiles": [
     "00 - M.O.C/1 -App. Maths-.md",
     "00 - M.O.C/0 -HomePage-.md",
