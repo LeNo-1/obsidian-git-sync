@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "Notebook Backgrounds",
     "extended-colorschemes"
-  ]
+  ],
+  "nativeMenus": true
 }
