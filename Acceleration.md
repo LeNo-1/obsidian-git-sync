@@ -5,5 +5,9 @@
 
 ## Formulae
 $$v=u+at$$
-$$v^{2}=u$$
-$$$$
+$$v^{2}=u^{2}+2as$$
+$$s=ut+\frac{1}{2}at^2$$
+### Deriving formulae
+###### Deriving v=u+at
+$$a=\frac{v-u}{t}\rightarrow v-u=at\rightarrow v=u+at$$
+###### De
