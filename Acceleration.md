@@ -8,6 +8,8 @@ $$v=u+at$$
 $$v^{2}=u^{2}+2as$$
 $$s=ut+\frac{1}{2}at^2$$
 ### Deriving formulae
-###### Deriving v=u+at
+###### Deriving $v=u+at$
 $$a=\frac{v-u}{t}\rightarrow v-u=at\rightarrow v=u+at$$
-###### De
+###### Deriving $s=ut+\frac{1}{2}at^2$
+$$s=(\frac{v+u}{2})t\rightarrow s=(\frac{u+u+at}{2})\rightarrow s=(\frac{2ut}{2})+\frac{at}{2} \rightarrow s=ut+\frac{1}{2}at^2$$
+###### Deriving $$
