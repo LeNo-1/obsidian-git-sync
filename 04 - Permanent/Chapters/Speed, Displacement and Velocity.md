@@ -15,3 +15,6 @@
 
 ### Velocity
 >[!NOTE] **Velocity** is the rate of change of *displacement* with respect to time
+- The SI unit of velocity is the $ms^{-1}$
+- $Average Velocity=\frac{Displacement Distance}{Time Taken}$
+- -> Velocity is a *vector quantity*
