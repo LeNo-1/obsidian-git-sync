@@ -9,3 +9,5 @@ $$E_k = \frac{1}{2}mv^2$$
 
 ###### :LiArrowBigDownDash: Formula for Gravitational Potential Energy
 $$E_P=mgh$$
+#### :LiBarChart: Kinetic energy is inversely proportional to Gravitational energy
+#### $\frac{1}{2}mv^2+mgh=E$ 
