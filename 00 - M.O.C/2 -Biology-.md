@@ -4,11 +4,11 @@ tags:
 Teacher: Ms. Brody
 ---
 ### Chapters (5th Yr.)
-1. [[Scientific Method]]!
+1. [[Scientific Method]]
 2. [[The Characteristics of Life]]
 3. [[]]
-4. [[Cell Diversity]]!
-5. [[Cell Continuity]]!
+4. [[Cell Diversity]]
+5. [[Cell Continuity]]
 6. [[Movement Through Cell Membranes]]
 7. [[Diversity of Organisms]]
 8. [[Cell Structure and Microscopy]]
