@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "2025-01-17 Fri"
             }
+          },
+          {
+            "id": "9d790769d718854a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -237,7 +253,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-17 Fri.md",
+                "file": "conflict-files-obsidian-git.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +281,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of  2025-01-17 Fri"
+              "title": "Graph of conflict-files-obsidian-git"
             }
           }
         ]
@@ -289,14 +305,16 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c6638f94b623716",
+  "active": "9d790769d718854a",
   "lastOpenFiles": [
+    "06 - Daily/2025/01/ 2025-01-17 Fri.md",
+    "conflict-files-obsidian-git.md",
     "04 - Permanent/Chapters/Colscaradh.md",
     "Analytics.md",
-    "06 - Daily/2025/01/ 2025-01-17 Fri.md",
     "00 - M.O.C/0 -HomePage-.md",
     "00 - M.O.C/7 -Irish-.md",
     "04 - Permanent/Chapters/Vectors and Scalars.md",
@@ -315,7 +333,6 @@
     "Vectors and Scalars.md",
     "Acceleration.md",
     "04 - Permanent/Chapters/Speed, Displacement and Velocity.md",
-    "conflict-files-obsidian-git.md",
     "99 - Meta/Templates/Daily Notes.md",
     "04 - Permanent/Chapters/Algebra 2.md",
     "06 - Daily/2025/01/ 2025-01-08 Wed.md",
