@@ -8,20 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "683bf241765d7b2d",
+            "id": "3c6638f94b623716",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md",
+                "file": "06 - Daily/2025/01/ 2025-01-17 Fri.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "0 -HomePage-"
+              "title": "2025-01-17 Fri"
             }
           }
         ],
@@ -91,7 +89,7 @@
       {
         "id": "262c67dfd41553fd",
         "type": "tabs",
-        "dimension": 55.879180151024805,
+        "dimension": 27.95275590551181,
         "children": [
           {
             "id": "3e25589f955c65ac",
@@ -171,8 +169,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -205,9 +203,33 @@
         "currentTab": 5
       },
       {
+        "id": "46b0e9fc8d71a696",
+        "type": "tabs",
+        "dimension": 38.48425196850393,
+        "children": [
+          {
+            "id": "683bf241765d7b2d",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - M.O.C/0 -HomePage-.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "0 -HomePage-"
+            }
+          }
+        ]
+      },
+      {
         "id": "4eb8e6cdee976020",
         "type": "tabs",
-        "dimension": 44.12081984897519,
+        "dimension": 33.56299212598425,
         "children": [
           {
             "id": "6a0cbb91ce9cad30",
@@ -215,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Permanent/Chapters/Work, Energy and Power.md",
+                "file": "06 - Daily/2025/01/ 2025-01-17 Fri.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,18 +265,18 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Work, Energy and Power"
+              "title": "Graph of  2025-01-17 Fri"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -268,18 +290,28 @@
       "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "683bf241765d7b2d",
+  "active": "3c6638f94b623716",
   "lastOpenFiles": [
+    "04 - Permanent/Chapters/Colscaradh.md",
+    "00 - M.O.C/0 -HomePage-.md",
+    "00 - M.O.C/7 -Irish-.md",
+    "04 - Permanent/Chapters/Vectors and Scalars.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "00 - M.O.C/6 -English-.md",
+    "Excalidraw/Drawing 2025-01-16 17.24.02.excalidraw.md",
+    "Analytics.md",
+    "04 - Permanent/Chapters/Work, Energy and Power.sync-conflict-20250114-212557-5KR6ZIC.md",
+    "04 - Permanent/Chapters/Work, Energy and Power.md",
+    "04 - Permanent/Chapters/Circular Motion.md",
+    "99 - Meta/Images/Pasted image 20250116142719.webp",
+    "00 - M.O.C/3 -Comp. Sci.-.md",
     "06 - Daily/2025/01/ 2025-01-16 Thu.md",
     "06 - Daily/2025/01/ 2025-01-15 Wed.md",
     "00 - M.O.C/2 -Biology-.md",
-    "00 - M.O.C/0 -HomePage-.md",
     "06 - Daily/2025/01/ 2025-01-13 Mon.md",
-    "00 - M.O.C/4 -Physics-.md",
     "Vectors and Scalars.md",
     "Acceleration.md",
     "04 - Permanent/Chapters/Speed, Displacement and Velocity.md",
@@ -288,18 +320,8 @@
     "04 - Permanent/Chapters/Algebra 2.md",
     "06 - Daily/2025/01/ 2025-01-08 Wed.md",
     "06 - Daily/2025/01/ 2025-01-09 Thu.md",
-    "04 - Permanent/Chapters/Work, Energy and Power.md",
     "00 - M.O.C/1 -App. Maths-.md",
     "02 - Areas/Games/Minecraft/Links.md",
-    "06 - Daily/2025/01/ 2025-01-05 Sun.sync-conflict-20250108-103811-5KR6ZIC.md",
-    "02 - Areas/Games/Minecraft/MODS.md",
-    "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
-    "06 - Daily/2025/01/ 2025-01-06 Mon.md",
-    "06 - Daily/2025/01/2025-01-04 Sat.md",
-    "06 - Daily/2025/01/ 2025-01-05 Sun.md",
-    "06 - Daily/2025/01/ 2025-01-06 Mon.sync-conflict-20250106-194513-5KR6ZIC.md",
-    "06 - Daily/2025/01/ 2025-01-05 Sun.sync-conflict-20250105-163924-IQJAD6N.md",
-    "06 - Daily/2025/01/ 2025-01-05 Sun.sync-conflict-20250105-220127-5KR6ZIC.md",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",
     "06 - Daily/2025/01",
@@ -320,7 +342,6 @@
     "Remote Git/publish/attachments/github-secrets-vercel.png",
     "Remote Git/publish/attachments/vercel-account-id.png",
     "Remote Git/publish/attachments/publish-dir-yml.png",
-    "Remote Git/publish/attachments/how-linked-blog-starter-works.png",
     "Untitled.canvas",
     "Flow Chart.canvas",
     "02 - Areas/Books/Library.canvas"
