@@ -1,5 +1,0 @@
-# This directory is a Syncthing folder marker.
-# Do not delete.
-
-folderID: hyzmo-ru2t2
-created: 2025-01-05T13:23:24Z
