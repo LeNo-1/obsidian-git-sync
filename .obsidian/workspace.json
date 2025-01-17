@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-17 Fri.md",
+                "file": "04 - Permanent/Chapters/Colscaradh.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-17 Fri"
+              "title": "Colscaradh"
             }
           }
         ],
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-17 Fri.md",
+                "file": "04 - Permanent/Chapters/Colscaradh.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,7 +265,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of  2025-01-17 Fri"
+              "title": "Graph of Colscaradh"
             }
           }
         ]
@@ -295,6 +295,8 @@
   },
   "active": "3c6638f94b623716",
   "lastOpenFiles": [
+    "Analytics.md",
+    "06 - Daily/2025/01/ 2025-01-17 Fri.md",
     "04 - Permanent/Chapters/Colscaradh.md",
     "00 - M.O.C/0 -HomePage-.md",
     "00 - M.O.C/7 -Irish-.md",
@@ -302,7 +304,6 @@
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/6 -English-.md",
     "Excalidraw/Drawing 2025-01-16 17.24.02.excalidraw.md",
-    "Analytics.md",
     "04 - Permanent/Chapters/Work, Energy and Power.sync-conflict-20250114-212557-5KR6ZIC.md",
     "04 - Permanent/Chapters/Work, Energy and Power.md",
     "04 - Permanent/Chapters/Circular Motion.md",
@@ -321,7 +322,6 @@
     "06 - Daily/2025/01/ 2025-01-08 Wed.md",
     "06 - Daily/2025/01/ 2025-01-09 Thu.md",
     "00 - M.O.C/1 -App. Maths-.md",
-    "02 - Areas/Games/Minecraft/Links.md",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",
     "06 - Daily/2025/01",
