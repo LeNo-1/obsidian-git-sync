@@ -15,6 +15,20 @@
 | hace dos dias                   | 2 days ago                        |
 | hace una semana                 | a week ago                        |
 |                                 |                                   |
+## Los Jovenes
+
+| **Spanish**               | **English** |
+| ------------------------- | ----------- |
+| crecer                    |             |
+| cuestionar la autoridad   |             |
+| defar en paz              |             |
+| estar a dieta             |             |
+| experimentar              |             |
+| hacer cosas por sí mismos |             |
+| independizarse            |             |
+| mostrar falta de respeto  |             |
+| rebelarse cont            |             |
+
 ## Los peligros de tomar alcohol
 
 | **Spanish**       | **English**      |
@@ -24,15 +38,9 @@
 | ser consciente de | to be aware      |
 | deprimodo         | depressed        |
 | la confianza      | confidence       |
-| el crecimiento    | to free yourself |
-| la falta de       | growth           |
-| los peligros      | the lack of      |
-| una resaca        | dangers          |
-| un trastorno      | a hangover       |
-|                   |                  |
-
-##
-
-|     |     |
-| --- | --- |
-|     |     |
+| liberarse         | to free yourself |
+| el crecimiento    | growth           |
+| la falta de       | the lack of      |
+| los peligros      | dangers          |
+| una resaca        | a hangover       |
+| un trastorno      | a disorder       |
