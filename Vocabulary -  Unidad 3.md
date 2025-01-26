@@ -14,20 +14,35 @@
 | el ano pasado                   | last year                         |
 | hace dos dias                   | 2 days ago                        |
 | hace una semana                 | a week ago                        |
-|                                 |                                   |
+
 ## Los Jovenes
 
-| **Spanish**               | **English** |
-| ------------------------- | ----------- |
-| crecer                    |             |
-| cuestionar la autoridad   |             |
-| defar en paz              |             |
-| estar a dieta             |             |
-| experimentar              |             |
-| hacer cosas por sí mismos |             |
-| independizarse            |             |
-| mostrar falta de respeto  |             |
-| rebelarse cont            |             |
+| **Spanish**               | **English**           |
+| ------------------------- | --------------------- |
+| crecer                    | to grow               |
+| cuestionar la autoridad   | to question authority |
+| defar en paz              |                       |
+| estar a dieta             |                       |
+| experimentar              |                       |
+| hacer cosas por sí mismos |                       |
+| independizarse            |                       |
+| mostrar falta de respeto  |                       |
+| rebelarse contra          |                       |
+| ser aceptado              |                       |
+| ser menor de edad         |                       |
+| ser rebelde               |                       |
+| ser vulnerable            |                       |
+| sentirse inseguro         |                       |
+| hay tanta presión         |                       |
+| a los ojos de sus amigos  |                       |
+| el conflicto generacional |                       |
+| el cuerpo ideal           |                       |
+| el desarrollo             |                       |
+| una imagen irreal         |                       |
+| la inseguridad            |                       |
+| la juventud               |                       |
+| la presión del grupo      |                       |
+| la slud mental            |                       |
 
 ## Los peligros de tomar alcohol
 
