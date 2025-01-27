@@ -1,11 +1,11 @@
 >[!note] Used for actions *completed in the past*
 ### -AR verbs
 
-|                     | **-AR** |            |
-| ------------------- | ------- | ---------- |
-| yo                  | -é      | Hablar     |
-| tú                  | -áste   | habl*é*    |
-| él/ella/usted       | -ó      | habl       |
-| nosotros/as         | -amos   | habl       |
-| vosotros/as         | -asteis | habl*      |
-| ellos/ellas/ustedes | -aron   | habl*aron* |
+|                     | **-AR** | **Hablar**   |
+| ------------------- | ------- | ------------ |
+| yo                  | -é      | habl*é*      |
+| tú                  | -áste   | habl*aste*   |
+| él/ella/usted       | -ó      | habl*ó*      |
+| nosotros/as         | -amos   | habl*amos*   |
+| vosotros/as         | -asteis | habl*asteis* |
+| ellos/ellas/ustedes | -aron   | habl*aron*   |
