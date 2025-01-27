@@ -1,5 +1,5 @@
 >[!note] Used for actions *completed in the past*
-### -AR verbs
+### -AR Verbs
 
 |                     | **-AR** | **HABLAR**   |
 | ------------------- | ------- | ------------ |
@@ -9,12 +9,23 @@
 | nosotros/as         | -amos   | habl*amos*   |
 | vosotros/as         | -asteis | habl*asteis* |
 | ellos/ellas/ustedes | -aron   | habl*aron*   |
+### -ER/-IR Verbs
 
-|                     | **-ER/-IR** | **COMER**   | **VIVIR** |
-| ------------------- | ----------- | ----------- | --------- |
-| yo                  | -é          | com         |           |
-| tú                  | -áste       | com         |           |
-| él/ella/usted       | -ó          | com**       |           |
-| nosotros/as         | -amos       | com*ió*     |           |
-| vosotros/as         | -asteis     | com*isteis* |           |
-| ellos/ellas/ustedes | -aron       | com*ieron*  |           |
+|                     | **-ER/-IR** | **COMER**   | **VIVIR**   |
+| ------------------- | ----------- | ----------- | ----------- |
+| yo                  | -é          | com*í*      | viv*í*      |
+| tú                  | -áste       | com*iste*   | viv*iste*   |
+| él/ella/usted       | -ó          | com*ió*     | viv*ió*     |
+| nosotros/as         | -amos       | com*imos*   | viv*imos*   |
+| vosotros/as         | -asteis     | com*isteis* | viv*isteis* |
+| ellos/ellas/ustedes | -aron       | com*ieron*  | viv*ieron*  |
+## Los Verbos Irregulares
+
+|         | IR  | SER | VENIR | A   |     |     |     |     |
+| ------- | --- | --- | ----- | --- | --- | --- | --- | --- |
+| ****    |     |     |       |     |     |     |     |     |
+| yo      |     |     |       |     |     |     |     |     |
+| el/ella |     |     |       |     |     |     |     |     |
+| nos...  |     |     |       |     |     |     |     |     |
+| vos...  |     |     |       |     |     |     |     |     |
+| ellos   |     |     |       |     |     |     |     |     |
