@@ -21,11 +21,11 @@
 | ellos/ellas/ustedes | -aron       | com*ieron*  | viv*ieron*  |
 ## Los Verbos Irregulares
 
-|         | **IR**  | **SER** | **VENIR** | **ANDAIR** | **ESTAR** | **TENER** | **DECIR** | **DAR** | **VER** | **HACER** | **QUERER** | **PONER** | **PODER** | **LEER** | **SABER** |
-| ------- | ------- | ------- | --------- | ---------- | --------- | --------- | --------- | ------- | ------- | --------- | ---------- | --------- | --------- | -------- | --------- |
-| **Eng** | (to go) | (to be) | (to come) | ()         |           |           |           |         |         |           |            |           |           |          |           |
-| yo      |         |         |           |            |           |           |           |         |         |           |            |           |           |          |           |
-| el/e    |         |         |           |            |           |           |           |         |         |           |            |           |           |          |           |
-| nos...  |         |         |           |            |           |           |           |         |         |           |            |           |           |          |           |
-| vos...  |         |         |           |            |           |           |           |         |         |           |            |           |           |          |           |
-| ellos   |         |         |           |            |           |           |           |         |         |           |            |           |           |          |           |
+|         | **IR**   | **SER** | **VENIR** | **ANDAIR** | **ESTAR** | **TENER** | **DECIR** | **DAR**   | **VER**  | **HACER** | **QUERER** | **PONER** | **PODER**    | **LEER**  | **SABER** |
+| ------- | -------- | ------- | --------- | ---------- | --------- | --------- | --------- | --------- | -------- | --------- | ---------- | --------- | ------------ | --------- | --------- |
+| **Eng** | (to go)  | (to be) | (to come) | (to walk)  | (to be)   | (to have) | (to say)  | (to give) | (to see) | (to do)   | (to want)  | (to put)  | (to be able) | (to read) | (to know) |
+| yo      | fui      |         |           |            |           |           |           |           |          |           |            |           |              |           |           |
+| el/e    | fuiste   |         |           |            |           |           |           |           |          |           |            |           |              |           |           |
+| nos...  | fue      |         |           |            |           |           |           |           |          |           |            |           |              |           |           |
+| vos...  | fuisteis |         |           |            |           |           |           |           |          |           |            |           |              |           |           |
+| ellos   | fueron   |         |           |            |           |           |           |           |          |           |            |           |              |           |           |
