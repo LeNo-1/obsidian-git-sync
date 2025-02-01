@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -237,7 +237,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-18 Sat.md",
+                "file": "Collisions and Impacts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -265,15 +265,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of  2025-01-18 Sat"
+              "title": "Graph of Collisions and Impacts"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {

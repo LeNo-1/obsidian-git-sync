@@ -1,5 +1,5 @@
-## Momentum and Impulse
-##
+# Momentum and Impulse
+## Momentum
 $$Momentum = Mass\times Velocity$$
 - Measured in $kg\space m\space s^{-1}$ (*Newtons second Ns*)
 
@@ -9,3 +9,8 @@ $$Momentum = Mass\times Velocity$$
 $$m_1u_1 +m_2u_2=m_1v_1+m_2v_2$$
 - If the bodies **coalesce** after collision:
 $$m_1u_1 +m_2u_2=(m_1+m_2)v$$
+## Impulse
+$$F=\frac{mv-mu}{t}\rightarrow Ft=mv-mu\rightarrow Impulse = mv-mu$$
+- Impulse is *Change in Momentum*
+
+# Collisions with Solid Surfaces and Bouncing Project
