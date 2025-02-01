@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El pretérito indefinido.md",
+                "file": "00 - M.O.C/7 -Irish-.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "El pretérito indefinido"
+              "title": "7 -Irish-"
             }
           }
         ],
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -297,17 +296,23 @@
   },
   "active": "ee29ef36fb9032cc",
   "lastOpenFiles": [
+    "00 - M.O.C/6 -English-.md",
+    "00 - M.O.C/5 -Maths-.md",
+    "04 - Permanent/Chapters/Algebra 3.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "00 - M.O.C/1 -App. Maths-.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "00 - M.O.C/0 -HomePage-.md",
+    "06 - Daily/2025/02/ 2025-02-01 Sat.md",
+    "04 - Permanent/0 -Binder/El pretérito indefinido.md",
+    "06 - Daily/2025/02",
     "00 - M.O.C/8 -Spanish-.md",
-    "El pretérito indefinido.md",
     "04 - Permanent/Chapters/Analytics.md",
     "04 - Permanent/0 -Binder/Vocabulary -  Unidad 3.md",
     "Untitled.md",
     "06 - Daily/2025/01/ 2025-01-27 Mon.md",
     "06 - Daily/2025/01/ 2025-01-26 Sun.md",
     "04 - Permanent/Chapters/Algebra 2.md",
-    "00 - M.O.C/5 -Maths-.md",
-    "04 - Permanent/Chapters/Algebra 3.md",
-    "00 - M.O.C/0 -HomePage-.md",
     "06 - Daily/2025/01/ 2025-01-21 Tue.md",
     "06 - Daily/2025/01/ 2025-01-18 Sat.md",
     "06 - Daily/2025/01/ 2025-01-17 Fri.md",
@@ -315,15 +320,10 @@
     "04 - Permanent/Chapters/Colscaradh.md",
     "00 - M.O.C/7 -Irish-.md",
     "04 - Permanent/Chapters/Vectors and Scalars.md",
-    "00 - M.O.C/4 -Physics-.md",
-    "00 - M.O.C/6 -English-.md",
     "Excalidraw/Drawing 2025-01-16 17.24.02.excalidraw.md",
     "04 - Permanent/Chapters/Work, Energy and Power.sync-conflict-20250114-212557-5KR6ZIC.md",
     "04 - Permanent/Chapters/Work, Energy and Power.md",
-    "04 - Permanent/Chapters/Circular Motion.md",
     "99 - Meta/Images/Pasted image 20250116142719.webp",
-    "00 - M.O.C/3 -Comp. Sci.-.md",
-    "06 - Daily/2025/01/ 2025-01-16 Thu.md",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",
     "06 - Daily/2025/01",
@@ -336,7 +336,6 @@
     "99 - Meta/Utility",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
     "02 - Areas/Literature/Bookshelf.canvas",
-    "02 - Areas/Languages/Spanish",
     "99 - Meta/Images/Biology Sheets-20240829225101621.webp",
     "99 - Meta/Images/alena-aenami-horizon-1k.jpg",
     "Remote Git/publish/attachments/vercel-project-id.png",
