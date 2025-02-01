@@ -10,6 +10,6 @@ Teacher: Ms. Butler
 3. [[Cáca Milis]]
 5. [[Hurlamboc]] 
 6. [[Colscaradh]]
-7. [[Mo Grá-sa ()]]
+7. [[Mo Grá-sa (idir )]]
 8. [[]]
 9. [[]]
