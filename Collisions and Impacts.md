@@ -13,4 +13,17 @@ $$m_1u_1 +m_2u_2=(m_1+m_2)v$$
 $$F=\frac{mv-mu}{t}\rightarrow Ft=mv-mu\rightarrow Impulse = mv-mu$$
 - Impulse is *Change in Momentum*
 
-# Collisions with Solid Surfaces and Bouncing Project
+# Collisions with Solid Surfaces and Bouncing Projectiles
+## Law of Restitution
+For one body:
+$$-e=\frac{v}{u}$$
+For two bodies:
+$$-e=\frac{v_2-v_1}{u_2-u_1}$$
+
+# Direct Collisions involving inequalities
+
+
+# Oblique Collisions
+
+
+##
