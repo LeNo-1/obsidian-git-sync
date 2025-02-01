@@ -9,5 +9,6 @@
     "Notebook Backgrounds",
     "extended-colorschemes"
   ],
-  "nativeMenus": true
+  "nativeMenus": true,
+  "showRibbon": false
 }

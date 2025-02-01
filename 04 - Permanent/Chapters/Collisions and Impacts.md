@@ -25,5 +25,3 @@ $$-e=\frac{v_2-v_1}{u_2-u_1}$$
 
 # Oblique Collisions
 
-
-##

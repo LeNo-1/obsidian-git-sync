@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Collisions and Impacts.md",
+                "file": "04 - Permanent/Chapters/Collisions and Impacts.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Collisions and Impacts"
             }
+          },
+          {
+            "id": "5b72a7cf580951d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -59,7 +72,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -237,7 +251,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Collisions and Impacts.md",
+                "file": "04 - Permanent/Chapters/Collisions and Impacts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,10 +308,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ee29ef36fb9032cc",
+  "active": "5b72a7cf580951d1",
   "lastOpenFiles": [
+    "04 - Permanent/Chapters/Collisions and Impacts.md",
     "00 - M.O.C/1 -App. Maths-.md",
-    "Collisions and Impacts.md",
     "04 - Permanent/Chapters/Circular Motion.md",
     "Simple Harmonic Motion + Hooke's Law.md",
     "00 - M.O.C/4 -Physics-.md",
