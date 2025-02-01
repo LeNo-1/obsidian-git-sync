@@ -11,4 +11,4 @@ Teacher: Ms. Dempsey
 4. [[Projectiles]]
 5. [[Work, Energy and Power]]
 6. [[Collisions and Impacts]]
-7. [[Cir]]
+7. [[Circular Motion]] [[Simple Harmonic Motion + Hooke's Law | Hooke's Law]]
