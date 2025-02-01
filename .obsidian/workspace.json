@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/Chapters/Collisions and Impacts.md",
+                "file": "04 - Permanent/0 -Binder/Roleplays.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Collisions and Impacts"
-            }
-          },
-          {
-            "id": "5b72a7cf580951d1",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "title": "Roleplays"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -308,8 +295,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5b72a7cf580951d1",
+  "active": "ee29ef36fb9032cc",
   "lastOpenFiles": [
+    "99 - Meta/0aba39ab-55ac-47ba-80a5-9710d114122e.pdf",
+    "00 - M.O.C/8 -Spanish-.md",
+    "04 - Permanent/0 -Binder/Roleplays.md",
     "04 - Permanent/Chapters/Collisions and Impacts.md",
     "00 - M.O.C/1 -App. Maths-.md",
     "04 - Permanent/Chapters/Circular Motion.md",
@@ -318,7 +308,6 @@
     "00 - M.O.C/3 -Comp. Sci.-.md",
     "00 - M.O.C/2 -Biology-.md",
     "00 - M.O.C/5 -Maths-.md",
-    "00 - M.O.C/8 -Spanish-.md",
     "00 - M.O.C/7 -Irish-.md",
     "00 - M.O.C/6 -English-.md",
     "04 - Permanent/Chapters/Algebra 3.md",
@@ -335,8 +324,6 @@
     "06 - Daily/2025/01/ 2025-01-21 Tue.md",
     "06 - Daily/2025/01/ 2025-01-18 Sat.md",
     "06 - Daily/2025/01/ 2025-01-17 Fri.md",
-    "conflict-files-obsidian-git.md",
-    "04 - Permanent/Chapters/Colscaradh.md",
     "99 - Meta/Images/Pasted image 20250116142719.webp",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",
