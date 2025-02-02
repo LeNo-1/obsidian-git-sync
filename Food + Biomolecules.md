@@ -29,8 +29,16 @@ Living organisms are *composed of elements*. Atoms of these elements *bond toget
 # Biomolecules
 > [!NOTE] A **biomolecule** is a molecule found in *living organisms*
 
-1. Lipids - fats and oils
-2. Carbohydrates
+1. Carbohydrates 
+2. Lipids - fats and oils
 3. Vitamins
 4. Proteins
 **DNA** and **RNA** are other examples of important biomolecules in our body
+
+## Carbohydrates
+### Elements
+$$C_x(H_2O)y$$
+ - Where x=y
+### Structure
+- The smallest unit of a carbohydrate is a *monosaccharide*
+$$Sugar\space Units $$
