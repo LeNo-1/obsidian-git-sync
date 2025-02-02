@@ -42,5 +42,15 @@ $$C_x(H_2O)y$$
 ### Structure
 - The smallest unit of a carbohydrate is a *monosaccharide*
         $\nearrow Monosaccharide\space (1)$
-$\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$
-        $\searrow Polysaccharide\space (2+)$ 
+$\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$ 
+        $\searrow Polysaccharide\space (2+)$
+
+### Functions
+#### A) Structural
+**Cellulose** : Plant Cell Walls
+**Chitin** : Fungi Cell Walls
+
+#### B) Metabolic
+**Glucose** : Energy Source 
+**Starch** : Energy Store in Plants
+
