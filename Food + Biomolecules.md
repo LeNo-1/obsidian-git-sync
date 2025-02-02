@@ -4,7 +4,7 @@
 2. To provide the raw *materials needed for growth and repair*
 
 ## Elements in Food
-Living organisms are *composed of elements*. Atoms of these elements bond together in different ratios to form molecule called **biomolecules** 
+Living organisms are *composed of elements*. Atoms of these elements *bond together in different ratios* to form molecule called **biomolecules** 
 
 ## The Six Most Common Elements in Food are:
 1. Carbon (C)
@@ -26,4 +26,11 @@ Living organisms are *composed of elements*. Atoms of these elements bond togeth
 2. Iron
 3. Copper
 
-# Bio 
+# Biomolecules
+> [!NOTE] A **biomolecule** is a molecule found in *living organisms*
+
+1. Lipids - fats and oils
+2. Carbohydrates
+3. Vitamins
+4. Proteins
+**DNA** and **RNA** are other examples of important biomolecules in our body
