@@ -53,4 +53,9 @@ $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$
 #### B) Metabolic
 **Glucose** : Energy Source 
 **Starch** : Energy Store in Plants
+**Glycogen** : Energy Store in Animals (Liver, Muscle, Brain)
 
+# Experiments
+## To Test for Carbohydrates
+**Starch**: Starch turns *iodine* from *brown* to *blue-black*
+**Reducing Sugar**: When heated with *Benedict's Solution*, they turn it from *blue* to brick red (Heat not boil)
