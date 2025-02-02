@@ -45,6 +45,8 @@ $$C_x(H_2O)y$$
 $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$ 
         $\searrow Polysaccharide\space (2+)$
 
+## Lipids - Fats\Oils
+
 ### Functions
 #### A) Structural
 **Cellulose** : Plant Cell Walls
@@ -55,7 +57,9 @@ $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$
 **Starch** : Energy Store in Plants
 **Glycogen** : Energy Store in Animals (Liver, Muscle, Brain)
 
+
 # Experiments
 ## To Test for Carbohydrates
 **Starch**: Starch turns *iodine* from *brown* to *blue-black*
-**Reducing Sugar**: When heated with *Benedict's Solution*, they turn it from *blue* to brick red (Heat not boil)
+**Reducing Sugar**: When heated with *Benedict's Solution*, they turn it from *blue* to *brick red* (Heat not boil)
+
