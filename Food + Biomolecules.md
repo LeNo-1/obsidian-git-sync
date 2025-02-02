@@ -41,4 +41,4 @@ $$C_x(H_2O)y$$
  - Where x=y
 ### Structure
 - The smallest unit of a carbohydrate is a *monosaccharide*
-$$Sugar\space Units $$
+$$Sugar\space Units \nearrow$$
