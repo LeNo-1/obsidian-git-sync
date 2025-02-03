@@ -59,9 +59,16 @@ $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$
 
 ## Lipids - Fats\Oils
 ### Elements
-
+Carbon\ Hydrogen\ Oxygen (More H and less O than Carbohydrates)
 ### Structure
+- The basic unit of a fat is called a *triglyceride*
+ - Consists of *3 fatty acids*
 
+**Phospholipid** : One of the 3 fatty acids is replaced with a phosphate group
+
+**Fats v Oils** : A fat is solid while an oil is liquid at room temperature
+
+**Ex.** -> Butter, Margarine, Cooking Oil
 
 
 

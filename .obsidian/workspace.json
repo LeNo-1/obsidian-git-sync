@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e2211be7191e958",
+        "id": "a52c6fbd7170a99b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f7789bb85b8f8a0",
+            "id": "71905f84f60f2d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -295,10 +295,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0f7789bb85b8f8a0",
+  "active": "71905f84f60f2d81",
   "lastOpenFiles": [
-    "00 - M.O.C/2 -Biology-.md",
+    "06 - Daily/2025/02/ 2025-02-03 Mon.md",
     "Food + Biomolecules.md",
+    "00 - M.O.C/2 -Biology-.md",
     "Simple Harmonic Motion + Hooke's Law.md",
     "06 - Daily/2025/02/ 2025-02-02 Sun.md",
     "03 - Resources/Random Password things.md",
@@ -324,7 +325,6 @@
     "06 - Daily/2025/01/ 2025-01-26 Sun.md",
     "04 - Permanent/Chapters/Algebra 2.md",
     "06 - Daily/2025/01/ 2025-01-21 Tue.md",
-    "06 - Daily/2025/01/ 2025-01-18 Sat.md",
     "99 - Meta/Images/Pasted image 20250116142719.webp",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",
