@@ -77,12 +77,28 @@ Carbon\ Hydrogen\ Oxygen (More H and less O than Carbohydrates)
 ### Elements 
 Carbon \Hydrogen \Oxygen \Nitrogen (Mat contain Sulphur and\or Phosphorus)
 
-### Structural
+### Structure
+- The smallest unit of a protein is an *amino acid*
+- Proteins consist of a chain of amino acids joined by *peptide bonds* (20 common amino acids)
+- Functional proteins are *folded in a specific 3D shape*
+- May be *fibrous* with a little folding or *globular* with much folding
+
+**Ex.** ⇾ Meat, Fish, Beans
+### Functions
+#### a) Structural
+- Keratin in hair
+- Myosin in muscle
+#### b) Metabolic
+- Enzymes
+- Hormones
 
 # Experiments
 ## To Test for Carbohydrates
 **Starch**: Starch turns *iodine* from *brown* to *blue-black*
 **Reducing Sugar**: When heated with *Benedict's Solution*, they turn it from *blue* to *brick red* (Heat not boil)
 
-## To test for Fats/Oils
+## Test for Fats/Oils
 Makes brown paper translucent*
+
+## Test for Protein
+Turns *Biuret Reagent* from blue to lilac
