@@ -46,7 +46,6 @@ $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$
         $\searrow Polysaccharide\space (2+)$
 
 ## Carbohydrates
-
 ### Functions
 #### A) Structural
 **Cellulose** : Plant Cell Walls
@@ -56,7 +55,6 @@ $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$
 **Glucose** : Energy Source 
 **Starch** : Energy Store in Plants
 **Glycogen** : Energy Store in Animals (Liver, Muscle, Brain)
-
 ## Lipids - Fats\Oils
 ### Elements
 Carbon\ Hydrogen\ Oxygen (More H and less O than Carbohydrates)
@@ -68,12 +66,23 @@ Carbon\ Hydrogen\ Oxygen (More H and less O than Carbohydrates)
 
 **Fats v Oils** : A fat is solid while an oil is liquid at room temperature
 
-**Ex.** -> Butter, Margarine, Cooking Oil
+**Ex.** ⇾ Butter, Margarine, Cooking Oil
+### Functions
+#### A) Structural
+- Phospholipids in cell membranes
+- Insulation, protection of organs e.g. kidney
+#### B) Metabolic
+- Energy Storage
+## Proteins
+### Elements 
+Carbon \Hydrogen \Oxygen \Nitrogen (Mat contain Sulphur and\or Phosphorus)
 
-
+### Structural
 
 # Experiments
 ## To Test for Carbohydrates
 **Starch**: Starch turns *iodine* from *brown* to *blue-black*
 **Reducing Sugar**: When heated with *Benedict's Solution*, they turn it from *blue* to *brick red* (Heat not boil)
 
+## To test for Fats/Oils
+Makes brown paper translucent*
