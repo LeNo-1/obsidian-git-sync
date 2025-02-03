@@ -102,7 +102,20 @@ Carbon \Hydrogen \Oxygen \Nitrogen (Mat contain Sulphur and\or Phosphorus)
 | **Deficiency**          | Scurvy                         | Rickets                                             |
 | **Symptoms**            | Bleeding<br>                   | Weak Bons                                           |
 ## Minerals
-**Mineral Salts Needed** : Sodium / Chloride / Potassium / Magnesium 
+**Mineral Salts Needed** : Sodium / Chloride / Potassium / Magnesium / Calcium
+*Trace Elements* : Zinc / Iron / Copper
+
+### Functions
+- Rigid body structures e.g. calcium in bone
+- Soft body tissues
+- Body fluids
+##### Animals
+1. **Calcium** : To form bones and teeth
+2. **Iron** : To form hemoglobin
+
+##### Plants
+1. **Calcium** : To form middle lamella which cements cells together
+2. **Magnesium** : To form chlorophyll
 # Experiments
 ## To Test for Carbohydrates
 **Starch**: Starch turns *iodine* from *brown* to *blue-black*
