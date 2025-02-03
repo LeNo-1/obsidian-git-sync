@@ -45,7 +45,7 @@ $$C_x(H_2O)y$$
 $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$ 
         $\searrow Polysaccharide\space (2+)$
 
-## Lipids - Fats\Oils
+## Carbohydrates
 
 ### Functions
 #### A) Structural
@@ -56,6 +56,13 @@ $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$
 **Glucose** : Energy Source 
 **Starch** : Energy Store in Plants
 **Glycogen** : Energy Store in Animals (Liver, Muscle, Brain)
+
+## Lipids - Fats\Oils
+### Elements
+
+### Structure
+
+
 
 
 # Experiments
