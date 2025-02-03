@@ -92,13 +92,24 @@ Carbon \Hydrogen \Oxygen \Nitrogen (Mat contain Sulphur and\or Phosphorus)
 - Enzymes
 - Hormones
 
+## Vitamins
+
+|                         | *Vitamin C*                    | *Vitamin D*                                         |
+| ----------------------- | ------------------------------ | --------------------------------------------------- |
+| **Fat / Water Soluble** | Water                          | Fat                                                 |
+| **Source**              | Oranges, Lemons                | Milk , Cod-liver, Sunlight on skin                  |
+| **Function**            | Formation of connective tissue | Absorbs calcium from the gut to help bone formation |
+| **Deficiency**          | Scurvy                         | Rickets                                             |
+| **Symptoms**            | Bleeding<br>                   | Weak Bons                                           |
+## Minerals
+**Mineral Salts Needed** : Sodium / Chloride / Potassium / Magnesium 
 # Experiments
 ## To Test for Carbohydrates
 **Starch**: Starch turns *iodine* from *brown* to *blue-black*
 **Reducing Sugar**: When heated with *Benedict's Solution*, they turn it from *blue* to *brick red* (Heat not boil)
 
 ## Test for Fats/Oils
-Makes brown paper translucent*
+Makes *brown paper translucent*
 
 ## Test for Protein
-Turns *Biuret Reagent* from blue to lilac
+Turns *Biuret Reagent* from *blue* to *lilac*
