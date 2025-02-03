@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Food + Biomolecules.md",
+                "file": "Force, Mass and Momentum.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Food + Biomolecules"
+              "title": "Force, Mass and Momentum"
             }
           }
         ],
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -298,10 +297,12 @@
   },
   "active": "71905f84f60f2d81",
   "lastOpenFiles": [
-    "06 - Daily/2025/02/ 2025-02-03 Mon.md",
-    "Food + Biomolecules.md",
-    "00 - M.O.C/2 -Biology-.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "Force, Mass and Momentum.md",
     "Simple Harmonic Motion + Hooke's Law.md",
+    "04 - Permanent/Chapters/Food + Biomolecules.md",
+    "06 - Daily/2025/02/ 2025-02-03 Mon.md",
+    "00 - M.O.C/2 -Biology-.md",
     "06 - Daily/2025/02/ 2025-02-02 Sun.md",
     "03 - Resources/Random Password things.md",
     "04 - Permanent/0 -Binder/Roleplays.md",
@@ -310,7 +311,6 @@
     "04 - Permanent/Chapters/Collisions and Impacts.md",
     "00 - M.O.C/1 -App. Maths-.md",
     "04 - Permanent/Chapters/Circular Motion.md",
-    "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
     "00 - M.O.C/5 -Maths-.md",
     "00 - M.O.C/7 -Irish-.md",
@@ -325,7 +325,6 @@
     "06 - Daily/2025/01/ 2025-01-27 Mon.md",
     "06 - Daily/2025/01/ 2025-01-26 Sun.md",
     "04 - Permanent/Chapters/Algebra 2.md",
-    "06 - Daily/2025/01/ 2025-01-21 Tue.md",
     "99 - Meta/Images/Pasted image 20250116142719.webp",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",

@@ -124,7 +124,7 @@ Carbon \Hydrogen \Oxygen \Nitrogen (Mat contain Sulphur and\or Phosphorus)
 2. Using dropper add iodine solution (brown)
 **Reducing Sugar**: When heated with *Benedict's Solution*, they turn it from *blue* to *brick red* (Heat not boil)
 1. Dissolve the food sample in water and put into a test tube
-2. Add Benedict's Solution
+2. Add Benedict's Solution (blue)
 3. Heat in a water bath (not boil)
 ## Test for Fats/Oils
 Makes *brown paper translucent*
@@ -132,4 +132,4 @@ Makes *brown paper translucent*
 ## Test for Protein
 Turns *Biuret Reagent* from *blue* to *lilac*
 1. Dissolve the food sample in water and put into a test tube
-2. Using a droppepr
+2. Using a dropper add Biuret Reagent (blue)
