@@ -16,8 +16,8 @@
               "state": {
                 "file": "00 - M.O.C/0 -HomePage-.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -25,37 +25,62 @@
             }
           },
           {
-            "id": "80b3dbef1b11aa89",
+            "id": "eefd30edb9eb2674",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2025/01/ 2025-01-28 Tue.md",
+                "file": "Force, Mass and Momentum.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-28 Tue"
+              "title": "Force, Mass and Momentum"
             }
           },
           {
-            "id": "ee8b511e2c0be48d",
+            "id": "ebb4ff13b719c597",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "El pretérito indefinido.md",
+                "file": "Pressure, Gravity and Moments.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "El pretérito indefinido"
+              "title": "Pressure, Gravity and Moments"
+            }
+          },
+          {
+            "id": "4dc9f684f17b3e1e",
+            "type": "leaf",
+            "state": {
+              "type": "swar8080/AVAILABLE_PLUGIN_UPDATES",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin Updates"
+            }
+          },
+          {
+            "id": "99c565a37a787fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 - M.O.C/4 -Physics-.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "4 -Physics-"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -70,7 +95,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -131,7 +157,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "b29280d275f1fc4e",
@@ -227,6 +253,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -236,7 +263,6 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
       "templater-obsidian:Templater": false,
@@ -244,34 +270,35 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ee8b511e2c0be48d",
+  "active": "4dc9f684f17b3e1e",
   "lastOpenFiles": [
-    "00 - M.O.C/8 -Spanish-.md",
+    "06 - Daily/2025/02/ 2025-02-08 Sat.md",
+    "Work, Energy and Power.md",
+    "Pressure, Gravity and Moments.md",
+    "Force, Mass and Momentum.md",
+    "06 - Daily/2025/02/ 2025-02-07 Fri.md",
+    "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/0 -HomePage-.md",
+    "04 - Permanent/Chapters/Food + Biomolecules.md",
+    "04 - Permanent/0 -Binder/Roleplays.md",
+    "00 - M.O.C/8 -Spanish-.sync-conflict-20250206-171621-IQJAD6N.md",
+    "06 - Daily/2025/01/ 2025-01-24 Fri.md",
+    "00 - M.O.C/8 -Spanish-.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "06 - Daily/2025/02/ 2025-02-06 Thu.md",
+    "04 - Permanent/0 -Branches/Sraith Pictuir.md",
+    "99 - Meta/Images/EN-EX-40634415.pdf",
+    "06 - Daily/2025/02/ 2025-02-05 Wed.md",
+    "06 - Daily/2025/02/ 2025-02-04 Tue.md",
+    "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
+    "06 - Daily/2025/02/ 2025-02-03 Mon.md",
+    "04 - Permanent/Chapters/Present Tense Verbs.md",
+    "00 - M.O.C/1 -App. Maths-.md",
     "06 - Daily/2025/01/ 2025-01-28 Tue.md",
     "06 - Daily/2025/01/ 2025-01-27 Mon.md",
     "06 - Daily/2025/01/ 2025-01-17 Fri.md",
     "04 - Permanent/Chapters/Colscaradh.md",
     "00 - M.O.C/7 -Irish-.md",
-    "04 - Permanent/Chapters/Acceleration.md",
-    "00 - M.O.C/4 -Physics-.md",
-    "04 - Permanent/Chapters/Speed, Displacement and Velocity.md",
-    "00 - M.O.C/6 -English-.md",
-    "06 - Daily/2025/01/ 2025-01-16 Thu.md",
-    "04 - Permanent/Chapters/Vectors and Scalars.md",
-    "04 - Permanent/Chapters/Enzymes.md",
-    "06 - Daily/2025/01/ 2025-01-15 Wed.md",
-    "00 - M.O.C/2 -Biology-.md",
-    "06 - Daily/2025/01/ 2025-01-14 Tue.md",
-    "06 - Daily/2025/01/ 2025-01-10 Fri.md",
-    "06 - Daily/2025/01/ 2025-01-13 Mon.md",
-    "04 - Permanent/Chapters/Work, Energy and Power.md",
-    "2025-01-09.md",
-    "06 - Daily/2025/01/ 2025-01-09 Thu.md",
-    "06 - Daily/2025/01/ 2025-01-08 Wed.md",
-    "04 - Permanent/0 -Binder/'A Call' by Seamus Heaney.md",
-    "04 - Permanent/0 -Branches/Sheamus Heaney.md",
-    "Algebra 2.md",
     "02 - Areas/Literature/Bookshelf.canvas"
   ]
 }

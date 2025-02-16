@@ -45,7 +45,6 @@ $$C_x(H_2O)y$$
 $\large{Sugar\space Units} \rightarrow \normalsize{Diasaccharide\space (2)}$ 
         $\searrow Polysaccharide\space (2+)$
 
-## Carbohydrates
 ### Functions
 #### A) Structural
 **Cellulose** : Plant Cell Walls
