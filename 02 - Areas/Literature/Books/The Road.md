@@ -11,7 +11,7 @@ Date Finished:
 Class: Class
 Rating: 
 Recommendation: 
-Complete: "true"
+Complete: "false"
 cssclasses:
   - cards
   - cards-cover

@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d67f12c4f37a1ba1",
+        "id": "6bba1d31df6c355b",
         "type": "tabs",
         "children": [
           {
-            "id": "3721d2996078a4e5",
+            "id": "84d7db0e623a0736",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "02 - Areas/Literature/Bookshelf.canvas",
                 "viewState": {
-                  "x": -1320.8873730738414,
-                  "y": -2197.386006368552,
-                  "zoom": -0.11405903568104969
+                  "x": -1637.2770332567331,
+                  "y": -785.4856908571146,
+                  "zoom": -1.780725702347716
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -280,10 +280,13 @@
       "sync-google-calendar:Sync Google Calendar": false
     }
   },
-  "active": "3721d2996078a4e5",
+  "active": "84d7db0e623a0736",
   "lastOpenFiles": [
-    "The Road 1.md",
+    "02 - Areas/Literature/Books/False Gods.md",
     "02 - Areas/Literature/Bookshelf.canvas",
+    "02 - Areas/Literature/Books/The Road.md",
+    "02 - Areas/Literature/Library.md",
+    "The Road 1.md",
     "00 - M.O.C/0 -HomePage-.md",
     "04 - Permanent/Chapters/Acceleration.md",
     "Untitled.md",
@@ -308,9 +311,6 @@
     "04 - Permanent/Chapters/Collisions and Impacts.md",
     "06 - Daily/2025/02/ 2025-02-17 Mon.md",
     "04 - Permanent/School Projects/Untitled.canvas",
-    "04 - Permanent/School Projects/ALT 2.md",
-    "06 - Daily/2025/02/ 2025-02-16 Sun.md",
-    "Excalidraw/Flow Clart.md",
     "04 - Permanent/Flashcards",
     "ALT 2 - Flow Chart.canvas",
     "99 - Meta/Images/0aba39ab-55ac-47ba-80a5-9710d114122e.pdf",
