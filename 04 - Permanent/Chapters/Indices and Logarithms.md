@@ -1,6 +1,11 @@
+---
+cards-deck: 04 - Permanent::Chapters
+---
+
 #mathsMain 
 # ~Indices (Exponent)~
 - A number in index form is of the form $b^n$. We call b the ==base== and the n the index power or ==exponent==
+^1739794287489
 
 - **Index notation** is useful for writing very large or small numbers. For example, 10,000,000,000,000,000 can be written as $10^{16}$
 ###### -Natural Exponential Function-
@@ -26,6 +31,7 @@ $$
  
 ## -Logarithms-
 - Used for calculation ==products== *(multiplying)* and ==quotients== *(dividing)* large quantities.
+^1739794287493
 
 | **Form** | **Example**    |
 | -------- | -------------- |

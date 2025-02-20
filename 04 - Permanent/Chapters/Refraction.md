@@ -6,7 +6,7 @@
 
 ## The Laws of Refraction of Light
  1. The incident ray, the normal at the point of incidence and the refracted ray all lie in the same plane
- 2. $$\frac{\sin i}{\sin r}= n$$
+ $$\frac{\sin i}{\sin r}= n$$
 ### Inverse
 For any two media x and y:
 ### $\scriptsize{x}\normalsize{n}\scriptsize{y} = \frac{1}{\scriptsize{y}\normalsize{n}\scriptsize{x}}$

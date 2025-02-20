@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d67f12c4f37a1ba1",
+        "id": "a52c6fbd7170a99b",
         "type": "tabs",
         "children": [
           {
-            "id": "3721d2996078a4e5",
+            "id": "71905f84f60f2d81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 - Daily/2025/02/ 2025-02-20 Thu.md",
+                "file": "Work, Energy and Power.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-20 Thu"
+              "title": "Work, Energy and Power"
             }
           }
         ],
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -199,19 +199,9 @@
               "icon": "lucide-info",
               "title": "File properties for Daily Notes"
             }
-          },
-          {
-            "id": "403f562177eeaf56",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
         "id": "46b0e9fc8d71a696",
@@ -302,45 +292,38 @@
       "templates:Insert template": false,
       "markdown-importer:Open format converter": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3721d2996078a4e5",
+  "active": "71905f84f60f2d81",
   "lastOpenFiles": [
-    "02 - Areas/Computer Science/Python/Untitled.md",
-    "06 - Daily/2025/02/ 2025-02-20 Thu.md",
-    "00 - M.O.C/8 -Spanish-.sync-conflict-20250206-171621-IQJAD6N.md",
-    "06 - Daily/2025/02/ 2025-02-18 Tue.md",
-    "02 - Areas/Music/Guitar/Untitled.md",
-    "04 - Permanent/Chapters/Refraction.md",
-    "02 - Areas/Music/Guitar",
-    "00 - M.O.C/4 -Physics-.md",
-    "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
-    "04 - Permanent/Chapters/Geometrical Optics.md",
-    "04 - Permanent/Chapters/Indices and Logarithms.md",
-    "00 - M.O.C/5 -Maths-.md",
-    "04 - Permanent/Chapters/Algebra 2.md",
+    "06 - Daily/2025/02/ 2025-02-16 Sun.md",
+    "02 - Areas/Computer Science/- YouTube Channels -.md",
+    "02 - Areas/Computer Science/{Project Ideas}.md",
+    "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
     "Algebra 3.md",
-    "04 - Permanent/Chapters/Circular Motion and Hooke's Law.md",
-    "04 - Permanent/School Projects",
+    "Force, Mass and Momentum.md",
+    "Pressure, Gravity and Moments.md",
+    "Work, Energy and Power.md",
+    "06 - Daily/2025/02/ 2025-02-08 Sat.md",
+    "00 - M.O.C/5 -Maths-.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "Simple Harmonic Motion + Hooke's Law.md",
+    "04 - Permanent/Chapters/Food + Biomolecules.md",
+    "06 - Daily/2025/02/ 2025-02-03 Mon.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "06 - Daily/2025/02/ 2025-02-02 Sun.md",
+    "03 - Resources/Random Password things.md",
+    "04 - Permanent/0 -Binder/Roleplays.md",
+    "99 - Meta/Images/0aba39ab-55ac-47ba-80a5-9710d114122e.pdf",
+    "00 - M.O.C/8 -Spanish-.md",
+    "04 - Permanent/Chapters/Collisions and Impacts.md",
     "00 - M.O.C/1 -App. Maths-.md",
     "04 - Permanent/Chapters/Circular Motion.md",
-    "00 - M.O.C/0 -HomePage-.md",
-    "04 - Permanent/Chapters/Collisions and Impacts.md",
-    "06 - Daily/2025/02/ 2025-02-17 Mon.md",
-    "04 - Permanent/School Projects/Untitled.canvas",
-    "04 - Permanent/School Projects/ALT 2.md",
-    "06 - Daily/2025/02/ 2025-02-16 Sun.md",
-    "Excalidraw/Flow Clart.md",
-    "04 - Permanent/Flashcards/Spanish.md",
-    "04 - Permanent/Flashcards",
-    "06 - Daily/2025/02/ 2025-02-14 Fri.md",
-    "ALT 2 - Flow Chart.canvas",
     "00 - M.O.C/3 -Comp. Sci.-.md",
-    "02 - Areas/Computer Science/- YouTube Channels -.md",
-    "99 - Meta/Images/0aba39ab-55ac-47ba-80a5-9710d114122e.pdf",
+    "00 - M.O.C/7 -Irish-.md",
+    "00 - M.O.C/6 -English-.md",
+    "00 - M.O.C/0 -HomePage-.md",
     "06 - Daily/2025/02",
     "99 - Meta/Images/Pasted image 20250116142719.webp",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
@@ -349,6 +332,9 @@
     "06 - Daily/2025",
     "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
     "02 - Areas/Computer Science/CS50 2024",
+    "02 - Areas/Computer Science/Java",
+    "06 - Daily/2024/12",
+    "06 - Daily/2024",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
     "02 - Areas/Literature/Bookshelf.canvas",
     "99 - Meta/Images/Biology Sheets-20240829225101621.webp",
@@ -358,6 +344,7 @@
     "Remote Git/publish/attachments/github-secrets-vercel.png",
     "Remote Git/publish/attachments/vercel-account-id.png",
     "Remote Git/publish/attachments/publish-dir-yml.png",
+    "Untitled.canvas",
     "Flow Chart.canvas",
     "02 - Areas/Books/Library.canvas"
   ]

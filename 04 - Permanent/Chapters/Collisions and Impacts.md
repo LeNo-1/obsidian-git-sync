@@ -22,6 +22,6 @@ $$-e=\frac{v_2-v_1}{u_2-u_1}$$
 
 # Direct Collisions involving inequalities
 
-
+$$0\le e\le 1$$
 # Oblique Collisions
 
