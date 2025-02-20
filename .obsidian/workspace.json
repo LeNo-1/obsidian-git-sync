@@ -11,15 +11,17 @@
             "id": "3721d2996078a4e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "02 - Areas/Literature/Bookshelf.canvas",
+                "viewState": {
+                  "x": -1320.8873730738414,
+                  "y": -2197.386006368552,
+                  "zoom": -0.11405903568104969
+                }
               },
-              "icon": "lucide-file",
-              "title": "0 -HomePage-"
+              "icon": "lucide-layout-dashboard",
+              "title": "Bookshelf"
             }
           }
         ],
@@ -98,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md",
+                "file": "02 - Areas/Literature/Bookshelf.canvas",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Daily Notes"
+              "title": "Backlinks for Bookshelf"
             }
           },
           {
@@ -117,12 +119,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md",
+                "file": "02 - Areas/Literature/Bookshelf.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Daily Notes"
+              "title": "Outgoing links from Bookshelf"
             }
           },
           {
@@ -132,7 +134,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -158,10 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md"
+                "file": "02 - Areas/Literature/Bookshelf.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily Notes"
+              "title": "Outline of Bookshelf"
             }
           },
           {
@@ -194,24 +201,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md"
+                "file": "02 - Areas/Literature/Bookshelf.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Daily Notes"
-            }
-          },
-          {
-            "id": "403f562177eeaf56",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "File properties for Bookshelf"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
         "id": "4eb8e6cdee976020",
@@ -224,7 +221,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md",
+                "file": "02 - Areas/Literature/Bookshelf.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,14 +249,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 0 -HomePage-"
+              "title": "Graph of Bookshelf"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 771.5
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,14 +276,18 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "sync-google-calendar:Sync Google Calendar": false
     }
   },
   "active": "3721d2996078a4e5",
   "lastOpenFiles": [
+    "The Road 1.md",
+    "02 - Areas/Literature/Bookshelf.canvas",
+    "00 - M.O.C/0 -HomePage-.md",
+    "04 - Permanent/Chapters/Acceleration.md",
     "Untitled.md",
     "06 - Daily/2025/02/ 2025-02-20 Thu.md",
-    "00 - M.O.C/0 -HomePage-.md",
     "02 - Areas/Computer Science/Python/Untitled.md",
     "00 - M.O.C/8 -Spanish-.sync-conflict-20250206-171621-IQJAD6N.md",
     "06 - Daily/2025/02/ 2025-02-18 Tue.md",
@@ -310,11 +311,8 @@
     "04 - Permanent/School Projects/ALT 2.md",
     "06 - Daily/2025/02/ 2025-02-16 Sun.md",
     "Excalidraw/Flow Clart.md",
-    "04 - Permanent/Flashcards/Spanish.md",
     "04 - Permanent/Flashcards",
-    "06 - Daily/2025/02/ 2025-02-14 Fri.md",
     "ALT 2 - Flow Chart.canvas",
-    "00 - M.O.C/3 -Comp. Sci.-.md",
     "99 - Meta/Images/0aba39ab-55ac-47ba-80a5-9710d114122e.pdf",
     "06 - Daily/2025/02",
     "99 - Meta/Images/Pasted image 20250116142719.webp",
@@ -325,7 +323,6 @@
     "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
     "02 - Areas/Computer Science/CS50 2024",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
-    "02 - Areas/Literature/Bookshelf.canvas",
     "99 - Meta/Images/Biology Sheets-20240829225101621.webp",
     "99 - Meta/Images/alena-aenami-horizon-1k.jpg",
     "Remote Git/publish/attachments/vercel-project-id.png",
