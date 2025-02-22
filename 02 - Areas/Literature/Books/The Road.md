@@ -1,7 +1,8 @@
 ---
 Author:
   - Cormac McCarthy
-Status: [reading]
+Status:
+  - reading
 Topics:
   - Fiction
 Cover: http://books.google.com/books/content?id=GwlKPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
@@ -11,11 +12,12 @@ Date Finished:
 Class: Class
 Rating: 
 Recommendation: 
-Complete: "false"
+Complete: 
 cssclasses:
   - cards
   - cards-cover
-Priotity: [high]
+Priotity:
+  - high
 ---
 
 ```dataview
