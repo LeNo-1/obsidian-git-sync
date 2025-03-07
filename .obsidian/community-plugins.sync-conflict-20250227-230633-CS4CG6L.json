@@ -8,20 +8,17 @@
   "obsidian-icon-folder",
   "metadata-menu",
   "obsidian-plugin-update-tracker",
-  "quickadd",
   "obsidian-style-settings",
   "templater-obsidian",
   "omnisearch",
   "highlightr-plugin",
   "image-converter",
   "obsidian-image-toolkit",
-  "obsidian-importer",
   "obsidian-git",
   "obsidian-tasks-plugin",
   "obsidian-languagetool-plugin",
   "obsidian-icon-shortcodes",
   "flashcards-obsidian",
   "obsidian-spaced-repetition",
-  "advanced-canvas",
-  "text2anki-openai"
+  "advanced-canvas"
 ]
