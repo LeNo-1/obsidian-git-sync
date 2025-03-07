@@ -26,4 +26,5 @@ The first #count numbers of the sequence are:
 ```
 ```typst
 = Hell My Friend
+The hello in HELLO MY FRIEND is a greating
 ```

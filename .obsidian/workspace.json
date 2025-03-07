@@ -21,8 +21,21 @@
               "icon": "lucide-file",
               "title": "Typst"
             }
+          },
+          {
+            "id": "7a8317fceece8f9a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -306,7 +319,7 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "3572b8150bc635c3",
+  "active": "7a8317fceece8f9a",
   "lastOpenFiles": [
     "Typst.md",
     "00 - M.O.C/0 -HomePage-.md",
