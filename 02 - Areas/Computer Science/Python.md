@@ -41,9 +41,11 @@ elif x > y:
 	pass
 else:
 	pass
+	
 # for statment
 for item in range(10):
 	pass
+	
 # while statement
 while x < y:
 	pass

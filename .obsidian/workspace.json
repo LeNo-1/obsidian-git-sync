@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d67f12c4f37a1ba1",
+        "id": "c811dcbf32009bb5",
         "type": "tabs",
         "children": [
           {
-            "id": "f7e6c5324673b92a",
+            "id": "3572b8150bc635c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/Chapters/Refraction.md",
+                "file": "Typst.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Refraction"
+              "title": "Typst"
             }
           }
         ],
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 254.5
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -90,7 +90,7 @@
       {
         "id": "262c67dfd41553fd",
         "type": "tabs",
-        "dimension": 27.95275590551181,
+        "dimension": 32.82296650717703,
         "children": [
           {
             "id": "3e25589f955c65ac",
@@ -158,10 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md"
+                "file": "Typst.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Daily Notes"
+              "title": "Outline of Typst"
             }
           },
           {
@@ -177,15 +180,13 @@
           {
             "id": "33218c436e8f1583",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md"
+                "file": "Typst.md"
               },
-              "pinned": true,
               "icon": "lucide-info",
-              "title": "File properties for 0 -HomePage-"
+              "title": "File properties for Typst"
             }
           },
           {
@@ -194,10 +195,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "99 - Meta/Templates/Daily Notes.md"
+                "file": "Typst.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Daily Notes"
+              "title": "File properties for Typst"
             }
           },
           {
@@ -211,12 +212,12 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 5
       },
       {
         "id": "46b0e9fc8d71a696",
         "type": "tabs",
-        "dimension": 38.48425196850393,
+        "dimension": 33.588516746411486,
         "children": [
           {
             "id": "683bf241765d7b2d",
@@ -227,8 +228,8 @@
               "state": {
                 "file": "00 - M.O.C/0 -HomePage-.md",
                 "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -240,7 +241,7 @@
       {
         "id": "4eb8e6cdee976020",
         "type": "tabs",
-        "dimension": 33.56299212598425,
+        "dimension": 33.588516746411486,
         "children": [
           {
             "id": "6a0cbb91ce9cad30",
@@ -248,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Permanent/Chapters/Collisions and Impacts.md",
+                "file": "Typst.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -276,15 +277,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Collisions and Impacts"
+              "title": "Graph of Typst"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,14 +306,24 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "403f562177eeaf56",
+  "active": "3572b8150bc635c3",
   "lastOpenFiles": [
+    "00 - M.O.C/0 -HomePage-.md",
+    "Typst.md",
+    "Nutrition.md",
+    "02 - Areas/Games/Minecraft/MODS.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "02 - Areas/Computer Science/- YouTube Channels -.md",
+    "02 - Areas/Computer Science/{Project Ideas}.md",
+    "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
+    "02 - Areas/Computer Science/Python.md",
+    "04 - Permanent/Chapters/Refraction.md",
+    "00 - M.O.C/1 -App. Maths-.md",
     "00 - M.O.C/4 -Physics-.md",
     "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
     "04 - Permanent/Chapters/Geometrical Optics.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
     "04 - Permanent/Chapters/Newton's Laws and Connected Particles.md",
-    "00 - M.O.C/1 -App. Maths-.md",
     "04 - Permanent/Chapters/Vectors.md",
     "06 - Daily/2025/02/ 2025-02-27 Thu.md",
     "06 - Daily/2025/02/ 2025-02-23 Sun.md",
@@ -321,22 +331,12 @@
     "00 - M.O.C/8 -Spanish-.sync-conflict-20250206-171621-IQJAD6N.md",
     "06 - Daily/2025/02/ 2025-02-18 Tue.md",
     "02 - Areas/Music/Guitar/Untitled.md",
-    "04 - Permanent/Chapters/Refraction.md",
     "02 - Areas/Music/Guitar",
     "04 - Permanent/Chapters/Indices and Logarithms.md",
     "00 - M.O.C/5 -Maths-.md",
     "04 - Permanent/Chapters/Algebra 2.md",
-    "Algebra 3.md",
-    "04 - Permanent/Chapters/Circular Motion and Hooke's Law.md",
     "04 - Permanent/School Projects",
-    "04 - Permanent/Chapters/Circular Motion.md",
-    "00 - M.O.C/0 -HomePage-.md",
-    "04 - Permanent/Chapters/Collisions and Impacts.md",
-    "06 - Daily/2025/02/ 2025-02-17 Mon.md",
     "04 - Permanent/School Projects/Untitled.canvas",
-    "04 - Permanent/School Projects/ALT 2.md",
-    "06 - Daily/2025/02/ 2025-02-16 Sun.md",
-    "Excalidraw/Flow Clart.md",
     "04 - Permanent/Flashcards",
     "ALT 2 - Flow Chart.canvas",
     "99 - Meta/Images/0aba39ab-55ac-47ba-80a5-9710d114122e.pdf",
