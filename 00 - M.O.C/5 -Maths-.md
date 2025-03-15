@@ -5,6 +5,7 @@ Teacher: Mr. Kennedy
 ---
 
 ### Chapters (5th Yr.)
+#### Paper 1
 1.  [[Algebra 1]]
 2.  [[Algebra 2]]
 3.  [[Algebra 3]]
@@ -20,3 +21,7 @@ Teacher: Mr. Kennedy
 13. [[Differential Calculus 1]]
 14. [[Differential Calculus 2]]
 15. [[Integral Calculus]]
+
+#### Paper 2
+1. [[]]
+2. [[]]
