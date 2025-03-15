@@ -17,14 +17,15 @@ $$\omega =\frac{\theta}{t}$$
 - The **SI Unit** is the *radian per second ($rad\space s^{-1}$)*
 - *Scalar Quantity*
 
-## Relationship between Linear and Angular Velocity
+### Relationship between Linear and Angular Velocity
 A disc rotates with constant angular velocity ($\omega$) about its centre
 - The greater the distance a particle on the disc is from the centre the greater its linear velocity ($v$).
 
-## Derive relationship between Linear and Angular velocity
+### Derive relationship between Linear and Angular velocity
 $$Linear\space Speed=\frac{Length\space of\space Circumference}{Periodic\space Time}\rightarrow v=\frac{2\pi R}{T}\space w=\frac{2\pi}{T}\rightarrow v=\omega r$$
 
-## Deriving Period of Orbit and Radius
+
+### Deriving Period of Orbit and Radius
 $$\frac{mv^2}{R}=\frac{GmM}{R^2}\rightarrow v^2=\frac{GM}{R}$$
 $$T=\frac{2\pi R}{v}\rightarrow T^2=\frac{4\pi^2 R^2}{v^2} \rightarrow  \frac{4\pi^2 R^2}{(GM/R)}$$
 $$T^2=\frac{4\pi^2 R^3}{GM}$$
