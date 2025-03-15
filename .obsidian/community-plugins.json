@@ -18,10 +18,9 @@
   "obsidian-importer",
   "obsidian-git",
   "obsidian-tasks-plugin",
-  "obsidian-languagetool-plugin",
   "obsidian-icon-shortcodes",
   "flashcards-obsidian",
   "obsidian-spaced-repetition",
   "advanced-canvas",
-  "typst"
+  "text2anki-openai"
 ]

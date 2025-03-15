@@ -23,3 +23,8 @@ A disc rotates with constant angular velocity ($\omega$) about its centre
 
 ## Derive relationship between Linear and Angular velocity
 $$Linear\space Speed=\frac{Length\space of\space Circumference}{Periodic\space Time}\rightarrow v=\frac{2\pi R}{T}\space w=\frac{2\pi}{T}\rightarrow v=\omega r$$
+
+## Deriving Period of Orbit and Radius
+$$\frac{mv^2}{R}=\frac{GmM}{R^2}\rightarrow v^2=\frac{GM}{R}$$
+$$T=\frac{2\pi R}{v}\rightarrow T^2=\frac{4\pi^2 R^2}{v^2} \rightarrow  \frac{4\pi^2 R^2}{(GM/R)}$$
+$$T^2=\frac{4\pi^2 R^3}{GM}$$

@@ -4,38 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c811dcbf32009bb5",
+        "id": "539d64cb1bbebc33",
         "type": "tabs",
         "children": [
           {
-            "id": "3572b8150bc635c3",
+            "id": "d9fb938f48c5760b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Typst.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Typst"
-            }
-          },
-          {
-            "id": "7a8317fceece8f9a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -94,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254.5
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -103,7 +85,7 @@
       {
         "id": "262c67dfd41553fd",
         "type": "tabs",
-        "dimension": 32.82296650717703,
+        "dimension": 27.95275590551181,
         "children": [
           {
             "id": "3e25589f955c65ac",
@@ -171,13 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Typst.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "99 - Meta/Templates/Daily Notes.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Typst"
+              "title": "Outline of Daily Notes"
             }
           },
           {
@@ -193,13 +172,15 @@
           {
             "id": "33218c436e8f1583",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Typst.md"
+                "file": "00 - M.O.C/0 -HomePage-.md"
               },
+              "pinned": true,
               "icon": "lucide-info",
-              "title": "File properties for Typst"
+              "title": "File properties for 0 -HomePage-"
             }
           },
           {
@@ -208,10 +189,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Typst.md"
+                "file": "99 - Meta/Templates/Daily Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Typst"
+              "title": "File properties for Daily Notes"
             }
           },
           {
@@ -225,12 +206,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       },
       {
         "id": "46b0e9fc8d71a696",
         "type": "tabs",
-        "dimension": 33.588516746411486,
+        "dimension": 38.48425196850393,
         "children": [
           {
             "id": "683bf241765d7b2d",
@@ -241,8 +222,8 @@
               "state": {
                 "file": "00 - M.O.C/0 -HomePage-.md",
                 "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "backlinks": false,
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -254,7 +235,7 @@
       {
         "id": "4eb8e6cdee976020",
         "type": "tabs",
-        "dimension": 33.588516746411486,
+        "dimension": 33.56299212598425,
         "children": [
           {
             "id": "6a0cbb91ce9cad30",
@@ -262,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Typst.md",
+                "file": "04 - Permanent/Chapters/Collisions and Impacts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -290,14 +271,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Typst"
+              "title": "Graph of Collisions and Impacts"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,24 +301,22 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "7a8317fceece8f9a",
+  "active": "403f562177eeaf56",
   "lastOpenFiles": [
-    "Typst.md",
-    "00 - M.O.C/0 -HomePage-.md",
+    "Algebra 3.md",
     "Nutrition.md",
-    "02 - Areas/Games/Minecraft/MODS.md",
-    "00 - M.O.C/2 -Biology-.md",
-    "02 - Areas/Computer Science/- YouTube Channels -.md",
-    "02 - Areas/Computer Science/{Project Ideas}.md",
-    "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
-    "02 - Areas/Computer Science/Python.md",
-    "04 - Permanent/Chapters/Refraction.md",
-    "00 - M.O.C/1 -App. Maths-.md",
+    "99 - Meta/Images/image.png",
+    "Screenshot From 2025-03-13 22-50-06.png",
+    "04 - Permanent/Chapters/Simple Harmonic Motion + Hooke's Law.md",
+    "04 - Permanent/Chapters/Circular Motion.md",
     "00 - M.O.C/4 -Physics-.md",
+    "02 - Areas/Computer Science/Typst.md",
+    "04 - Permanent/Chapters/Refraction.md",
     "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
     "04 - Permanent/Chapters/Geometrical Optics.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
     "04 - Permanent/Chapters/Newton's Laws and Connected Particles.md",
+    "00 - M.O.C/1 -App. Maths-.md",
     "04 - Permanent/Chapters/Vectors.md",
     "06 - Daily/2025/02/ 2025-02-27 Thu.md",
     "06 - Daily/2025/02/ 2025-02-23 Sun.md",
@@ -348,7 +328,10 @@
     "04 - Permanent/Chapters/Indices and Logarithms.md",
     "00 - M.O.C/5 -Maths-.md",
     "04 - Permanent/Chapters/Algebra 2.md",
+    "04 - Permanent/Chapters/Circular Motion and Hooke's Law.md",
     "04 - Permanent/School Projects",
+    "00 - M.O.C/0 -HomePage-.md",
+    "04 - Permanent/Chapters/Collisions and Impacts.md",
     "04 - Permanent/School Projects/Untitled.canvas",
     "04 - Permanent/Flashcards",
     "ALT 2 - Flow Chart.canvas",
@@ -368,8 +351,6 @@
     "Remote Git/publish/attachments/vercel-project-id.png",
     "Remote Git/publish/attachments/vercel-create-token.png",
     "Remote Git/publish/attachments/github-secrets-vercel.png",
-    "Remote Git/publish/attachments/vercel-account-id.png",
-    "Remote Git/publish/attachments/publish-dir-yml.png",
     "Flow Chart.canvas",
     "02 - Areas/Books/Library.canvas"
   ]
