@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8771ecf51068722f",
+        "id": "327294745fee3f3d",
         "type": "tabs",
         "children": [
           {
-            "id": "9e6485d9002b2fd0",
+            "id": "818a9cc1b9db0cd2",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "00 - M.O.C"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00 - M.O.C"
-            },
-            "group": "c9edbbf58087b279"
+              "title": "New tab"
+            }
           }
         ],
         "stacked": true
@@ -224,8 +221,7 @@
               },
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            },
-            "group": "c9edbbf58087b279"
+            }
           }
         ]
       }
@@ -255,10 +251,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9e6485d9002b2fd0",
+  "active": "818a9cc1b9db0cd2",
   "lastOpenFiles": [
-    "00 - M.O.C/00 - M.O.C.md",
     "Untitled Kanban.md",
+    "00 - M.O.C/00 - M.O.C.md",
+    "05 - Fleeting/Untitled.md",
     "00 - M.O.C/5 -Maths-.md",
     "04 - Permanent/04 - Permanent.md",
     "04 - Permanent/0 -Branches/Sraith Pictuir.md",
@@ -293,7 +290,6 @@
     "Nutrition.md",
     "04 - Permanent/Chapters/Simple Harmonic Motion + Hooke's Law.md",
     "02 - Areas/Computer Science/Typst.md",
-    "04 - Permanent/Chapters/Refraction.md",
     "02 - Areas/Music/Guitar",
     "04 - Permanent/School Projects",
     "04 - Permanent/School Projects/Untitled.canvas",

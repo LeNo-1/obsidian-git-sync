@@ -61,7 +61,7 @@
   "anuppuccin-theme-settings@@anp-full-rainbow-text-color-toggle-dark": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-autohide-titlebar": false,
-  "anuppuccin-theme-settings@@anp-tooltip-toggle": false,
+  "anuppuccin-theme-settings@@anp-tooltip-toggle": true,
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": true,
   "things-style@@fancy-highlight": true,
   "things-style@@fancy-code": true,
