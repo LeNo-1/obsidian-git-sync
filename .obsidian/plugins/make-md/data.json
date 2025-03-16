@@ -37,9 +37,8 @@
   "expandedSpaces": [
     "/",
     "//00 - M.O.C",
-    "//06 - Daily",
-    "//06 - Daily/06 - Daily/2025",
-    "//06 - Daily/06 - Daily/2024"
+    "//06 - Daily/06 - Daily/2024",
+    "//06 - Daily/06 - Daily/2025"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
