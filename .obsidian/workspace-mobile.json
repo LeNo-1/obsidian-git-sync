@@ -12,16 +12,11 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 - M.O.C/0 -HomePage-.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true,
               "icon": "lucide-file",
-              "title": "0 -HomePage-"
+              "title": "New tab"
             }
           },
           {
@@ -43,19 +38,13 @@
             "id": "62190373d8eb89f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Simple Harmonic Motion + Hooke's Law.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Simple Harmonic Motion + Hooke's Law"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +90,9 @@
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
@@ -177,7 +168,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "06 - Daily/2025/01/ 2025-01-05 Sun.md"
+            "file": "06 - Daily/2025/01/ 2025-01-05 Sun.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -189,46 +183,16 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "ed7060a9a158103f",
-        "type": "leaf",
-        "state": {
-          "type": "timeline",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
-        }
-      },
-      {
-        "id": "e97ce02f8087df8d",
-        "type": "leaf",
-        "state": {
-          "type": "review-queue-list-view",
-          "state": {},
-          "icon": "SpacedRepIcon",
-          "title": "Notes Review Queue"
-        }
-      },
-      {
-        "id": "89fe61d8029ea319",
-        "type": "leaf",
-        "state": {
-          "type": "git-view",
-          "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
         }
       }
     ],
-    "currentTab": 6
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -239,13 +203,12 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "homepage:Open homepage": false,
       "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "62190373d8eb89f4",
+  "active": "e753f0ef995ad109",
   "lastOpenFiles": [
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/0 -HomePage-.md",

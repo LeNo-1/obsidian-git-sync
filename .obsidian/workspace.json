@@ -11,15 +11,12 @@
             "id": "9e6485d9002b2fd0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "04 - Permanent/0 -Branches/Sraith Pictuir.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "00 - M.O.C"
               },
               "icon": "lucide-file",
-              "title": "Sraith Pictuir"
+              "title": "00 - M.O.C"
             },
             "group": "c9edbbf58087b279"
           }
@@ -199,7 +196,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Permanent/0 -Branches/Sraith Pictuir.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +223,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Sraith Pictuir"
+              "title": "Graph view"
             },
             "group": "c9edbbf58087b279"
           }
@@ -235,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,8 +255,13 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1e0ceb319dc94a52",
+  "active": "9e6485d9002b2fd0",
   "lastOpenFiles": [
+    "00 - M.O.C/00 - M.O.C.md",
+    "Untitled Kanban.md",
+    "00 - M.O.C/5 -Maths-.md",
+    "04 - Permanent/04 - Permanent.md",
+    "04 - Permanent/0 -Branches/Sraith Pictuir.md",
     "99 - Meta/Images/EN-EX-40634415 21 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 20 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 19 of 21.png",
@@ -270,10 +272,7 @@
     "99 - Meta/Images/EN-EX-40634415 14 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 13 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 12 of 21.png",
-    "99 - Meta/Images/EN-EX-40634415 11 of 21.png",
     "00 - M.O.C/7 -Irish-.md",
-    "00 - M.O.C/00 - M.O.C.md",
-    "04 - Permanent/04 - Permanent.md",
     "04 - Permanent/Chapters/Vectors.md",
     "00 - M.O.C/1 -App. Maths-.md",
     "02 - Areas/02 - Areas.md",
@@ -285,7 +284,6 @@
     "00 - M.O.C/2 -Biology-.md",
     "00 - M.O.C/8 -Spanish-.md",
     "00 - M.O.C/6 -English-.md",
-    "00 - M.O.C/5 -Maths-.md",
     "00 - M.O.C/4 -Physics-.md",
     "99 - Meta/99 - Meta.md",
     "05 - Fleeting/05 - Fleeting.md",
@@ -296,7 +294,6 @@
     "04 - Permanent/Chapters/Simple Harmonic Motion + Hooke's Law.md",
     "02 - Areas/Computer Science/Typst.md",
     "04 - Permanent/Chapters/Refraction.md",
-    "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
     "02 - Areas/Music/Guitar",
     "04 - Permanent/School Projects",
     "04 - Permanent/School Projects/Untitled.canvas",
