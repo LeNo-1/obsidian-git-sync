@@ -41,7 +41,6 @@
   "04 - Permanent/Chapters": "LiBookImage",
   "04 - Permanent/0 -Branches": "LiGitBranch",
   "04 - Permanent/0 -Binder": "LiFolderGit2",
-  "Excalidraw": "LiPaintbrush",
   "01 - Projects": "LiToyBrick",
   "02 - Areas": "LiBoxes",
   "02 - Areas/Literature/Done.md": "LiCombine",
@@ -62,5 +61,6 @@
   "02 - Areas/Music/Music.md": "LiMusic2",
   "02 - Areas/GYM/GYM.md": "LiDumbbell",
   "02 - Areas/Literature/Library.md": "LiLibraryBig",
-  "06 - Daily/2025/2025 - Plan.md": "🚀"
+  "06 - Daily/2025/2025 - Plan.md": "🚀",
+  "99 - Meta/Excalidraw": "LiPaintbrush"
 }

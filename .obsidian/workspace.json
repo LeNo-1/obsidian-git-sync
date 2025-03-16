@@ -21,8 +21,33 @@
               "icon": "lucide-file",
               "title": "5 -Maths-"
             }
+          },
+          {
+            "id": "00c56b34dfe150de",
+            "type": "leaf",
+            "state": {
+              "type": "mk-uri-view",
+              "state": {
+                "path": "https://www.make.md/static/latest.md"
+              },
+              "icon": "lucide-file",
+              "title": "https://www.make.md/static/latest.md"
+            }
+          },
+          {
+            "id": "8ac33c103d614fb1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-space",
+              "state": {
+                "path": "00 - M.O.C"
+              },
+              "icon": "lucide-file",
+              "title": "00 - M.O.C"
+            }
           }
         ],
+        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -75,9 +100,29 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "c1ec5af92822b4bf",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          },
+          {
+            "id": "1e0ceb319dc94a52",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -303,11 +348,19 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "403f562177eeaf56",
+  "active": "1e0ceb319dc94a52",
   "lastOpenFiles": [
+    "04 - Permanent/04 - Permanent.md",
+    "03 - Resources/03 - Resources.md",
+    "02 - Areas/02 - Areas.md",
+    "00 - M.O.C/00 - M.O.C.md",
+    "Vault.md",
+    "99 - Meta/Tags",
+    "00 - M.O.C/5 -Maths-.md",
     "00 - M.O.C/6 -English-.md",
     "04 - Permanent/Chapters/Circular Motion.md",
     "00 - M.O.C/4 -Physics-.md",
@@ -331,13 +384,7 @@
     "06 - Daily/2025/02/ 2025-02-18 Tue.md",
     "02 - Areas/Music/Guitar/Untitled.md",
     "02 - Areas/Music/Guitar",
-    "04 - Permanent/Chapters/Indices and Logarithms.md",
-    "00 - M.O.C/5 -Maths-.md",
-    "04 - Permanent/Chapters/Algebra 2.md",
-    "04 - Permanent/Chapters/Circular Motion and Hooke's Law.md",
     "04 - Permanent/School Projects",
-    "00 - M.O.C/0 -HomePage-.md",
-    "04 - Permanent/Chapters/Collisions and Impacts.md",
     "04 - Permanent/School Projects/Untitled.canvas",
     "04 - Permanent/Flashcards",
     "ALT 2 - Flow Chart.canvas",
@@ -349,7 +396,6 @@
     "06 - Daily/2025/01",
     "06 - Daily/2025",
     "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
-    "02 - Areas/Computer Science/CS50 2024",
     "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
     "02 - Areas/Literature/Bookshelf.canvas",
     "99 - Meta/Images/Biology Sheets-20240829225101621.webp",
