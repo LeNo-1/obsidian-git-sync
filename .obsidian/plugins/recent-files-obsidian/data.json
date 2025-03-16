@@ -5,12 +5,24 @@
       "path": "00 - M.O.C/0 -HomePage-.md"
     },
     {
-      "basename": "2 -Biology-",
-      "path": "00 - M.O.C/2 -Biology-.md"
+      "basename": "1 -App. Maths-",
+      "path": "00 - M.O.C/1 -App. Maths-.md"
+    },
+    {
+      "basename": "Vault",
+      "path": "Vault.md"
+    },
+    {
+      "basename": "00 - M.O.C",
+      "path": "00 - M.O.C/00 - M.O.C.md"
     },
     {
       "basename": "3 -Comp. Sci.-",
       "path": "00 - M.O.C/3 -Comp. Sci.-.md"
+    },
+    {
+      "basename": "2 -Biology-",
+      "path": "00 - M.O.C/2 -Biology-.md"
     },
     {
       "basename": "02 - Areas",
@@ -19,10 +31,6 @@
     {
       "basename": "8 -Spanish-",
       "path": "00 - M.O.C/8 -Spanish-.md"
-    },
-    {
-      "basename": "1 -App. Maths-",
-      "path": "00 - M.O.C/1 -App. Maths-.md"
     },
     {
       "basename": "7 -Irish-",
@@ -39,10 +47,6 @@
     {
       "basename": "4 -Physics-",
       "path": "00 - M.O.C/4 -Physics-.md"
-    },
-    {
-      "basename": "00 - M.O.C",
-      "path": "00 - M.O.C/00 - M.O.C.md"
     },
     {
       "basename": "99 - Meta",

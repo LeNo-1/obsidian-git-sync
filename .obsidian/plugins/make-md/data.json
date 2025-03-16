@@ -28,17 +28,17 @@
   "spaceRowHeight": 29,
   "mobileSpaceRowHeight": 40,
   "bannerHeight": 200,
-  "spacesDisablePatch": false,
+  "spacesDisablePatch": true,
   "folderNoteInsideFolder": true,
   "folderNoteName": "",
   "sidebarTabs": true,
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/",
     "//Tags",
     "//00 - M.O.C",
-    "//02 - Areas"
+    "//02 - Areas",
+    "/"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
