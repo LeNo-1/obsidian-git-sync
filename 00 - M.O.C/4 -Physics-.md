@@ -2,6 +2,7 @@
 tags:
   - physicsMain
 Teacher: Mr. Kennedy
+sticker: emoji//1f34e
 ---
 ### Chapters (5th Yr.)
 1. [[Introduction]]

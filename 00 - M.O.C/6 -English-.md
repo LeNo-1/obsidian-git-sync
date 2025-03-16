@@ -2,6 +2,7 @@
 tags:
   - englishMain
 Teacher: Ms. Meilia
+sticker: emoji//1f4ac
 ---
 
 # Chapters (5th Yr.)

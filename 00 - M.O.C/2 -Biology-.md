@@ -2,6 +2,7 @@
 tags:
   - biologyMain
 Teacher: Ms. Brody
+sticker: emoji//1fac0
 ---
 ### Chapters (5th Yr.)
 1. [[Scientific Method]]

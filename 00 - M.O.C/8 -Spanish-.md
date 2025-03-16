@@ -2,6 +2,7 @@
 tags:
   - spanishMain
 Teacher: Mr. O'Grady
+sticker: emoji//1f483
 ---
 
 ### Chapters (5th Yr.)

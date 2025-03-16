@@ -36,9 +36,8 @@
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "//Tags",
-    "//00 - M.O.C",
-    "//02 - Areas",
-    "/"
+    "/",
+    "//00 - M.O.C"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

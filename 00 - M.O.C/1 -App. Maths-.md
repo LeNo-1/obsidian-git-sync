@@ -2,6 +2,7 @@
 tags:
   - appMathsMain
 Teacher: Ms. Dempsey
+sticker: lucide//sigma
 ---
 
 ### Chapters (5th Yr.)

@@ -2,6 +2,7 @@
 tags:
   - irishMain
 Teacher: Ms. Butler
+sticker: emoji//1f340
 ---
 
 ### Chapters (5th Yr.)

@@ -2,6 +2,7 @@
 tags:
   - mathsMain
 Teacher: Mr. Kennedy
+sticker: lucide//sigma
 ---
 
 ### Chapters (5th Yr.)

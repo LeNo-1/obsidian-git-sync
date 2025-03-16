@@ -2,6 +2,7 @@
 tags:
   - compSciMain
 Teacher: Ms. Hardiman
+sticker: emoji//1f4bb
 ---
 
 ### Chapters (5th Yr.)
