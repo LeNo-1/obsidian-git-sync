@@ -35,11 +35,8 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Tags",
     "/",
-    "//04 - Permanent/04 - Permanent/0 -Branches",
-    "//00 - M.O.C",
-    "//05 - Fleeting"
+    "//00 - M.O.C"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -92,10 +89,10 @@
     "mobileSidepanel": false,
     "inlineStyler": true,
     "inlineStylerColors": false,
-    "editorFlow": true,
+    "editorFlow": false,
     "internalLinkClickFlow": false,
     "internalLinkSticker": false,
-    "editorFlowStyle": "minimal",
+    "editorFlowStyle": "seamless",
     "menuTriggerChar": "/",
     "inlineStickerMenu": true,
     "emojiTriggerChar": ":",

@@ -11,10 +11,15 @@
             "id": "818a9cc1b9db0cd2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - M.O.C/1 -App. Maths-.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 -App. Maths-"
             }
           }
         ],
@@ -193,6 +198,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00 - M.O.C/1 -App. Maths-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -220,7 +226,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 1 -App. Maths-"
             }
           }
         ]
@@ -253,10 +259,17 @@
   },
   "active": "818a9cc1b9db0cd2",
   "lastOpenFiles": [
-    "Untitled Kanban.md",
-    "00 - M.O.C/00 - M.O.C.md",
-    "05 - Fleeting/Untitled.md",
+    "00 - M.O.C/6 -English-.md",
+    "00 - M.O.C/8 -Spanish-.md",
+    "00 - M.O.C/7 -Irish-.md",
     "00 - M.O.C/5 -Maths-.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "00 - M.O.C/3 -Comp. Sci.-.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "00 - M.O.C/1 -App. Maths-.md",
+    "00 - M.O.C/00 - M.O.C.md",
+    "Untitled Kanban.md",
+    "05 - Fleeting/Untitled.md",
     "04 - Permanent/04 - Permanent.md",
     "04 - Permanent/0 -Branches/Sraith Pictuir.md",
     "99 - Meta/Images/EN-EX-40634415 21 of 21.png",
@@ -269,19 +282,12 @@
     "99 - Meta/Images/EN-EX-40634415 14 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 13 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 12 of 21.png",
-    "00 - M.O.C/7 -Irish-.md",
     "04 - Permanent/Chapters/Vectors.md",
-    "00 - M.O.C/1 -App. Maths-.md",
     "02 - Areas/02 - Areas.md",
     "Algebra 3.md",
     "03 - Resources/03 - Resources.md",
     "00 - M.O.C/0 -HomePage-.md",
     "Vault.md",
-    "00 - M.O.C/3 -Comp. Sci.-.md",
-    "00 - M.O.C/2 -Biology-.md",
-    "00 - M.O.C/8 -Spanish-.md",
-    "00 - M.O.C/6 -English-.md",
-    "00 - M.O.C/4 -Physics-.md",
     "99 - Meta/99 - Meta.md",
     "05 - Fleeting/05 - Fleeting.md",
     "06 - Daily/06 - Daily.md",

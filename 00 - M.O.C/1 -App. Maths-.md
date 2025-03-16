@@ -1,10 +1,9 @@
 ---
 tags:
   - appMathsMain
-Teacher: Ms. Dempsey
+Teacher: Mr. Black
 sticker: lucide//sigma
 ---
-
 ### Chapters (5th Yr.)
 1. [[Vectors]]
 2. [[Newton's Laws and Connected Particles]]
