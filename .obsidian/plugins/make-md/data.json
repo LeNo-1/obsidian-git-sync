@@ -28,15 +28,18 @@
   "spaceRowHeight": 29,
   "mobileSpaceRowHeight": 40,
   "bannerHeight": 200,
-  "spacesDisablePatch": true,
+  "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
   "folderNoteName": "",
   "sidebarTabs": true,
-  "showRibbon": true,
+  "showRibbon": false,
   "deleteFileOption": "trash",
   "expandedSpaces": [
     "/",
-    "//00 - M.O.C"
+    "//00 - M.O.C",
+    "//06 - Daily",
+    "//06 - Daily/06 - Daily/2025",
+    "//06 - Daily/06 - Daily/2024"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

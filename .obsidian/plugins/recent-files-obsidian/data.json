@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "06 - Daily",
+      "path": "06 - Daily/06 - Daily.md"
+    },
+    {
+      "basename": "2 -Biology-",
+      "path": "00 - M.O.C/2 -Biology-.md"
+    },
+    {
       "basename": "1 -App. Maths-",
       "path": "00 - M.O.C/1 -App. Maths-.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "3 -Comp. Sci.-",
       "path": "00 - M.O.C/3 -Comp. Sci.-.md"
-    },
-    {
-      "basename": "2 -Biology-",
-      "path": "00 - M.O.C/2 -Biology-.md"
     },
     {
       "basename": "00 - M.O.C",
@@ -67,10 +71,6 @@
     {
       "basename": "05 - Fleeting",
       "path": "05 - Fleeting/05 - Fleeting.md"
-    },
-    {
-      "basename": "06 - Daily",
-      "path": "06 - Daily/06 - Daily.md"
     }
   ],
   "omittedPaths": [],
