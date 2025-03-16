@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 - Permanent/Chapters/Vectors.md",
+                "file": "04 - Permanent/0 -Branches/Sraith Pictuir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vectors"
+              "title": "Sraith Pictuir"
             },
             "group": "c9edbbf58087b279"
           }
@@ -199,7 +199,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "04 - Permanent/Chapters/Vectors.md",
+                "file": "04 - Permanent/0 -Branches/Sraith Pictuir.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -227,7 +227,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Vectors"
+              "title": "Graph of Sraith Pictuir"
             },
             "group": "c9edbbf58087b279"
           }
@@ -260,8 +260,22 @@
   },
   "active": "1e0ceb319dc94a52",
   "lastOpenFiles": [
-    "00 - M.O.C/1 -App. Maths-.md",
+    "99 - Meta/Images/EN-EX-40634415 12 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 11 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 10 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 9 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 8 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 7 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 6 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 5 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 4 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 3 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 2 of 21.png",
+    "00 - M.O.C/7 -Irish-.md",
     "00 - M.O.C/00 - M.O.C.md",
+    "04 - Permanent/04 - Permanent.md",
+    "04 - Permanent/Chapters/Vectors.md",
+    "00 - M.O.C/1 -App. Maths-.md",
     "02 - Areas/02 - Areas.md",
     "Algebra 3.md",
     "03 - Resources/03 - Resources.md",
@@ -270,25 +284,19 @@
     "00 - M.O.C/3 -Comp. Sci.-.md",
     "00 - M.O.C/2 -Biology-.md",
     "00 - M.O.C/8 -Spanish-.md",
-    "00 - M.O.C/7 -Irish-.md",
     "00 - M.O.C/6 -English-.md",
     "00 - M.O.C/5 -Maths-.md",
     "00 - M.O.C/4 -Physics-.md",
     "99 - Meta/99 - Meta.md",
     "05 - Fleeting/05 - Fleeting.md",
     "06 - Daily/06 - Daily.md",
-    "04 - Permanent/04 - Permanent.md",
     "99 - Meta/Tags",
     "04 - Permanent/Chapters/Circular Motion.md",
     "Nutrition.md",
-    "99 - Meta/Images/image.png",
-    "Screenshot From 2025-03-13 22-50-06.png",
     "04 - Permanent/Chapters/Simple Harmonic Motion + Hooke's Law.md",
     "02 - Areas/Computer Science/Typst.md",
     "04 - Permanent/Chapters/Refraction.md",
     "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md",
-    "04 - Permanent/Chapters/Geometrical Optics.md",
-    "04 - Permanent/Chapters/Newton's Laws and Connected Particles.md",
     "02 - Areas/Music/Guitar",
     "04 - Permanent/School Projects",
     "04 - Permanent/School Projects/Untitled.canvas",
@@ -296,19 +304,11 @@
     "ALT 2 - Flow Chart.canvas",
     "99 - Meta/Images/0aba39ab-55ac-47ba-80a5-9710d114122e.pdf",
     "06 - Daily/2025/02",
-    "99 - Meta/Images/Pasted image 20250116142719.webp",
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",
     "06 - Daily/2025/01",
     "06 - Daily/2025",
-    "99 - Meta/Images/rule-1---ray-parallel-to-principal-axis-will-pass-through-focus-2---teachoo.webp",
-    "99 - Meta/Images/63fcd7b009bccf54dcbcd7b7_638487_608984_ans.webp",
     "02 - Areas/Literature/Bookshelf.canvas",
-    "99 - Meta/Images/Biology Sheets-20240829225101621.webp",
-    "99 - Meta/Images/alena-aenami-horizon-1k.jpg",
-    "Remote Git/publish/attachments/vercel-project-id.png",
-    "Remote Git/publish/attachments/vercel-create-token.png",
-    "Remote Git/publish/attachments/github-secrets-vercel.png",
     "Flow Chart.canvas",
     "02 - Areas/Books/Library.canvas"
   ]
