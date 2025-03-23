@@ -77,8 +77,8 @@
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -178,6 +178,20 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "4d2a88311d2a2cbc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
         "currentTab": 5
@@ -185,7 +199,7 @@
       {
         "id": "4eb8e6cdee976020",
         "type": "tabs",
-        "dimension": 54.56,
+        "dimension": 54.559999999999995,
         "children": [
           {
             "id": "6a0cbb91ce9cad30",
@@ -233,7 +247,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-git:Open Git source control": false,
-      "homepage:Open homepage": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": true,
@@ -246,8 +259,6 @@
       "markdown-importer:Open format converter": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-kanban:Create new board": false
     }
   },
