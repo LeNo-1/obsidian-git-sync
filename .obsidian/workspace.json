@@ -72,13 +72,13 @@
             }
           },
           {
-            "id": "1e0ceb319dc94a52",
+            "id": "cb4e0ff7b4734f00",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -262,8 +262,9 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1e0ceb319dc94a52",
+  "active": "5890eed1d0658898",
   "lastOpenFiles": [
+    "Tags",
     "06 - Daily/06 - Daily.md",
     "06 - Daily/2025/2025 - Plan.md",
     "00 - M.O.C/2 -Biology-.md",
@@ -300,7 +301,6 @@
     "99 - Meta/Tags",
     "04 - Permanent/Chapters/Circular Motion.md",
     "Nutrition.md",
-    "04 - Permanent/Chapters/Simple Harmonic Motion + Hooke's Law.md",
     "02 - Areas/Music/Guitar",
     "04 - Permanent/School Projects",
     "04 - Permanent/School Projects/Untitled.canvas",
