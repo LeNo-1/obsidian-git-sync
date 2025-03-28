@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "327294745fee3f3d",
+        "id": "1f80e10a1580bf02",
         "type": "tabs",
         "children": [
           {
-            "id": "818a9cc1b9db0cd2",
+            "id": "f68cc9f02b23b15b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Trigonometry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Trigonometry"
             }
           }
         ],
@@ -75,10 +80,13 @@
             "id": "cb4e0ff7b4734f00",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ],
@@ -95,7 +103,7 @@
       {
         "id": "262c67dfd41553fd",
         "type": "tabs",
-        "dimension": 45.440000000000005,
+        "dimension": 45.44000000000001,
         "children": [
           {
             "id": "3e25589f955c65ac",
@@ -185,12 +193,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Trigonometry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Trigonometry"
             }
           }
         ],
@@ -199,7 +208,7 @@
       {
         "id": "4eb8e6cdee976020",
         "type": "tabs",
-        "dimension": 54.559999999999995,
+        "dimension": 54.55999999999999,
         "children": [
           {
             "id": "6a0cbb91ce9cad30",
@@ -262,8 +271,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "5890eed1d0658898",
+  "active": "f68cc9f02b23b15b",
   "lastOpenFiles": [
+    "00 - M.O.C/5 -Maths-.md",
+    "Trigonometry.md",
+    "00 - M.O.C/00 - M.O.C.md",
     "Tags",
     "06 - Daily/06 - Daily.md",
     "06 - Daily/2025/2025 - Plan.md",
@@ -272,10 +284,8 @@
     "00 - M.O.C/6 -English-.md",
     "00 - M.O.C/8 -Spanish-.md",
     "00 - M.O.C/7 -Irish-.md",
-    "00 - M.O.C/5 -Maths-.md",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
-    "00 - M.O.C/00 - M.O.C.md",
     "Untitled Kanban.md",
     "05 - Fleeting/Untitled.md",
     "04 - Permanent/04 - Permanent.md",
@@ -311,7 +321,6 @@
     "06 - Daily/2025/~syncthing~2025 - Plan.md.tmp",
     "_debug_remotely_save",
     "06 - Daily/2025/01",
-    "06 - Daily/2025",
     "02 - Areas/Literature/Bookshelf.canvas",
     "Flow Chart.canvas",
     "02 - Areas/Books/Library.canvas"
