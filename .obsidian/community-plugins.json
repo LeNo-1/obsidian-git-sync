@@ -22,5 +22,6 @@
   "text2anki-openai",
   "obsidian-kanban",
   "recent-files-obsidian",
-  "make-md"
+  "make-md",
+  "code-styler"
 ]
