@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1f80e10a1580bf02",
+        "id": "3227b46fb0b78bbe",
         "type": "tabs",
         "children": [
           {
-            "id": "f68cc9f02b23b15b",
+            "id": "9e5f0d62edb5e611",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transport in Humans.md",
+                "file": "04 - Permanent/Chapters/Simple Harmonic Motion + Hooke's Law.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transport in Humans"
+              "title": "Simple Harmonic Motion + Hooke's Law"
             }
           }
         ],
@@ -77,7 +77,7 @@
             }
           },
           {
-            "id": "0fa2fa8762f6eca9",
+            "id": "3af0a783da4ae888",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,12 +87,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -186,18 +185,17 @@
             }
           },
           {
-            "id": "4d2a88311d2a2cbc",
+            "id": "2e651279e9a04f00",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Trigonometry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Trigonometry"
+              "title": "Outline"
             }
           }
         ],
@@ -253,7 +251,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": true,
@@ -269,30 +266,27 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "f68cc9f02b23b15b",
+  "active": "9e5f0d62edb5e611",
   "lastOpenFiles": [
-    "image-1.png",
-    "image.png",
+    "00 - M.O.C/4 -Physics-.md",
+    "04 - Permanent/Chapters/Circular Motion.md",
+    "00 - M.O.C/8 -Spanish-.md",
+    "00 - M.O.C/1 -App. Maths-.md",
     "00 - M.O.C/2 -Biology-.md",
-    "Transport in Humans.md",
-    "Structure of the Flowering Plant.md",
-    "00 - M.O.C/00 - M.O.C.md",
-    "Algebra 3.md",
-    "04 - Permanent/04 - Permanent.md",
-    "04 - Permanent/Chapters/Trigonometry.md",
-    "99 - Meta/Images/diagram-20250326.svg",
+    "99 - Meta/99 - Meta.md",
+    "Untitled.canvas",
+    "Math Test.md",
     "00 - M.O.C/5 -Maths-.md",
     "Tags",
     "06 - Daily/06 - Daily.md",
     "06 - Daily/2025/2025 - Plan.md",
-    "00 - M.O.C/1 -App. Maths-.md",
     "00 - M.O.C/6 -English-.md",
-    "00 - M.O.C/8 -Spanish-.md",
     "00 - M.O.C/7 -Irish-.md",
-    "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/3 -Comp. Sci.-.md",
+    "00 - M.O.C/00 - M.O.C.md",
     "Untitled Kanban.md",
     "05 - Fleeting/Untitled.md",
+    "04 - Permanent/04 - Permanent.md",
     "04 - Permanent/0 -Branches/Sraith Pictuir.md",
     "99 - Meta/Images/EN-EX-40634415 21 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 20 of 21.png",
@@ -302,12 +296,15 @@
     "99 - Meta/Images/EN-EX-40634415 16 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 15 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 14 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 13 of 21.png",
+    "99 - Meta/Images/EN-EX-40634415 12 of 21.png",
     "04 - Permanent/Chapters/Vectors.md",
     "02 - Areas/02 - Areas.md",
+    "Algebra 3.md",
     "03 - Resources/03 - Resources.md",
     "00 - M.O.C/0 -HomePage-.md",
     "Vault.md",
-    "99 - Meta/99 - Meta.md",
+    "05 - Fleeting/05 - Fleeting.md",
     "99 - Meta/Tags",
     "02 - Areas/Music/Guitar",
     "04 - Permanent/School Projects",

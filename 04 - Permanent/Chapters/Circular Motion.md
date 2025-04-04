@@ -1,3 +1,6 @@
+---
+tags: physicsmain
+---
 ## Measuring Angles
 In everyday life angles are measured in a unit called the *degree ($\degree$)*
 
@@ -22,10 +25,17 @@ A disc rotates with constant angular velocity ($\omega$) about its centre
 - The greater the distance a particle on the disc is from the centre the greater its linear velocity ($v$).
 
 ### Derive relationship between Linear and Angular velocity
-$$Linear\space Speed=\frac{Length\space of\space Circumference}{Periodic\space Time}\rightarrow v=\frac{2\pi R}{T}\space w=\frac{2\pi}{T}\rightarrow v=\omega r$$
+$$ v=\frac{2\pi R}{T}\space w=\frac{2\pi}{T}\rightarrow v=\omega r$$
 
+### Centripetal Force / Acceleration
+$$F=\frac{mv^2}{r} \space OR \space F=m\omega^2r$$
+$$\therefore a=\frac{v^2}{r} \space OR \space a=\omega^2r$$
+### Newtons law of Universal Gravitation
+$$\frac{Gm_1m_2}{d^2}$$
+- Directly proportional to the product of their masses and inversely proportional to the square of the distance between them
 
 ### Deriving Period of Orbit and Radius
 $$\frac{mv^2}{R}=\frac{GmM}{R^2}\rightarrow v^2=\frac{GM}{R}$$
+
 $$T=\frac{2\pi R}{v}\rightarrow T^2=\frac{4\pi^2 R^2}{v^2} \rightarrow  \frac{4\pi^2 R^2}{(GM/R)}$$
 $$T^2=\frac{4\pi^2 R^3}{GM}$$

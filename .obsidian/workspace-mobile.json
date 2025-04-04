@@ -35,16 +35,22 @@
             }
           },
           {
-            "id": "62190373d8eb89f4",
+            "id": "7178b8eb54b762e2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "04 - Permanent/Chapters/Fungi and Protists.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fungi and Protists"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,9 +127,32 @@
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
         }
+      },
+      {
+        "id": "0d1f52f5b01ed265",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "7eb964ba85641d20",
+        "type": "leaf",
+        "state": {
+          "type": "mk-path-view",
+          "state": {},
+          "icon": "layout-grid",
+          "title": "Navigator"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 6
   },
   "right": {
     "id": "b29280d275f1fc4e",
@@ -208,8 +237,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "e753f0ef995ad109",
+  "active": "7178b8eb54b762e2",
   "lastOpenFiles": [
+    "00 - M.O.C/2 -Biology-.md",
+    "image-1.png",
+    "image.png",
+    "04 - Permanent/Chapters/Collisions and Impacts.md",
+    "00 - M.O.C/1 -App. Maths-.md",
     "00 - M.O.C/4 -Physics-.md",
     "00 - M.O.C/0 -HomePage-.md",
     "06 - Daily/2025/02/ 2025-02-21 Fri.md",
@@ -225,7 +259,6 @@
     "00 - M.O.C/8 -Spanish-.sync-conflict-20250206-171621-IQJAD6N.md",
     "06 - Daily/2025/01/ 2025-01-24 Fri.md",
     "00 - M.O.C/8 -Spanish-.md",
-    "00 - M.O.C/2 -Biology-.md",
     "06 - Daily/2025/02/ 2025-02-06 Thu.md",
     "04 - Permanent/0 -Branches/Sraith Pictuir.md",
     "99 - Meta/Images/EN-EX-40634415.pdf",
@@ -234,9 +267,6 @@
     "02 - Areas/Computer Science/~ VIM Keybinds ~.md",
     "06 - Daily/2025/02/ 2025-02-03 Mon.md",
     "04 - Permanent/Chapters/Present Tense Verbs.md",
-    "00 - M.O.C/1 -App. Maths-.md",
-    "06 - Daily/2025/01/ 2025-01-28 Tue.md",
-    "06 - Daily/2025/01/ 2025-01-27 Mon.md",
     "02 - Areas/Literature/Bookshelf.canvas"
   ]
 }

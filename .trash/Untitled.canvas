@@ -1,0 +1,17 @@
+{
+  "edges": [
+  ],
+  "nodes": [
+    {
+      "height": 340,
+      "id": "f244939fe8bad1ef",
+      "styleAttributes": {
+      },
+      "text": "# $$2sin\\theta cos\\theta = 4sin\\theta cos^2\\theta$$  \n",
+      "type": "text",
+      "width": 660,
+      "x": -340,
+      "y": -60
+    }
+  ]
+}

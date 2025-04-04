@@ -4,6 +4,7 @@ tags:
 Teacher: Mr. Kennedy
 sticker: emoji//1f9ee
 ---
+
 ### Chapters (5th Yr.)
 #### Paper 1
 1.  [[Algebra 1]]

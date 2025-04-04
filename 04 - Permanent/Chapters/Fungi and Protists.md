@@ -45,8 +45,8 @@ ___
 5. The **wall** between the gametangia **breaks down**
 6. Fertilisation occurs when two nuclei fuse. Many **diploid nuclei form**.
 7. A tough, resistant outer wall forms around the old gametangia, forming a **zygospore** (2n)
-> A **Gametangium** is a structure that produces gametes in Rhizopus
-8. The **parent hyphae die** away and the zygospores are released. The zygospore can remain dormant for a number of months. When conditions are suitable the zygospore germinates by meiosis.
-9. This produces haploid hypha which grows and produces a sporangium
+8. A **Gametangium** is a structure that produces gametes in Rhizopus
+9. The **parent hyphae die** away and the zygospores are released. The zygospore can remain dormant for a number of months. When conditions are suitable the zygospore germinates by meiosis.
+10. This produces haploid hypha which grows and produces a sporangium
 # Experiment
 ## Investigating the growth of yeast using agar plates and controls
