@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transport in Humans.md",
+                "file": "Java Script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transport in Humans"
+              "title": "Java Script"
             }
           }
         ],
@@ -87,12 +87,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -271,10 +270,12 @@
   },
   "active": "f68cc9f02b23b15b",
   "lastOpenFiles": [
+    "00 - M.O.C/3 -Comp. Sci.-.md",
+    "Java Script.md",
+    "Transport in Humans.md",
     "image-1.png",
     "image.png",
     "00 - M.O.C/2 -Biology-.md",
-    "Transport in Humans.md",
     "Structure of the Flowering Plant.md",
     "00 - M.O.C/00 - M.O.C.md",
     "Algebra 3.md",
@@ -290,7 +291,6 @@
     "00 - M.O.C/8 -Spanish-.md",
     "00 - M.O.C/7 -Irish-.md",
     "00 - M.O.C/4 -Physics-.md",
-    "00 - M.O.C/3 -Comp. Sci.-.md",
     "Untitled Kanban.md",
     "05 - Fleeting/Untitled.md",
     "04 - Permanent/0 -Branches/Sraith Pictuir.md",
@@ -301,7 +301,6 @@
     "99 - Meta/Images/EN-EX-40634415 17 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 16 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 15 of 21.png",
-    "99 - Meta/Images/EN-EX-40634415 14 of 21.png",
     "04 - Permanent/Chapters/Vectors.md",
     "02 - Areas/02 - Areas.md",
     "03 - Resources/03 - Resources.md",
