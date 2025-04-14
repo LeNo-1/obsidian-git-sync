@@ -6,4 +6,5 @@
 ## [['Mid-term Break' by Seamus Heaney]]
 
 # ~Heaney's Life~
-- Brother died very young,[[midter]]
+- Brother died very young ([['Mid-term Break' by Seamus Heaney]])
+- 

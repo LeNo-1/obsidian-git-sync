@@ -44,9 +44,7 @@
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [
-    "02 - Areas/Literature/Books"
-  ],
+  "hiddenFiles": [],
   "hiddenExtensions": [
     ".mdb",
     "_assets",

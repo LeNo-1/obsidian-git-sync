@@ -6,11 +6,10 @@ sticker: emoji//1f4ac
 ---
 
 # Chapters (5th Yr.)
-1. [[Sheamus Heaney]]
-2. [[Persuasive Language]]
-3. [[Sive]]
-4. [[The Shawshank Redemption]]
-5. 
+1. [[Persuasive Language]]
+2. [[Sive]]
+3. [[The Shawshank Redemption]]
+4. 
 ## Macbeth
 ### [[Act 1]]
  [[Act 1 Scene 1 - The Witches]]
@@ -54,3 +53,7 @@ _ [[Act 2 Scene 4 - Outside Macbeths Castle ]]
 ### Character Study
 [[Study - MacBeth]]
 [[Lady Macbeth]]
+
+## Poets
+[[Sheamus Heaney]]
+[[Elizabeth Bishop]]

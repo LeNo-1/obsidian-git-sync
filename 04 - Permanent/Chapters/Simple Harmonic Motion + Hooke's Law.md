@@ -5,7 +5,7 @@ $$F=-ks$$
 - k is the elastic constant or the spring constant
 ## Simple Harmonic Motion
 There is one position O where the upward force on the mass due to the spring is equal to its weight. If the mass is placed at O at rest it will remain there. O is called the *equilibrium position*.
-![[image.png|347x298]]
+![[99 - Meta/image.png|347x298]]
 A body moves with **Simple Harmonic Motion** if:
 - Its *acceleration* is directly *proportional to its distance* from a fixed *point on its path*
 - Its *acceleration* is always *directed towards that point*
