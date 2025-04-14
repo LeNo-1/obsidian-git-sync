@@ -6,7 +6,7 @@ sticker: emoji//1f4bb
 ---
 
 ### Chapters (5th Yr.)
-1. [[Getting Started with Python - 01]]
+1. [[Getting Started with Python]]
 2. [[Microbit]]
 3. [[Analytics]]
 4. [[HTML and CSS]]
