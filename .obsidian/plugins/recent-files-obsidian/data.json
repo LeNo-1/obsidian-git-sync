@@ -5,6 +5,26 @@
       "path": "00 - M.O.C/3 -Comp. Sci.-.md"
     },
     {
+      "basename": "Circular Motion and Hooke's Law",
+      "path": "04 - Permanent/Chapters/Circular Motion and Hooke's Law.md"
+    },
+    {
+      "basename": "1 -App. Maths-",
+      "path": "00 - M.O.C/1 -App. Maths-.md"
+    },
+    {
+      "basename": "Newton's Laws and Connected Particles",
+      "path": "04 - Permanent/Chapters/Newton's Laws and Connected Particles.md"
+    },
+    {
+      "basename": "Vectors",
+      "path": "04 - Permanent/Chapters/Vectors.md"
+    },
+    {
+      "basename": "Circular Motion",
+      "path": "04 - Permanent/Chapters/Circular Motion.md"
+    },
+    {
       "basename": "Getting Started with Python",
       "path": "04 - Permanent/Chapters/Getting Started with Python.md"
     },
@@ -39,14 +59,6 @@
     {
       "basename": "00 - M.O.C",
       "path": "00 - M.O.C/00 - M.O.C.md"
-    },
-    {
-      "basename": "1 -App. Maths-",
-      "path": "00 - M.O.C/1 -App. Maths-.md"
-    },
-    {
-      "basename": "Circular Motion and Hooke's Law",
-      "path": "04 - Permanent/Chapters/Circular Motion and Hooke's Law.md"
     },
     {
       "basename": "Algebra 3",
@@ -103,10 +115,6 @@
     {
       "basename": "7 -Irish-",
       "path": "00 - M.O.C/7 -Irish-.md"
-    },
-    {
-      "basename": "Vectors",
-      "path": "04 - Permanent/Chapters/Vectors.md"
     },
     {
       "basename": "Vault",
