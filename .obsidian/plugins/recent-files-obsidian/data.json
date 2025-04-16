@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "-{Project Ideas}",
-      "path": "20 - Areas/Computer Science/-{Project Ideas}.md"
+      "basename": "10.01 - {Project Ideas}",
+      "path": "10 - Areas/10.0 - Computer Science/10.01 - {Project Ideas}.md"
+    },
+    {
+      "basename": "10 - Areas",
+      "path": "10 - Areas/10 - Areas.md"
     },
     {
       "basename": "00 - M.O.C",
@@ -10,15 +14,15 @@
     },
     {
       "basename": "Transport in Humans",
-      "path": "04 - Permanent/Chapters/Transport in Humans.md"
+      "path": "30 - Permanent/Chapters/Transport in Humans.md"
     },
     {
       "basename": "Algebra 3",
       "path": "Algebra 3.md"
     },
     {
-      "basename": "04 - Permanent",
-      "path": "04 - Permanent/04 - Permanent.md"
+      "basename": "30 - Permanent",
+      "path": "30 - Permanent/30 - Permanent.md"
     },
     {
       "basename": "4 -Physics-",
@@ -26,11 +30,11 @@
     },
     {
       "basename": "Geometrical Optics",
-      "path": "04 - Permanent/Chapters/Geometrical Optics.md"
+      "path": "30 - Permanent/Chapters/Geometrical Optics.md"
     },
     {
       "basename": "Reflection of Light from Spherical Mirrors",
-      "path": "04 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md"
+      "path": "30 - Permanent/Chapters/Reflection of Light from Spherical Mirrors.md"
     },
     {
       "basename": "3 -Comp. Sci.-",
@@ -42,11 +46,11 @@
     },
     {
       "basename": "Cell Diversity",
-      "path": "04 - Permanent/Chapters/Cell Diversity.md"
+      "path": "30 - Permanent/Chapters/Cell Diversity.md"
     },
     {
       "basename": "Circular Motion and Hooke's Law",
-      "path": "04 - Permanent/Chapters/Circular Motion and Hooke's Law.md"
+      "path": "30 - Permanent/Chapters/Circular Motion and Hooke's Law.md"
     },
     {
       "basename": "1 -App. Maths-",
@@ -54,27 +58,27 @@
     },
     {
       "basename": "Newton's Laws and Connected Particles",
-      "path": "04 - Permanent/Chapters/Newton's Laws and Connected Particles.md"
+      "path": "30 - Permanent/Chapters/Newton's Laws and Connected Particles.md"
     },
     {
       "basename": "Vectors",
-      "path": "04 - Permanent/Chapters/Vectors.md"
+      "path": "30 - Permanent/Chapters/Vectors.md"
     },
     {
       "basename": "Circular Motion",
-      "path": "04 - Permanent/Chapters/Circular Motion.md"
+      "path": "30 - Permanent/Chapters/Circular Motion.md"
     },
     {
       "basename": "Getting Started with Python",
-      "path": "04 - Permanent/Chapters/Getting Started with Python.md"
+      "path": "30 - Permanent/Chapters/Getting Started with Python.md"
     },
     {
       "basename": "Cell Structure and Microscopy",
-      "path": "04 - Permanent/Chapters/Cell Structure and Microscopy.md"
+      "path": "30 - Permanent/Chapters/Cell Structure and Microscopy.md"
     },
     {
       "basename": "Sheamus Heaney",
-      "path": "04 - Permanent/0 -Branches/Sheamus Heaney.md"
+      "path": "30 - Permanent/0 -Branches/Sheamus Heaney.md"
     },
     {
       "basename": "6 -English-",
@@ -86,15 +90,11 @@
     },
     {
       "basename": "Shows",
-      "path": "20 - Areas/Shows/Shows.md"
+      "path": "10 - Areas/Shows/Shows.md"
     },
     {
-      "basename": "20 - Areas",
-      "path": "20 - Areas/20 - Areas.md"
-    },
-    {
-      "basename": "03 - Resources",
-      "path": "03 - Resources/03 - Resources.md"
+      "basename": "20 - Resources",
+      "path": "20 - Resources/20 - Resources.md"
     },
     {
       "basename": "image",
@@ -106,19 +106,19 @@
     },
     {
       "basename": "ALT 2",
-      "path": "04 - Permanent/School Projects/ALT 2.md"
+      "path": "30 - Permanent/School Projects/ALT 2.md"
     },
     {
       "basename": "Trigonometry",
-      "path": "04 - Permanent/Chapters/Trigonometry.md"
+      "path": "30 - Permanent/Chapters/Trigonometry.md"
     },
     {
       "basename": "diagram-20250326",
       "path": "99 - Meta/Images/diagram-20250326.svg"
     },
     {
-      "basename": "06 - Daily",
-      "path": "06 - Daily/06 - Daily.md"
+      "basename": "50 - Daily",
+      "path": "50 - Daily/50 - Daily.md"
     },
     {
       "basename": "8 -Spanish-",
@@ -137,8 +137,8 @@
       "path": "99 - Meta/99 - Meta.md"
     },
     {
-      "basename": "05 - Fleeting",
-      "path": "05 - Fleeting/05 - Fleeting.md"
+      "basename": "40 - Fleeting",
+      "path": "40 - Fleeting/40 - Fleeting.md"
     }
   ],
   "omittedPaths": [],
