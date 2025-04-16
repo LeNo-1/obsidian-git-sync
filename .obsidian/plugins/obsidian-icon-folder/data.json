@@ -42,10 +42,6 @@
   "04 - Permanent/0 -Branches": "LiGitBranch",
   "04 - Permanent/0 -Binder": "LiFolderGit2",
   "01 - Projects": "LiToyBrick",
-  "02 - Areas": "LiBoxes",
-  "02 - Areas/Literature/Done.md": "LiCombine",
-  "02 - Areas/Literature/To Be Read.md": "LiBookmarkPlus",
-  "02 - Areas/Literature/Bookshelf.canvas": "LiBoxGlyph",
   "03 - Resources": "LiBookMarked",
   "07 - Archives": "LiFileStack",
   "00 - M.O.C": "LiGlobe2",
@@ -57,8 +53,12 @@
   "00 - M.O.C/6 -English-.md": "LiSkull",
   "00 - M.O.C/7 -Irish-.md": "LiCastle",
   "00 - M.O.C/8 -Spanish-.md": "LiWine",
-  "02 - Areas/Music/Music.md": "LiMusic2",
-  "02 - Areas/GYM/GYM.md": "LiDumbbell",
-  "02 - Areas/Literature/Library.md": "LiLibraryBig",
-  "99 - Meta/Excalidraw": "LiPaintbrush"
+  "99 - Meta/Excalidraw": "LiPaintbrush",
+  "20 - Areas": "LiBoxes",
+  "20 - Areas/GYM/GYM.md": "LiDumbbell",
+  "20 - Areas/Literature/Bookshelf.canvas": "LiBoxGlyph",
+  "20 - Areas/Literature/Done.md": "LiCombine",
+  "20 - Areas/Literature/To Be Read.md": "LiBookmarkPlus",
+  "20 - Areas/Literature/Library.md": "LiLibraryBig",
+  "20 - Areas/Music/Music.md": "LiMusic2"
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "-{Project Ideas}",
+      "path": "20 - Areas/Computer Science/-{Project Ideas}.md"
+    },
+    {
+      "basename": "00 - M.O.C",
+      "path": "00 - M.O.C/00 - M.O.C.md"
+    },
+    {
       "basename": "Transport in Humans",
       "path": "04 - Permanent/Chapters/Transport in Humans.md"
     },
@@ -77,16 +85,12 @@
       "path": "00 - M.O.C/5 -Maths-.md"
     },
     {
-      "basename": "00 - M.O.C",
-      "path": "00 - M.O.C/00 - M.O.C.md"
-    },
-    {
       "basename": "Shows",
-      "path": "02 - Areas/Shows/Shows.md"
+      "path": "20 - Areas/Shows/Shows.md"
     },
     {
-      "basename": "02 - Areas",
-      "path": "02 - Areas/02 - Areas.md"
+      "basename": "20 - Areas",
+      "path": "20 - Areas/20 - Areas.md"
     },
     {
       "basename": "03 - Resources",
