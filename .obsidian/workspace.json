@@ -13,16 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 - Areas/Music/Guitar/Untitled.md",
+                "file": "20 - Resources/Bucket List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Bucket List"
+            }
+          },
+          {
+            "id": "e9c818e903a6f1a7",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/",
+                "title": "YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "YouTube"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -234,20 +250,21 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "b7a689215b76c84c",
+  "active": "e9c818e903a6f1a7",
   "lastOpenFiles": [
+    "20 - Resources/Bucket List.md",
+    "30 - Permanent/30 - Permanent.md",
+    "10 - Areas/Music/Guitar/Untitled.md",
     "10 - Areas/Shows/Game of Thrones.md",
     "10 - Areas/Shows/Shows.md",
     "10 - Areas/Music/Music.md",
     "10 - Areas/Shows/Sopranos.md",
-    "30 - Permanent/30 - Permanent.md",
     "Vault.md",
     "30 - Permanent/School Projects/ALT 2.md",
     "30 - Permanent/Self  Storage/Functions.py.md",
     "30 - Permanent/Chapters/Networks and Graphs.md",
     "10 - Areas/10 - Areas.md",
     "Algebra 3.md",
-    "20 - Resources/Bucket List.md",
     "20 - Resources/Cool Things.md",
     "10 - Areas/Computer Science/C.md",
     "10 - Areas/Computer Science/10.01 - {Project Ideas}.md",
@@ -263,7 +280,6 @@
     "00 - M.O.C/00 - M.O.C.md",
     "50 - Daily/2025/05",
     "50 - Daily/2025",
-    "50 - Daily/Untitled.md",
     "10 - Areas/Food & Recipes/Roisin's Cookies.cook",
     "10 - Areas/10.0 - Computer Science/C",
     "10 - Areas/Food & Recipes",
