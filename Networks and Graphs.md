@@ -17,6 +17,7 @@
 
 - Def. : The *degree* ( or __valency__ or __order__ ) of a a vertex is the number of edges incident to it
 - *Handshaking Lemma:* In any graph the **sum of the degrees** will be precisely equal to **2 times the number of edges**
+
 - Def. : A _subgraph_ pf any graph G is any graph, each of whose edges and vertices belong to graph G. It is simply part of the original graph G
 - Def. : A _diagraph_ ( or **directed graph** ) is a graph where each of the edges has a **direction associated** with them
 - Def. : A *loop* is an edge that **starts and finishes at the same vertex**
@@ -24,6 +25,7 @@
 - Def. : A graph is a *simple graph* if:
 	- It does **not contain any loops**
 	- There is no more than **one edge joining any pair of vertices**
+
 - Def. : A graph is *connected* if there is a **path connecting all the vertices** on the graph. A graph is *disconnected* if there are any **vertices on the graph between which there is no path**.
 - Def. : A _tree_ is a connected graph with **no cycles**
 - Def. : A _spanning tree_ of a graph G is any subgraph of G which includes all the vertices of G and is also a tree
