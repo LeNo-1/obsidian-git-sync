@@ -230,10 +230,11 @@
       "markdown-importer:Open format converter": false,
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "477aab6beb68622b",
+  "active": "b7a689215b76c84c",
   "lastOpenFiles": [
     "10 - Areas/Shows/Game of Thrones.md",
     "10 - Areas/Shows/Shows.md",
