@@ -35,9 +35,23 @@
               "icon": "globe-2",
               "title": "(669) We made the WORST album on discord - YouTube"
             }
+          },
+          {
+            "id": "86f70fb9af9c59f2",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://duckduckgo.com/?q=how+to+use+web+search+on+obsidian&ia=web",
+                "title": "how to use web search on obsidian at DuckDuckGo",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "how to use web search on obsidian at DuckDuckGo"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,8 +119,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -250,7 +263,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "e9c818e903a6f1a7",
+  "active": "86f70fb9af9c59f2",
   "lastOpenFiles": [
     "20 - Resources/Bucket List.md",
     "30 - Permanent/30 - Permanent.md",
