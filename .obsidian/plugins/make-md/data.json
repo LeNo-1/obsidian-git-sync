@@ -50,7 +50,9 @@
     "//30 - Permanent/30 - Permanent/Self  Storage",
     "//30 - Permanent/30 - Permanent/School Projects",
     "//30 - Permanent/30 - Permanent/Chapters",
-    "//10 - Areas"
+    "//10 - Areas",
+    "//10 - Areas/10 - Areas/Music",
+    "//10 - Areas/10 - Areas/Music/10 - Areas/Music/Guitar"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

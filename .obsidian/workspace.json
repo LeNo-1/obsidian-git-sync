@@ -11,12 +11,15 @@
             "id": "b7a689215b76c84c",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "30 - Permanent"
+                "file": "10 - Areas/Shows/Game of Thrones.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "30 - Permanent"
+              "title": "Game of Thrones"
             }
           }
         ]
@@ -232,6 +235,10 @@
   },
   "active": "477aab6beb68622b",
   "lastOpenFiles": [
+    "10 - Areas/Shows/Game of Thrones.md",
+    "10 - Areas/Shows/Shows.md",
+    "10 - Areas/Music/Music.md",
+    "10 - Areas/Shows/Sopranos.md",
     "30 - Permanent/30 - Permanent.md",
     "Vault.md",
     "30 - Permanent/School Projects/ALT 2.md",
@@ -239,27 +246,23 @@
     "30 - Permanent/Chapters/Networks and Graphs.md",
     "10 - Areas/10 - Areas.md",
     "Algebra 3.md",
-    "Sopranos.md",
     "20 - Resources/Bucket List.md",
     "20 - Resources/Cool Things.md",
-    "10 - Areas/10.0 - Computer Science/C.md",
-    "10 - Areas/10.0 - Computer Science/10.01 - {Project Ideas}.md",
-    "10 - Areas/10.0 - Computer Science/Python.md",
-    "10 - Areas/10.0 - Computer Science/Java.md",
-    "10 - Areas/10.0 - Computer Science/Html.md",
-    "10 - Areas/10.0 - Computer Science/CSS.md",
-    "10 - Areas/Shows/Shows.md",
+    "10 - Areas/Computer Science/C.md",
+    "10 - Areas/Computer Science/10.01 - {Project Ideas}.md",
+    "10 - Areas/Computer Science/Python.md",
+    "10 - Areas/Computer Science/Java.md",
+    "10 - Areas/Computer Science/Html.md",
+    "10 - Areas/Computer Science/CSS.md",
     "50 - Daily/2025/05/ 2025-05-04 Sun.md",
     "99 - Meta/Templates/Daily Notes.md",
-    "10 - Areas/10.0 - Computer Science/Typst.md",
+    "10 - Areas/Computer Science/Typst.md",
     "20 - Resources/Music Discovery.md",
     "20 - Resources/Random Password things.md",
     "00 - M.O.C/00 - M.O.C.md",
     "50 - Daily/2025/05",
     "50 - Daily/2025",
     "50 - Daily/Untitled.md",
-    "00 - M.O.C/2 -Biology-.md",
-    "00 - M.O.C/1 -App. Maths-.md",
     "10 - Areas/Food & Recipes/Roisin's Cookies.cook",
     "10 - Areas/10.0 - Computer Science/C",
     "10 - Areas/Food & Recipes",
