@@ -8,18 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12ed33ffc84a8974",
+            "id": "b7a689215b76c84c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Networks and Graphs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "30 - Permanent"
               },
               "icon": "lucide-file",
-              "title": "Networks and Graphs"
+              "title": "30 - Permanent"
             }
           }
         ]
@@ -85,12 +82,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 244.5,
-    "collapsed": true
+    "width": 244.5
   },
   "right": {
     "id": "c55bf128edf3f20e",
@@ -233,9 +230,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "12ed33ffc84a8974",
+  "active": "477aab6beb68622b",
   "lastOpenFiles": [
-    "Networks and Graphs.md",
+    "30 - Permanent/30 - Permanent.md",
+    "Vault.md",
+    "30 - Permanent/School Projects/ALT 2.md",
+    "30 - Permanent/Self  Storage/Functions.py.md",
+    "30 - Permanent/Chapters/Networks and Graphs.md",
+    "10 - Areas/10 - Areas.md",
     "Algebra 3.md",
     "Sopranos.md",
     "20 - Resources/Bucket List.md",
@@ -249,7 +251,6 @@
     "10 - Areas/Shows/Shows.md",
     "50 - Daily/2025/05/ 2025-05-04 Sun.md",
     "99 - Meta/Templates/Daily Notes.md",
-    "Vault.md",
     "10 - Areas/10.0 - Computer Science/Typst.md",
     "20 - Resources/Music Discovery.md",
     "20 - Resources/Random Password things.md",
@@ -259,10 +260,6 @@
     "50 - Daily/Untitled.md",
     "00 - M.O.C/2 -Biology-.md",
     "00 - M.O.C/1 -App. Maths-.md",
-    "10 - Areas/10 - Areas.md",
-    "10 - Areas/10.0 - Computer Science/C/C.md",
-    "10 - Areas/10.0 - Computer Science/C/Untitled.md",
-    "10 - Areas/10.0 - Computer Science/10.0 - Computer Science.md",
     "10 - Areas/Food & Recipes/Roisin's Cookies.cook",
     "10 - Areas/10.0 - Computer Science/C",
     "10 - Areas/Food & Recipes",

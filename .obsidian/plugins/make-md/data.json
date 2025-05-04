@@ -43,13 +43,14 @@
     "//02 - Areas",
     "//02 - Areas/02 - Areas/Computer Science",
     "//10 - Areas/10 - Areas/GYM",
-    "//20 - Resources",
-    "//10 - Areas",
     "//10 - Areas/10 - Areas/Food",
     "//10 - Areas/10 - Areas/10.0 - Computer Science",
     "//10 - Areas/10 - Areas/10.0 - Computer Science/10 - Areas/10.0 - Computer Science/C",
     "/",
-    "//00 - M.O.C"
+    "//30 - Permanent/30 - Permanent/Self  Storage",
+    "//30 - Permanent/30 - Permanent/School Projects",
+    "//30 - Permanent/30 - Permanent/Chapters",
+    "//10 - Areas"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

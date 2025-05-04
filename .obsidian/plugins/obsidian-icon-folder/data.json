@@ -56,9 +56,9 @@
   "10 - Areas/Music/Music.md": "LiMusic2",
   "20 - Resources": "LiBookMarked",
   "30 - Permanent": "LiXCircle",
-  "30 - Permanent/0 -Binder": "LiFolderGit2",
-  "30 - Permanent/0 -Branches": "LiGitBranch",
   "30 - Permanent/Chapters": "LiBookImage",
   "40 - Fleeting": "LiPencil",
-  "50 - Daily": "LiCalendarPlus"
+  "50 - Daily": "LiCalendarPlus",
+  "30 - Permanent/Branches": "LiGitBranch",
+  "30 - Permanent/Binder": "LiFolderGit2"
 }
