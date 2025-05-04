@@ -51,7 +51,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -263,7 +263,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "86f70fb9af9c59f2",
+  "active": "e9c818e903a6f1a7",
   "lastOpenFiles": [
     "20 - Resources/Bucket List.md",
     "30 - Permanent/30 - Permanent.md",
