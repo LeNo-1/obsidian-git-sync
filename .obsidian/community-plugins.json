@@ -18,5 +18,6 @@
   "text2anki-openai",
   "make-md",
   "cooklang-obsidian",
-  "chord-sheets"
+  "chord-sheets",
+  "obsidian-media-db-plugin"
 ]
