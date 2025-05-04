@@ -1,0 +1,23 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": true,
+  "vimMode": true,
+  "strictLineBreaks": false,
+  "propertiesInDocument": "visible",
+  "attachmentFolderPath": "./",
+  "livePreview": true,
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "príomhtheama",
+    "gnáthféar ",
+    "náthbhean ",
+    "Momentum",
+    "fla",
+    "Deriving",
+    "of",
+    "Period",
+    "Orbit"
+  ],
+  "readableLineLength": false,
+  "showInlineTitle": true
+}

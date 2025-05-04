@@ -1,0 +1,16 @@
+{
+  "cssTheme": "Typomagical",
+  "theme": "obsidian",
+  "monospaceFontFamily": "",
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "accentColor": "#285c77",
+  "enabledCssSnippets": [
+    "Notebook Backgrounds",
+    "extended-colorschemes",
+    "hide-propertie"
+  ],
+  "nativeMenus": true,
+  "showRibbon": false,
+  "showViewHeader": false
+}

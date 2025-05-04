@@ -1,0 +1,12 @@
+{
+  "preview": true,
+  "git-view": false,
+  "graph": false,
+  "outline": false,
+  "properties": false,
+  "editor": false,
+  "tab-header": false,
+  "file-explorer": false,
+  "bookmarks": false,
+  "search": false
+}

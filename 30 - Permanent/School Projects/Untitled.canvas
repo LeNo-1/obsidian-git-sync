@@ -1,0 +1,43 @@
+{
+  "edges": [
+    {
+      "fromNode": "4f65d282a764467d",
+      "fromSide": "bottom",
+      "id": "c25f97a2affa2713",
+      "styleAttributes": {
+        "arrow": "triangle-outline",
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "2f0a93c29ceb72c6",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "1",
+      "height": 60,
+      "id": "4f65d282a764467d",
+      "styleAttributes": {
+        "shape": "pill",
+        "textAlign": "center"
+      },
+      "text": "# Start",
+      "type": "text",
+      "width": 260,
+      "x": -120,
+      "y": -480
+    },
+    {
+      "height": 60,
+      "id": "2f0a93c29ceb72c6",
+      "styleAttributes": {
+      },
+      "text": "## Hypothesis 1",
+      "type": "text",
+      "width": 260,
+      "x": -380,
+      "y": -260
+    }
+  ]
+}

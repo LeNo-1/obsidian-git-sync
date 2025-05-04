@@ -1,0 +1,5 @@
+/* Hide the properties panel in Obsidian/Make.md */
+div.metadata-container,
+div.mk-properties {
+  display: none !important;
+}
