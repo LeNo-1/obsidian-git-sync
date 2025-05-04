@@ -28,12 +28,12 @@
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://www.youtube.com/",
-                "title": "YouTube",
+                "url": "https://www.youtube.com/watch?v=htPDkYLfAxI&t=120s",
+                "title": "(669) We made the WORST album on discord - YouTube",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "YouTube"
+              "title": "(669) We made the WORST album on discord - YouTube"
             }
           }
         ],
