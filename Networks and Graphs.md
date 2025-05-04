@@ -20,6 +20,7 @@
 - Def. : A _subgraph_ pf any graph G is any graph, each of whose edges and vertices belong to graph G. It is simply part of the original graph G
 - Def. : A _diagraph_ ( or **directed graph** ) is a graph where each of the edges has a **direction associated** with them
 - Def. : A *loop* is an edge that **starts and finishes at the same vertex**
+
 - Def. : A graph is a *simple graph* if:
 	- It does **not contain any loops**
 	- There is no more than **one edge joining any pair of vertices**
