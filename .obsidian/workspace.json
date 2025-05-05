@@ -198,13 +198,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Human Nutrition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Human Nutrition"
+              "title": "Outline"
             }
           }
         ],
@@ -221,7 +220,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Human Nutrition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -249,7 +247,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Human Nutrition"
+              "title": "Graph view"
             }
           }
         ]
@@ -277,7 +275,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "b7a689215b76c84c",
+  "active": "903aa4a3e8ef2ffc",
   "lastOpenFiles": [
     "Human Nutrition.md",
     "00 - M.O.C/2 -Biology-.md",

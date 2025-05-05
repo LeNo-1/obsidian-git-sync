@@ -48,3 +48,13 @@ There are four types of tooth: **Incisors for biting, canines for tearing, premo
  ---
 
 $$i\frac{2}{2},c\frac{1}{1},pm\frac{2}{2},m\frac{3}{3}$$
+@image of teeth
+
+#### Chemical Digestion
+
+
+
+
+| Name | Type of Secretion | Role | Site Produced |     |     |     |
+| ---- | ----------------- | ---- | ------------- | --- | --- | --- |
+|      |                   |      |               |     |     |     |
