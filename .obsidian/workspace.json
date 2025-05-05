@@ -13,45 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 - Resources/Bucket List.md",
+                "file": "Heterotrophs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Bucket List"
+              "title": "Heterotrophs"
             }
           },
           {
-            "id": "e9c818e903a6f1a7",
+            "id": "aab69245c9613a51",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://www.youtube.com/watch?v=htPDkYLfAxI&t=120s",
-                "title": "We made the WORST album on discord - YouTube",
-                "mode": "webview"
+                "file": "Human Nutrition.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "globe-2",
-              "title": "We made the WORST album on discord - YouTube"
-            }
-          },
-          {
-            "id": "86f70fb9af9c59f2",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://duckduckgo.com/?q=how+to+use+web+search+on+obsidian&ia=web",
-                "title": "how to use web search on obsidian at DuckDuckGo",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "how to use web search on obsidian at DuckDuckGo"
+              "icon": "lucide-file",
+              "title": "Human Nutrition"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,8 +249,13 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "e9c818e903a6f1a7",
+  "active": "b7a689215b76c84c",
   "lastOpenFiles": [
+    "Human Nutrition.md",
+    "Heterotrophs.md",
+    "00 - M.O.C/2 -Biology-.md",
+    "00 - M.O.C/1 -App. Maths-.md",
+    "00 - M.O.C/00 - M.O.C.md",
     "20 - Resources/Bucket List.md",
     "30 - Permanent/30 - Permanent.md",
     "10 - Areas/Music/Guitar/Untitled.md",
@@ -286,11 +277,6 @@
     "10 - Areas/Computer Science/Html.md",
     "10 - Areas/Computer Science/CSS.md",
     "50 - Daily/2025/05/ 2025-05-04 Sun.md",
-    "99 - Meta/Templates/Daily Notes.md",
-    "10 - Areas/Computer Science/Typst.md",
-    "20 - Resources/Music Discovery.md",
-    "20 - Resources/Random Password things.md",
-    "00 - M.O.C/00 - M.O.C.md",
     "50 - Daily/2025/05",
     "50 - Daily/2025",
     "10 - Areas/Food & Recipes/Roisin's Cookies.cook",
