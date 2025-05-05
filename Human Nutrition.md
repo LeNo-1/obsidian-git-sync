@@ -55,6 +55,11 @@ $$i\frac{2}{2},c\frac{1}{1},pm\frac{2}{2},m\frac{3}{3}$$
 
 
 
-| Name | Type of Secretion | Role | Site Produced |     |     |     |
-| ---- | ----------------- | ---- | ------------- | --- | --- | --- |
-|      |                   |      |               |     |     |     |
+| Name              | Type of Secretion | Role                                                                | Site Produced            | pH  | Site of Action | Product of Action       |
+| ----------------- | ----------------- | ------------------------------------------------------------------- | ------------------------ | --- | -------------- | ----------------------- |
+| Salivary          | Amylase Enzyme    | Digests starch to maltose                                           | Salivary glands in mouth | 7.5 | Mouth          | Maltose                 |
+| Pepsin            | Protease enzyme   | Digests protein to polypeptides                                     | wall of stomach          | 2   | Stomach        | Polypeptides            |
+| Pancreatic Lipase | Lipase enzyme     | Digests fat to fatty acids and glycerol                             | Pancreas                 | 7.5 | Duodenum       | Fatty acids and glycrol |
+| Bile Salts        | Salts             | 1. Emulsify fats<br>2. Neutralise acidic food arriving from stomach | Liver                    | 7.5 | Duodenum       | Fat droplets            |
+
+
