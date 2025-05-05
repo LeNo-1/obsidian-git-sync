@@ -50,10 +50,12 @@ There are four types of tooth: **Incisors for biting, canines for tearing, premo
 $$i\frac{2}{2},c\frac{1}{1},pm\frac{2}{2},m\frac{3}{3}$$
 @image of teeth
 
-#### Chemical Digestion
+### Chemical Digestion
+Chemical digestion is the **action of enzymes and bile** salts to breakdown food into a soluble form that can be absorbed
 
-
-
+**Carbohydrates** are broken down into *monosaccharides*
+**Proteins** are broken down into *amino acids*
+**Fats** are broken down into *fatty acids and glycerol*
 
 | Name              | Type of Secretion | Role                                                                | Site Produced            | pH  | Site of Action | Product of Action       |
 | ----------------- | ----------------- | ------------------------------------------------------------------- | ------------------------ | --- | -------------- | ----------------------- |
@@ -63,3 +65,8 @@ $$i\frac{2}{2},c\frac{1}{1},pm\frac{2}{2},m\frac{3}{3}$$
 | Bile Salts        | Salts             | 1. Emulsify fats<br>2. Neutralise acidic food arriving from stomach | Liver                    | 7.5 | Duodenum       | Fat droplets            |
 
 
+### Absorption of Food:
+
+
+
+##### Adaptions of the Small Intestine for its Function
