@@ -33,4 +33,7 @@ The cardiac and pyloric sphincter muscles trap the food in the stomach. It holds
 @image of stomach and liver
 
 ###### Large Intestine
-The large intestine consists of the caecum, appendix, colon, rectum, and the anus. The main functions of the large intestine are to (a) **reabsorb water and** (b) **egestion of faeces**
+The large intestine consists of the *caecum, appendix, colon, rectum, and the anus*. The main functions of the large intestine are to (a) **reabsorb water and** (b) **egestion of faeces**
+
+##### Mechanical Digestion
+**Mechanical digestion is physical digestion** and plays an important role in the breakdown of food. Mechanical digestion phyxa
