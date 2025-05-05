@@ -17,13 +17,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "00 - M.O.C/2 -Biology-.md",
+                    "file": "20 - Resources/Bucket List.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "2 -Biology-"
+                  "title": "Bucket List"
                 }
               },
               {
@@ -197,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - M.O.C/2 -Biology-.md",
+                "file": "20 - Resources/Bucket List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 -Biology-"
+              "title": "Outline of Bucket List"
             }
           }
         ],
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - M.O.C/2 -Biology-.md",
+                "file": "20 - Resources/Bucket List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2 -Biology-"
+              "title": "Graph of Bucket List"
             }
           }
         ]
@@ -278,8 +278,8 @@
   },
   "active": "5629fa768f061a32",
   "lastOpenFiles": [
-    "Human Nutrition.md",
     "00 - M.O.C/2 -Biology-.md",
+    "Human Nutrition.md",
     "Heterotrophs.md",
     "00 - M.O.C/1 -App. Maths-.md",
     "00 - M.O.C/00 - M.O.C.md",
