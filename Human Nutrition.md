@@ -42,4 +42,9 @@ The large intestine consists of the *caecum, appendix, colon, rectum, and the an
 - (c) **Churning of the food in the stomach** by the contraction of the muscles in the stomach wall converts the solid food into a semi-solid liquid called *chyme* 
 
 ###### Teeth
-There are four types of tooth: ****
+There are four types of tooth: **Incisors for biting, canines for tearing, premolars and molars for chewing **
+
+ Dental Formula for Humans
+ ---
+
+$$i\frac{2}{2},c\frac{1}{1},pm\frac{2}{2},m\frac{3}{3}$$
