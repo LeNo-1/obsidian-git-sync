@@ -16,4 +16,4 @@
 ###### Structure of the alimentary canal and associated glands
 
 ###### Mouth
-In the mouth, food is physically digested by the action of the teeth and chemically digested by action of saliva. Saliva is produced by the salivary glands in the mouth and contains an enzyme called **amylase** which acts on 
+In the mouth, food is physically digested by the action of the teeth and chemically digested by action of saliva. Saliva is produced by the salivary glands in the mouth and contains an enzyme called **amylase** which acts on starch. Saliva moistens the food making it easier to swallow. When swallowing a flap 
