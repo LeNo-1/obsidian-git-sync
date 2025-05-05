@@ -26,4 +26,6 @@ The cardiac and pyloric sphincter muscles trap the food in the stomach. It holds
 
 ###### Small Intestine
 1. In the duodenum food is mixed with juices from 3 sources:
-	(a) **bile** produced by the liver, stored in the gall bladder and delivered into the duodenum by the bile duct. Bile emulsifies fats (breaks into small droplets) and neutralises the acidic food from the stomach
+	- (a) **bile** produced by the liver, stored in the gall bladder and delivered into the duodenum by the bile duct. Bile emulsifies fats (breaks into small droplets) and neutralises the acidic food from the stomach
+	- (b) **intestinal juice** with digestive enzyme
+

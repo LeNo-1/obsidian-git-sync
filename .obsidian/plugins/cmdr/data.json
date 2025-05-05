@@ -28,7 +28,14 @@
       "mode": "any"
     }
   ],
-  "pageHeader": [],
+  "pageHeader": [
+    {
+      "id": "bookmarks:open",
+      "icon": "lucide-bookmark",
+      "name": "Bookmarks: Show bookmarks",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {

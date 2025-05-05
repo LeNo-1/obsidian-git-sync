@@ -1,3 +1,10 @@
 {
-  "items": []
+  "items": [
+    {
+      "type": "url",
+      "ctime": 1746464303864,
+      "url": "https://ankiweb.net/decks",
+      "title": "Anki"
+    }
+  ]
 }
