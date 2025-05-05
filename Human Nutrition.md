@@ -24,3 +24,6 @@ This short tube carries food to the stomach by **a wave of muscular contraction 
 ###### Stomach
 The cardiac and pyloric sphincter muscles trap the food in the stomach. It holds about a litre of food for up to 4 hours. Here the food is physically digested by the contraction of the muscles in the stomach wall. It is acted on chemically by gastric juice produced by gastric glands in the wall of the stomach. gastric juice contains (a) **mucous** which lines the stomach wall and protects it from the action of gastric juice, (b) **Hydrochloric acid** (i) which kills bacteria and (ii)  provides a suitable pH medium for the action of enzyme pepsin, (c) **pepsin** which acts on protein. After about 4 hours in the stomach, ingested food is in the form of a semi-solid liquid called **chyme**. The pyloric sphincter muscle at the base of the stomach relaxes to allow chyme to pass on in small portions into the duodenum 
 
+###### Small Intestine
+1. In the duodenum food is mixed with juices from 3 sources:
+	(a) **bile** produced by the liver, stored in the gall bladder and delivered into the duodenum by the bile duct. Bile emulsifies fats (breaks into small droplets) and neutralises the acidic food from the stomach
