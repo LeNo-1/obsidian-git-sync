@@ -35,6 +35,11 @@ The cardiac and pyloric sphincter muscles trap the food in the stomach. It holds
 ###### Large Intestine
 The large intestine consists of the *caecum, appendix, colon, rectum, and the anus*. The main functions of the large intestine are to (a) **reabsorb water and** (b) **egestion of faeces**
 
-##### Mechanical Digestion
+#### Mechanical Digestion
 **Mechanical digestion is physical digestion** and plays an important role in the breakdown of food. Mechanical digestion physically breaks the large pieces of food into smaller ones providing a **greater surface area** for enzyme action. There are many examples of mechanical digestion in the alimentary canal:
-- (a) **Chewing by the teeth** in the mouth breaks down the food into smaller pieces. This makes the food easier to swalloe and the samll pieces provide 
+- (a) **Chewing by the teeth** in the mouth breaks down the food into smaller pieces. This makes the food easier to swallow and the small pieces provide a much larger surface area for enzyme breakdown
+- (b) **Peristalsis is a wave of muscular contraction of the gut wall that moves that food along the alimentary canal.** 
+- (c) **Churning of the food in the stomach** by the contraction of the muscles in the stomach wall converts the solid food into a semi-solid liquid called *chyme* 
+
+###### Teeth
+There are four types of tooth: ****
