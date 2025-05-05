@@ -155,17 +155,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Networks and Graphs.md",
+                "file": "Human Nutrition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Networks and Graphs"
+              "title": "Outline of Human Nutrition"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "4eb8e6cdee976020",
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - Areas/10.0 - Computer Science/C.md",
+                "file": "Human Nutrition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of C"
+              "title": "Graph of Human Nutrition"
             }
           }
         ]
