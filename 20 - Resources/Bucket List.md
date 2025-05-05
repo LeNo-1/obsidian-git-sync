@@ -3,7 +3,16 @@ Tech
 - [ ] 🔽 Laptop stand
 - [ ] 🔽 NVME SSD
 - [ ] 🔽 Raspberry pi / mini NAS
-- [ ] 🔽 Thinkpad
+- [ ] 🔽 tablet w/ pen
 
-X
+
 ----
+- [ ] 
+- [ ] 
+- [ ] 
+
+Bedroom
+---
+- [ ] Posters
+- [ ] silk pillowcase
+- [ ] 
