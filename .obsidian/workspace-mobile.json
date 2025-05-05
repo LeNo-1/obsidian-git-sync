@@ -40,13 +40,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - Permanent/0 -Binder/Roleplays.md",
+                "file": "Networks and Graphs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Roleplays"
+              "title": "Networks and Graphs"
             }
           }
         ],
@@ -114,8 +114,8 @@
             "showSearch": false,
             "searchQuery": ""
           },
-          "icon": "lucide-archive",
-          "title": "All properties"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       },
       {
@@ -126,19 +126,6 @@
           "state": {},
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
-        }
-      },
-      {
-        "id": "4344336ffdfab0df",
-        "type": "leaf",
-        "state": {
-          "type": "file-explorer",
-          "state": {
-            "sortOrder": "alphabetical",
-            "autoReveal": false
-          },
-          "icon": "lucide-folder-closed",
-          "title": "Files"
         }
       },
       {
@@ -212,8 +199,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -221,8 +208,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "workspaces:Manage workspace layouts": false,
       "obsidian-book-search-plugin:Create new book note": false,
-      "obsidian-kanban:Create new board": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -231,14 +218,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false
     }
   },
   "active": "7178b8eb54b762e2",
   "lastOpenFiles": [
+    "10 - Areas/10 - Areas.md",
+    "30 - Permanent/0 -Binder/Roleplays.md",
     "00 - M.O.C/8 -Spanish-.md",
     "00 - M.O.C/00 - M.O.C.md",
     "Tags",
@@ -266,9 +253,7 @@
     "00 - M.O.C/8 -Spanish-.sync-conflict-20250206-171621-IQJAD6N.md",
     "06 - Daily/2025/01/ 2025-01-24 Fri.md",
     "06 - Daily/2025/02/ 2025-02-06 Thu.md",
-    "04 - Permanent/0 -Branches/Sraith Pictuir.md",
     "99 - Meta/Images/EN-EX-40634415.pdf",
-    "06 - Daily/2025/02/ 2025-02-05 Wed.md",
     "02 - Areas/Literature/Bookshelf.canvas"
   ]
 }
