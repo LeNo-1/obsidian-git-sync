@@ -15,4 +15,9 @@ Bedroom
 ---
 - [ ] Posters
 - [ ] silk pillowcase
-- [ ] 
+- [ ] x
+
+Misc.
+---
+
+
