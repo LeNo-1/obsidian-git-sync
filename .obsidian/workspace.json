@@ -41,8 +41,7 @@
                   "title": "Human Nutrition"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "f9a813845c5eee66",
@@ -198,12 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00 - M.O.C/2 -Biology-.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 2 -Biology-"
             }
           }
         ],
@@ -220,6 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "00 - M.O.C/2 -Biology-.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -247,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 2 -Biology-"
             }
           }
         ]
@@ -275,7 +276,7 @@
       "obsidian-media-db-plugin:Add new Media DB entry": false
     }
   },
-  "active": "903aa4a3e8ef2ffc",
+  "active": "5629fa768f061a32",
   "lastOpenFiles": [
     "Human Nutrition.md",
     "00 - M.O.C/2 -Biology-.md",
