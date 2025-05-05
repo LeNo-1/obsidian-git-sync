@@ -3,9 +3,9 @@ Tech
 - [ ] 🔽 Laptop stand
 - [ ] 🔽 NVME SSD
 - [ ] 🔽 Raspberry pi / mini NAS
-- [ ] 🔽 tablet w/ pen
+- [ ] 🔽 tablet w/ pen (galaxy tab s6)
 
-
+Life
 ----
 - [ ] 
 - [ ] 
@@ -19,5 +19,7 @@ Bedroom
 
 Misc.
 ---
-
+- [ ] x
+- [ ] x
+- [ ] x
 

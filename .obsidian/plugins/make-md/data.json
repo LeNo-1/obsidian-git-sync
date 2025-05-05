@@ -22,7 +22,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": false,
-  "currentWaypoint": 0,
+  "currentWaypoint": 1,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -52,7 +52,7 @@
     "//30 - Permanent/30 - Permanent/Chapters",
     "//10 - Areas/10 - Areas/Music",
     "//10 - Areas/10 - Areas/Music/10 - Areas/Music/Guitar",
-    "//00 - M.O.C"
+    "//10 - Areas"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
