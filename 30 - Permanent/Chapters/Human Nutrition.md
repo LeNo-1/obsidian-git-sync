@@ -90,3 +90,11 @@ The large intestine is also a habitat for **symbiotic bacteria**
 
  Benefits of Dietary Fibre
 ---
+**Fibre** consists of indigestible cellulose plant cell walls. Fibre or roughage is *important in the diet* because it:
+1. Stimulates peristalsis
+2. It absorbs water keeping faeces soft and preventing constipation
+3. Decreases risk of colon cancer
+
+ Balanced Diet
+---
+A balanced diet is one which contains the right amounts of each food type to keep you healthy. A balanced diet varies from one person to an
