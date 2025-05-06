@@ -83,4 +83,10 @@ The *3 main functions* of the small intestine are (a) **movement of the food alo
 @ image of T.S and L.S of small intestine 
 
 #### Large Intestine
-This consists of the **caecum, appendix**
+This consists of the **caecum, appendix, colon, rectum and anus**. The main functions of the large intestine are (a) absorb water and (b) form faeces which is egested out of anus.
+The large intestine is also a habitat for **symbiotic bacteria**
+> Symbiosis is two organisms living together for mutual benefit
+- They are important because (a) they produce vitamins (B and K) , (b) they protect us against other pathogenic bacteria by competing with them for space
+
+ Benefits of Dietary Fibre
+---
