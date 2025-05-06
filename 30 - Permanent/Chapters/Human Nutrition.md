@@ -70,5 +70,13 @@ The products of digestion are absorbed from the alimentary canal in the second p
 @Diagram of Villus
 ##### Adaptions of the Small Intestine for its Function
 The *3 main functions* of the small intestine are (a) **movement of the food along its length**, (b) **chemical digestion**, (c) **absorption of digested nutrients**
-- (a) Movement of food:
-	- The wall of the small intestine has two layers of muscle - the circular and longitudinal for peristalsis, which mixed  
+- (a) **Movement of food:**
+	- The wall of the small intestine has two layers of muscle - the circular and longitudinal for peristalsis, which mixed the food with digestive juices and pushes it along. Peristalsis is aided by fibre
+- (b) **Chemical digestion**
+	- Cells in the lining of the intestine produce digestive juices containing enzymes that digest food into small soluble products
+- (c) **Absorption**
+	1.  It is very *long* increasing the surface area for maximum absorption
+	2. The wall is not smooth but thrown into folds called villi which increase the surface area for absorption
+	3. The cells lining the ileum are one cell thick allowing rapid movement of digested food through them
+	4. In the villi
+	
