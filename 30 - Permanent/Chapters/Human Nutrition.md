@@ -66,7 +66,9 @@ Chemical digestion is the **action of enzymes and bile** salts to breakdown food
 
 
 ### Absorption of Food:
-The products of digestion are absorbed from the alimentary canal in the second part of the small intestine - the ileum. The wall of the ileum is thrown into folds called villi. Each villus contains a network of blood capillaries which surround a central lymph vessel called a **lacteal**. Digested carbohydrates (monosaccharides), proteins (amino acids), minerals and vitamins pass from the ileum through the wall of the villus into the blood capillaries by diffusion. The capillaries carry the nutrients to the *hepatic portal vein* which takes them to the liver. Digested fats (fatty acids and glycerol) do not pass into the blood stream but into the lacteals which carries the digested fats to the lymph system which eventually pass them into the bloodstream
-
-
+The products of digestion are absorbed from the alimentary canal in the second part of the small intestine - the ileum. The wall of the ileum is thrown into folds called villi. Each villus contains a network of blood capillaries which surround a central lymph vessel called a **lacteal**. Digested carbohydrates (monosaccharides), proteins (amino acids), minerals and vitamins pass from the ileum through the wall of the villus into the blood capillaries by diffusion. The capillaries carry the nutrients to the *==hepatic portal vein==* which takes them to the liver. Digested fats (fatty acids and glycerol) do not pass into the blood stream but into the lacteals which carries the digested fats to the lymph system which eventually pass them into the bloodstream.
+@Diagram of Villus
 ##### Adaptions of the Small Intestine for its Function
+The *3 main functions* of the small intestine are (a) **movement of the food along its length**, (b) **chemical digestion**, (c) **absorption of digested nutrients**
+- (a) Movement of food:
+	- The wall of the small intestine has two layers of muscle - the circular and longitudinal for peristalsis, which mixed  
