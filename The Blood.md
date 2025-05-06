@@ -14,7 +14,7 @@ Plasma is the liquid part of the blood. It is a straw-coloured liquid consisting
 - Functions of plasma - It is a transport medium
 
  Blood Cells
- ---
+ --- 
 
 |              | Reb Blood Cells                                                                   | White Blood Cells                                                                                              | Platelet                                |
 | ------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
