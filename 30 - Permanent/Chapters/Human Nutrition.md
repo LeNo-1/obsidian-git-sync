@@ -104,6 +104,12 @@ The food pyramid shows the recommended daily portions of each food type.
 #### Liver
 @ image of liver
 
-The liver, which is found in the **upper right abdomen** is the largest internal organ in the body. It has many important metabolic roles which is reflected by its extensive blood supply. It is fed with oxygen rich blood by the **hepatic artery** and nutrient rich blood by the **hepatic portal vein**. Blood leaves the liver in the **hepatic vein**. The livers function
+The liver, which is found in the **upper right abdomen** is the largest internal organ in the body. It has many important metabolic roles which is reflected by its extensive blood supply. It is fed with oxygen rich blood by the **hepatic artery** and nutrient rich blood by the **hepatic portal vein**. Blood leaves the liver in the **hepatic vein**. The livers functions are:
+1. Produce bile which **emulsifies fats**
+2. **Deaminates** excess protein to form *urea* 
+3. Detoxifies alcohol
+4. Stores excess carbohydrates in the form of **glycogen** 
+5. It stores vitamins e.g. Vitamin A and minerals e.g. iron
+6. Breaks down worn out red blood cells recycling the iron in them
 @image of liver and ileum
 
