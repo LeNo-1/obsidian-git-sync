@@ -17,6 +17,10 @@ Plasma is the liquid part of the blood. It is a straw-coloured liquid consisting
  ---
  
 
-|           | Reb Blood Cells | White Blood Cells | Platelet |
-| --------- | --------------- | ----------------- | -------- |
-| Structure |                 |                   |          |
+|              | Reb Blood Cells                                                                   | White Blood Cells                                                                                              | Platelet                                |
+| ------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | --------------------------------------- |
+| Structure    | Biconcave discs<br>No nucleus<br>No mitochondria<br>Contains Haemoglobin<br>Small | No definite shape<br>Large nucleus<br>Larger than red blood cell<br>Two types:<br>1. Monocyte<br>2. Lymphocyte | Fragment of cells<br>No nucleus<br>Tiny |
+| Produced     | Bone marrow of ribs                                                               | Bone marrow & Lymph system                                                                                     | Bone marrow of ribs                     |
+| Numbers/mm^3 | 5,000,000                                                                         | 8,000                                                                                                          | 250,000                                 |
+| Function     | Transport oxygen                                                                  | Defence against infection<br>a) Monocyte - engulf germs<br>b) Lymphocyte - produce antibiotics                 | Blood clotting                          |
+
