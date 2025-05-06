@@ -64,11 +64,12 @@ Chemical digestion is the **action of enzymes and bile** salts to breakdown food
 | Pancreatic Lipase | Lipase enzyme     | Digests fat to fatty acids and glycerol                             | Pancreas                 | 7.5 | Duodenum       | Fatty acids and glycrol |
 | Bile Salts        | Salts             | 1. Emulsify fats<br>2. Neutralise acidic food arriving from stomach | Liver                    | 7.5 | Duodenum       | Fat droplets            |
 
-
+---
 ### Absorption of Food:
 The products of digestion are absorbed from the alimentary canal in the second part of the small intestine - the ileum. The wall of the ileum is thrown into folds called villi. Each villus contains a network of blood capillaries which surround a central lymph vessel called a **lacteal**. Digested carbohydrates (monosaccharides), proteins (amino acids), minerals and vitamins pass from the ileum through the wall of the villus into the blood capillaries by diffusion. The capillaries carry the nutrients to the *==hepatic portal vein==* which takes them to the liver. Digested fats (fatty acids and glycerol) do not pass into the blood stream but into the lacteals which carries the digested fats to the lymph system which eventually pass them into the bloodstream.
 @Diagram of Villus
-##### Adaptions of the Small Intestine for its Function
+
+#### Adaptions of the Small Intestine for its Function
 The *3 main functions* of the small intestine are (a) **movement of the food along its length**, (b) **chemical digestion**, (c) **absorption of digested nutrients**
 - (a) **Movement of food:**
 	- The wall of the small intestine has two layers of muscle - the circular and longitudinal for peristalsis, which mixed the food with digestive juices and pushes it along. Peristalsis is aided by fibre
@@ -78,5 +79,8 @@ The *3 main functions* of the small intestine are (a) **movement of the food alo
 	1.  It is very *long* increasing the surface area for maximum absorption
 	2. The wall is not smooth but thrown into folds called villi which increase the surface area for absorption
 	3. The cells lining the ileum are one cell thick allowing rapid movement of digested food through them
-	4. In the villi
-	
+	4. In the villi, there is a dense network of blood capillaries and lacteals to transport the digested food away from the ileum
+@ image of T.S and L.S of small intestine 
+
+#### Large Intestine
+This consists of the **caecum, appendix**

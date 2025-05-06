@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 - Areas/Shows/Game of Thrones.md",
+                "file": "30 - Permanent/Chapters/Human Nutrition.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Game of Thrones"
+              "title": "Outline of Human Nutrition"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "10 - Areas/Shows/Game of Thrones.md",
+                "file": "30 - Permanent/Chapters/Human Nutrition.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,15 +206,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Game of Thrones"
+              "title": "Graph of Human Nutrition"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
