@@ -66,7 +66,7 @@ Chemical digestion is the **action of enzymes and bile** salts to breakdown food
 
 
 ### Absorption of Food:
-
+The products of digestion are absorbed from the alimentary canal in the second part of the small intestine
 
 
 ##### Adaptions of the Small Intestine for its Function
