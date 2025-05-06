@@ -97,4 +97,13 @@ The large intestine is also a habitat for **symbiotic bacteria**
 
  Balanced Diet
 ---
-A balanced diet is one which contains the right amounts of each food type to keep you healthy. A balanced diet varies from one person to an
+A balanced diet is one which contains the right amounts of each food type to keep you healthy. A balanced diet varies from one person to another depending on their age gender and activity levels.
+The food pyramid shows the recommended daily portions of each food type.
+@image of food pyramid
+
+#### Liver
+@ image of liver
+
+The liver, which is found in the **upper right abdomen** is the largest internal organ in the body. It has many important metabolic roles which is reflected by its extensive blood supply. It is fed with oxygen rich blood by the **hepatic artery** and nutrient rich blood by the **hepatic portal vein**. Blood leaves the liver in the **hepatic vein**. The livers function
+@image of liver and ileum
+
