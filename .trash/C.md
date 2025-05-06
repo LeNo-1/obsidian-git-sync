@@ -1,8 +1,7 @@
 ---
 sticker: lucide//code-2
 ---
-**C Programming Language Concepts**
-=======================================
+*====
 
 **Table of Contents**
 

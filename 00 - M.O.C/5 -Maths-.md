@@ -6,7 +6,7 @@ sticker: emoji//1f9ee
 ---
 
 ### Chapters (5th Yr.)
-#### Paper 1
+#### Book 1
 1.  [[Algebra 1]]
 2.  [[Algebra 2]]
 3.  [[Algebra 3]]
@@ -23,7 +23,7 @@ sticker: emoji//1f9ee
 14. [[Differential Calculus 2]]
 15. [[Integral Calculus]]
 
-#### Paper 2
+#### Book 2
 1. [[Statistics 1]]
 2. [[Probability 1]]
 3. [[Probability 2]]

@@ -1,12 +1,10 @@
 {
   "newNotePlaceholder": "Untitled",
   "defaultInitialization": false,
-  "navigatorEnabled": false,
+  "navigatorEnabled": true,
   "filePreviewOnHover": false,
   "blinkEnabled": true,
-  "datePickerTime": false,
   "imageThumbnails": false,
-  "noteThumbnails": false,
   "spacesMDBInHidden": true,
   "cacheIndex": true,
   "spacesRightSplit": false,
@@ -35,34 +33,18 @@
   "folderNoteName": "",
   "sidebarTabs": true,
   "showRibbon": false,
-  "vaultSelector": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
+    "/",
     "//06 - Daily/06 - Daily/2024",
     "//06 - Daily/06 - Daily/2025",
-    "//02 - Areas",
-    "//02 - Areas/02 - Areas/Computer Science",
-    "//10 - Areas/10 - Areas/GYM",
-    "//10 - Areas/10 - Areas/Food",
-    "//10 - Areas/10 - Areas/10.0 - Computer Science",
-    "//10 - Areas/10 - Areas/10.0 - Computer Science/10 - Areas/10.0 - Computer Science/C",
-    "//30 - Permanent/30 - Permanent/Self  Storage",
-    "//30 - Permanent/30 - Permanent/School Projects",
-    "//10 - Areas/10 - Areas/Music/10 - Areas/Music/Guitar",
-    "/",
-    "10 - Areas/Shows",
-    "//30 - Permanent/30 - Permanent/Chapters",
-    "//30 - Permanent/30 - Permanent/Binder",
-    "//10 - Areas",
-    "//10 - Areas/10 - Areas/Computer Science"
+    "//00 - M.O.C"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
   "suppressedWarnings": [],
   "spaceSubFolder": ".space",
-  "hiddenFiles": [
-    "02 - Areas/Literature/Books"
-  ],
+  "hiddenFiles": [],
   "hiddenExtensions": [
     ".mdb",
     "_assets",
@@ -75,6 +57,7 @@
   "inlineContextProperties": true,
   "inlineContextSectionsExpanded": true,
   "banners": true,
+  "dataviewInlineContext": false,
   "inlineContextNameLayout": "vertical",
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
@@ -95,6 +78,7 @@
   "selectedKit": "default",
   "actionMaxSteps": 100,
   "contextPagination": 25,
+  "searchWorker": false,
   "skipFolderNames": [],
   "skipFolders": [],
   "enhancedLogs": false,
@@ -205,7 +189,5 @@
   "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
-  "overrideNativeMenu": false,
-  "dataviewInlineContext": false,
-  "searchWorker": false
+  "overrideNativeMenu": false
 }

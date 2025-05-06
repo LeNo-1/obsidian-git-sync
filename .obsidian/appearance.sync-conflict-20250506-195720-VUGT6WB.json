@@ -1,0 +1,14 @@
+{
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "monospaceFontFamily": "JetBrainsMono Nerd Font Mono,JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMono Nerd Font Mono,JetBrainsMono Nerd Font",
+  "interfaceFontFamily": "JetBrainsMono Nerd Font Mono,JetBrainsMono Nerd Font",
+  "accentColor": "#b0d5e3",
+  "enabledCssSnippets": [
+    "Notebook Backgrounds",
+    "extended-colorschemes"
+  ],
+  "nativeMenus": true,
+  "showRibbon": false
+}
