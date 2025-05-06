@@ -1,5 +1,6 @@
 [[1 -App. Maths-]]
 - Probably the whole material we covered
+- x
 
 [[2 -Biology-]]
 - CH 1,18-25
@@ -22,4 +23,9 @@
 [[7 -Irish-]]
 - Oral - Sraithpictuir
 - Listening
-- 
+- x
+
+[[8 -Spanish-]]
+- Oral - Roleplays & Conversation
+- Listening
+- - 
