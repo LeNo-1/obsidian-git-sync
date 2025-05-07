@@ -109,7 +109,7 @@ Diet
 
 Exercise: Regular exercise causes the heart to increase in size, strength and efficiency
 ##### Lymph System
-@ image of lymph node
+@ image of lymph node/ system
 In addition to blood, a colourless fluid called lymph provides a means of transport in the body
 - Structure of the lymph system
 	- The lymph system contains of a fluid called lymph which moves in lymph vessels, which have swellings on them called lymph nodes
@@ -125,4 +125,10 @@ In addition to blood, a colourless fluid called lymph provides a means of transp
 Functions of the Lymph System
 Transport 
 1. Returns excess tissue fluid to the blood stream maintaining correct blood volume
-2. Transports digested fat from the villi of the small intestine to the liver. These 
+2. Transports digested fat from the villi of the small intestine to the liver. These lymph vessels are known as **lacteals**
+
+Defence
+1. Lymphocytes which produce antibodies to fight disease mature in the lymph nodes
+2. The lymph nodes filter lymph to remove germs
+
+## Questions
