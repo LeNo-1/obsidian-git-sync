@@ -64,4 +64,4 @@ Humans have a double circulatory system - (1) the **pulmonary system** - which p
 The advantages of a double circulatory system are that (a) it ensures that the blood pressure is high enough in both systems and (b) it keeps the oxygenated blood seperate from the deoxygenated blood. ((LORD))
 @ Circulatory diagram
 
-**Portal system**: A
+**Portal system**: Aportal
