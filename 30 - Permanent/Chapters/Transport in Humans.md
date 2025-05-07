@@ -109,9 +109,20 @@ Diet
 
 Exercise: Regular exercise causes the heart to increase in size, strength and efficiency
 ##### Lymph System
+@ image of lymph node
 In addition to blood, a colourless fluid called lymph provides a means of transport in the body
 - Structure of the lymph system
 	- The lymph system contains of a fluid called lymph which moves in lymph vessels, which have swellings on them called lymph nodes
 - Formation of lymph:
-	- When an artery reaches a tissue, it subdivides into arterioles which subdivides onto capillaries. Under pressure from the arteries, fluid diffuses out of the capillaries to surround the cells. This fluid is called tissue fluid or extra cellular fluid (ECF). Tissue fluid is similar to plasma except it lacks some blood cells and large blood proteins. While it surrounds the cells, substances like food and oxygen pass from the fluid into the ells and wastes and carbon dioxide pass from the cells into the fluid. Most of the fluid drains into capillaries which lead into venules which unite to form a vein which leaves the tissue. Any fluid left behind is mopped up by dead-ending tubes called lymph vessles or lymphatics. Once the fluid nis in th
-	
+	- When an artery reaches a tissue, it subdivides into arterioles which subdivides onto capillaries. Under pressure from the arteries, fluid diffuses out of the capillaries to surround the cells. This fluid is called tissue fluid or extra cellular fluid (ECF). Tissue fluid is similar to plasma except it lacks some blood cells and large blood proteins. While it surrounds the cells, substances like food and oxygen pass from the fluid into the ells and wastes and carbon dioxide pass from the cells into the fluid. Most of the fluid drains into capillaries which lead into venules which unite to form a vein which leaves the tissue. Any fluid left behind is mopped up by dead-ending tubes called lymph vessels or lymphatics. Once the fluid nis in these vessels it is referred to as lymph
+
+- Lymph vessels have:
+	- a dead end
+	- At intervals along their length they have swellings called lymph nodes
+		- these nodes filter the lymph and remove germs
+		- Lymphocytes a type of white blood cell, which produce antibodies to fight infection mature in the lymph nodes
+
+Functions of the Lymph System
+Transport 
+1. Returns excess tissue fluid to the blood stream maintaining correct blood volume
+2. Transports digested fat from the villi of the small intestine to the liver. These 
