@@ -7,7 +7,7 @@ Tech
 
 Life
 ----
-- [ ] 🔽 weight scale
+- [ ] 🔽 weighing scale
 - [ ] 
 - [ ] 
 
