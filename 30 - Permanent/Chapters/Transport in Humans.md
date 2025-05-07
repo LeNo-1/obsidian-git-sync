@@ -28,4 +28,11 @@ Going from outside in:
 | *7.* | Carries oxygenated blood - except pulmonary artery      | Carries deoxygenated blood - except pulmonary vein                                                        |
 ### Capillaries
 Capillaries *link* arteries and veins. It is in Capillaries that the exchange of materials between the body cells and blood takes place by diffusion. The capillaries are well adapted for efficient exchange
-1. Capillaries have a **thin wall** which is only **one cell thick** 
+1. Capillaries have a **thin wall** which is only **one cell thick**. This ensures that materials can pass through it easily.
+>[!NOTE]  The thinness of the capillary walls makes the exchange of materials with cells possible and so allows us to have a closed circulatory system
+2. Capillaries are very branched and cover a large surface area. This ensures that blood is delivered to all cells
+3. Capillaries are very narrow. This ensures all cells are close to a capillary and this allows easy entry and exit of materials
+
+## The Heart
+The heart is located in the **thoracic or chest cavity**
+It is m
