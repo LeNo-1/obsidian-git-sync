@@ -59,4 +59,6 @@ The left ventricle has thicker walls than the right ventricle. The left ventricl
 **Aorta**: Carries oxygenated blood from the heart to the body
 
 ##### Double Circulation 
+Humans have a double circulatory system - (1) the **pulmonary system** - which pumps blood from the heart to lungs and back, and (2) the **systemic system** - which pumps blood from the heart to the body and back.
 
+The advantages of a double circulatory system are that (a) it ensures that 
