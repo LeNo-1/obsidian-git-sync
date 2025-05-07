@@ -39,4 +39,3 @@ It is made up of **cardiac muscle** ( it is not under our conscious control and 
 @ diagram of heart in thoracic cavity
 
 @ diagram of heart
-###### Four chambers in the heart
