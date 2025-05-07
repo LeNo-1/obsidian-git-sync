@@ -86,4 +86,9 @@ Role: The SA node initialises the heart beat by sending a wave of electrical imp
 ###### Atrioventricular Node (AV node)
 Location: In the septum between the right atrium and the right ventricle near the tricuspid valve.
 Role: The AV node sends a wave of electrical impulses over the two ventricles causing them to contract or systole
-@ image o
+@ image of SA and AV node
+
+###### Pulse
+> DEF: The expansion of an artery as blood is forced through it is the pulse - average pulse is **72bpm**
+- It is *increased* by **exercise, smoking, stress**
+- It is *decreased* by **sleep or rest and alcohol**
