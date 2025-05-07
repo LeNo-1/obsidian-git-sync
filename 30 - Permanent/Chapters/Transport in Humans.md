@@ -61,4 +61,6 @@ The left ventricle has thicker walls than the right ventricle. The left ventricl
 ##### Double Circulation 
 Humans have a double circulatory system - (1) the **pulmonary system** - which pumps blood from the heart to lungs and back, and (2) the **systemic system** - which pumps blood from the heart to the body and back.
 
-The advantages of a double circulatory system are that (a) it ensures that 
+The advantages of a double circulatory system are that (a) it ensures that the blood pressure is high enough in both systems and (b) it keeps the oxygenated blood seperate from the deoxygenated blood. ((LORD))
+@ Circulatory diagram
+
