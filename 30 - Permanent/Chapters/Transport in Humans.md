@@ -47,6 +47,12 @@ The left ventricle has thicker walls than the right ventricle. The left ventricl
 >[!tip]  **Remember**: Left is right and right is left when labelling the heart.
 
 **Four valves in the heart:**
-Tricuspid valve: Prevents back flow of blood from the right ventricle back up to the right atrium
-Bicu
+**Tricuspid valve**: Prevents back flow of blood from the right ventricle back up to the right atrium
+**Bicuspid valve**: Prevents back flow of blood from the left ventricle back up to the left atrium
+**Semi-lunar valves**: Prevents back flow from the arteries back down into the ventricles. ( They are located at the base of the pulmonary artery and aorta )
+>[!note] The pulmonary artery and aorta are the only arteries with valves
+
+**Four major blood vessels connected to the heart:**
+**Vena cava**: Carries deoxygenated blood to the right atrium from the body
+**Pulmonary artery**: Carries deoxygenat
 
