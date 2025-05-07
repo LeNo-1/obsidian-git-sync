@@ -77,5 +77,7 @@ Stages in the cardiac cycle
 2. When full, the atria contract ( systole ) forcing open the tricuspid and bicuspid valves and pump blood into the ventricles.
 3. When the ventricles are full of blood, they contract ( systole ) forcing open the semi-lunar valves and pump blood out of the pulmonary artery on the right and the aorta on the left
 4. When the atria are in systole, the ventricles are in diastole and vice versa.
-> Creates a **lub-dub** sound, lub
 
+> Creates a **lub-dub** sound, *lub* is caused by the tricuspid valves and bicuspid valves closing and the *dub* sound is the semi lunar valves closing
+
+##### Sino - atrial node
