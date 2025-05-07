@@ -52,7 +52,8 @@
     "/",
     "10 - Areas/Shows",
     "//30 - Permanent/30 - Permanent/Chapters",
-    "//00 - M.O.C"
+    "//00 - M.O.C",
+    "//20 - Resources"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

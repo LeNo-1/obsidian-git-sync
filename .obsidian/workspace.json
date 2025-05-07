@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - Permanent/Chapters/Transport in Humans.md",
+                "file": "20 - Resources/Bucket List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Transport in Humans"
+              "title": "Bucket List"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 - Permanent/Chapters/Transport in Humans.md",
+                "file": "20 - Resources/Bucket List.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Transport in Humans"
+              "title": "Outline of Bucket List"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "30 - Permanent/Chapters/Transport in Humans.md",
+                "file": "20 - Resources/Bucket List.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +206,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Transport in Humans"
+              "title": "Graph of Bucket List"
             }
           }
         ]
@@ -235,6 +235,8 @@
   },
   "active": "df138729ffd1cb06",
   "lastOpenFiles": [
+    "20 - Resources/20 - Resources.md",
+    "30 - Permanent/Chapters/Transport in Humans.md",
     "00 - M.O.C/2 -Biology-.md",
     "30 - Permanent/30 - Permanent.md",
     "30 - Permanent/Chapters/The Blood.md",
@@ -263,8 +265,6 @@
     "20 - Resources/Cool Things.md",
     "10 - Areas/Computer Science/C.md",
     "10 - Areas/Computer Science/10.01 - {Project Ideas}.md",
-    "10 - Areas/Computer Science/Python.md",
-    "10 - Areas/Computer Science/Java.md",
     "50 - Daily/2025/05",
     "50 - Daily/2025",
     "10 - Areas/Food & Recipes/Roisin's Cookies.cook",
