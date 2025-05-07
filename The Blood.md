@@ -25,4 +25,4 @@ Plasma is the liquid part of the blood. It is a straw-coloured liquid consisting
 - Red blood cells are produced in bone marrow of long bones e.g. ribs
 - Their biconcave shape gives a large surface area to carry oxygen
 - When first produced they have a nucleus but when full formed, they have no nucleus which gives them more room to carry oxygen
-- 
+- Because they have no nucleas, they cannot repair themsewlves
