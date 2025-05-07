@@ -54,5 +54,9 @@ The left ventricle has thicker walls than the right ventricle. The left ventricl
 
 **Four major blood vessels connected to the heart:**
 **Vena cava**: Carries deoxygenated blood to the right atrium from the body
-**Pulmonary artery**: Carries deoxygenat
+**Pulmonary artery**: Carries deoxygenated blood from the heart to the lungs
+**Pulmonary vein**: Carries deoxygenated blood to the left atrium from the lungs
+**Aorta**: Carries oxygenated blood from the heart to the body
+
+##### Double Circulation 
 
