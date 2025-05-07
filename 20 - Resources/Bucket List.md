@@ -14,7 +14,7 @@ Life
 Bedroom
 ---
 - [ ] Posters
-- [ ] silk pillowcase
+- [ ] silk pillowcase ~30-40
 - [ ] x
 
 Misc.
