@@ -25,4 +25,9 @@ Plasma is the liquid part of the blood. It is a straw-coloured liquid consisting
 - Red blood cells are produced in bone marrow of long bones e.g. ribs
 - Their biconcave shape gives a large surface area to carry oxygen
 - When first produced they have a nucleus but when full formed, they have no nucleus which gives them more room to carry oxygen
-- Because they have no nucleas, they cannot repair themsewlves
+- Because they have no nucleus they cannot repair themselves and so survive only about 120 days
+- They are broken down in the liver and spleen and the iron in them is recycled
+- They do not have mitochondria, as it would use up the oxygen they carry
+- Red blood cells are filled with a red pigment called **haemoglobin** a protein containing iron. Lack of iron in the diet causes a condition called **anemia**
+- The function of haemoglobin is to combine with oxygen to form **oxyhaemoglobin**. This is the form that oxygen is carried around the body
+- Pregnant women are often given iron tablets because the baby drains the iron that it needs, puttnig the mothe
