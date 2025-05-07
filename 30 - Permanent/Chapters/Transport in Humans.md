@@ -73,9 +73,9 @@ The advantages of a double circulatory system are that (a) it ensures that the b
  The cardiac cycle is the sequence of events that occur as the heart contracts and relaxes, resulting in blood being pumped through the body. It consists of two main phases:
 
 Stages in the cardiac cycle
-- Atrial filling or diastasis: The period between atrial contraction and ventricular contraction when both atria and ventricles are relaxing and filling with blood.
-- Aortic and Pulmonary Valve Closure: The moment when the semilunar valves close as the ventricles contract, preventing blood from flowing back into the ventricles during systole.
-- Atrioventricular Valve Opening: The point at which the atrioventricular valves open to allow blood to flow from the atria into the ventricles during diastole.
-- Aortic and Pulmonary Valve Opening: The instant when the semilunar valves open to allow blood to leave the heart during ventricular contraction (systole).
+1. The atria receive blood on the right from the vena cava and on the left from the pulmonary veins.
+2. When full, the atria contract ( systole ) forcing open the tricuspid and bicuspid valves and pump blood into the ventricles.
+3. When the ventricles are full of blood, they contract ( systole ) forcing open the semi-lunar valves and pump blood out of the pulmonary artery on the right and the aorta on the left
+4. When the atria are in systole, the ventricles are in diastole and vice versa.
+> Creates a **lub-dub** sound, lub
 
-These stages work in a coordinated manner to ensure that blood is efficiently pumped throughout the body.
