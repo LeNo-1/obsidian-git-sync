@@ -104,4 +104,13 @@ Smoking:
 2. Nicotine increases blood pressure, which may cause a stroke
 
 Diet
-3. 
+1. High levels of cholesterol in the diet can cause blocked arteries leading to a heart attack
+2. Excessive salt causes high blood pressure, which may cause a stroke
+
+Exercise: Regular exercise causes the heart to increase in size, strength and efficiency
+##### Lymph System
+In addition to blood, a colourless fluid called lymph provides a means of transport in the body
+- Structure of the lymph system
+	- The lymph system contains of a fluid called lymph which moves in lymph vessels, which have swellings on them called lymph nodes
+- Formation of lymph:
+	- When an artery reaches a tissue, it subdivides into artioles which subdivides onto cap[]
