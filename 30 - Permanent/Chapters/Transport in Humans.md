@@ -39,3 +39,14 @@ It is made up of **cardiac muscle** ( it is not under our conscious control and 
 @ diagram of heart in thoracic cavity
 
 @ diagram of heart
+**Four chambers in the heart**:
+Left atrium and left ventricle
+Right atrium and right ventricle
+Ventricles are to the bottom of heart and have thicker walls than atria as they pump blood out of the heart, the atria just pump blood down to the ventricles
+The left ventricle has thicker walls than the right ventricle. The left ventricle pumps the blood further - all over the body while the right ventricle pumps the blood a shorter distance to the lungs
+>[!tip]  **Remember**: Left is right and right is left when labelling the heart.
+
+**Four valves in the heart:**
+Tricuspid valve: Prevents back flow of blood from the right ventricle back up to the right atrium
+Bicu
+
