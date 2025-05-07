@@ -80,4 +80,10 @@ Stages in the cardiac cycle
 
 > Creates a **lub-dub** sound, *lub* is caused by the tricuspid valves and bicuspid valves closing and the *dub* sound is the semi lunar valves closing
 
-##### Sino - atrial node
+###### Sino - Atrial Node
+Location: The sino-atrial node or pacemaker is group of **specialised cells found high up in the wall of the right atrium**
+Role: The SA node initialises the heart beat by sending a wave of electrical impulses over the two atria causing them to contract or systole
+###### Atrioventricular Node (AV node)
+Location: In the septum between the right atrium and the right ventricle near the tricuspid valve.
+Role: The AV node sends a wave of electrical impulses over the two ventricles causing them to contract or systole
+@ image o
