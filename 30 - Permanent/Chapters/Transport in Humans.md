@@ -61,9 +61,21 @@ The left ventricle has thicker walls than the right ventricle. The left ventricl
 ##### Double Circulation 
 Humans have a double circulatory system - (1) the **pulmonary system** - which pumps blood from the heart to lungs and back, and (2) the **systemic system** - which pumps blood from the heart to the body and back.
 
-The advantages of a double circulatory system are that (a) it ensures that the blood pressure is high enough in both systems and (b) it keeps the oxygenated blood seperate from the deoxygenated blood. ((LORD))
+The advantages of a double circulatory system are that (a) it ensures that the blood pressure is high enough in both systems and (b) it keeps the oxygenated blood separate from the deoxygenated blood. ((LORD))
 @ Circulatory diagram
 
 **Portal system**: A portal system is a blood pathway that begins and ends in capillaries. The hepatic portal vein carries blood from the capillaries in the stomach and intestines to capillaries in the liver
 
-**Coronary circulation**: the heart muscle has its own blood supply with the coronary arteries which branches off the aorta bringing blood to the heart wall and the coronary vens draining blood away from the heart wall returning the blood directly to the right atrium. Blocka
+**Coronary circulation**: the heart muscle has its own blood supply with the coronary arteries which branches off the aorta bringing blood to the heart wall and the coronary veins draining blood away from the heart wall returning the blood directly to the right atrium. Blockage of these arteries causes a heart attack.
+
+**Cardiac Cycle**: This rhythmic contraction ( **systole** ) and relaxation ( **diastole** ) of the heart muscle, which results in the flow of blood through the heart and around the body.
+
+ The cardiac cycle is the sequence of events that occur as the heart contracts and relaxes, resulting in blood being pumped through the body. It consists of two main phases:
+
+Stages in the cardiac cycle
+- Atrial filling or diastasis: The period between atrial contraction and ventricular contraction when both atria and ventricles are relaxing and filling with blood.
+- Aortic and Pulmonary Valve Closure: The moment when the semilunar valves close as the ventricles contract, preventing blood from flowing back into the ventricles during systole.
+- Atrioventricular Valve Opening: The point at which the atrioventricular valves open to allow blood to flow from the atria into the ventricles during diastole.
+- Aortic and Pulmonary Valve Opening: The instant when the semilunar valves open to allow blood to leave the heart during ventricular contraction (systole).
+
+These stages work in a coordinated manner to ensure that blood is efficiently pumped throughout the body.
