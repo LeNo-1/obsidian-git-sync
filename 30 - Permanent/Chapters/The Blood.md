@@ -45,3 +45,11 @@ Plasma is the liquid part of the blood. It is a straw-coloured liquid consisting
 	3. **Platelets** help to clot blood and seal wound when you have a cut
 
 ### Blood Groups (ABO / RHESUS)
+ Blood types are an important aspect of human genetics, categorized into four main ABO groups (A, B, AB, and O) and multiple Rh factors (positive or negative). The ABO system is based on the presence or absence of specific antigens on the surface of red blood cells:
+
+- Type A has the A antigen.
+- Type B has the B antigen.
+- Type AB has both A and B antigens. - Universal Recipient
+- Type O has neither A nor B antigens. - Universal Donor
+
+The Rh factor, discovered by Landsteiner in 1940, adds an extra layer to blood typing. The positive Rh factor indicates the presence of the Rh protein on red blood cells, while the negative Rh factor means it is absent. It's crucial for successful blood transfusions and pregnancies, as incompatible blood types can lead to complications such as haemolytic disease of the new born or transfusion reactions. Understanding one's blood type and Rh factor aids in ensuring safe and effective donation and transfusion practices.

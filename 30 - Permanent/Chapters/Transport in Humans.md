@@ -27,3 +27,5 @@ Going from outside in:
 | *6.* | Blood flows in pulses                                   | Blood flows smoothly - no pulse                                                                           |
 | *7.* | Carries oxygenated blood - except pulmonary artery      | Carries deoxygenated blood - except pulmonary vein                                                        |
 ### Capillaries
+Capillaries *link* arteries and veins. It is in Capillaries that the exchange of materials between the body cells and blood takes place by diffusion. The capillaries are well adapted for efficient exchange
+1. Capillaries have a **thin wall** which is only **one cell thick** 
