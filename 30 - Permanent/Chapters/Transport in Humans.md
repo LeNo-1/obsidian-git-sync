@@ -35,4 +35,8 @@ Capillaries *link* arteries and veins. It is in Capillaries that the exchange of
 
 ## The Heart
 The heart is located in the **thoracic or chest cavity**
-It is m
+It is made up of **cardiac muscle** ( it is not under our conscious control and does not tire ). It is surrounded by a double membrane ( **Pericardium** ). The pericardium fluid between the two membranes prevents friction between beats
+@ diagram of heart in thoracic cavity
+
+@ diagram of heart
+###### Four chambers in the heart
