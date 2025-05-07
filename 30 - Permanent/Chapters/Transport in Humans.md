@@ -64,4 +64,6 @@ Humans have a double circulatory system - (1) the **pulmonary system** - which p
 The advantages of a double circulatory system are that (a) it ensures that the blood pressure is high enough in both systems and (b) it keeps the oxygenated blood seperate from the deoxygenated blood. ((LORD))
 @ Circulatory diagram
 
-**Portal system**: Aportal
+**Portal system**: A portal system is a blood pathway that begins and ends in capillaries. The hepatic portal vein carries blood from the capillaries in the stomach and intestines to capillaries in the liver
+
+**Coronary circulation**: the heart muscle has its own blood supply with the coronary arteries which branches off the aorta bringing blood to the heart wall and the coronary vens draining blood away from the heart wall returning the blood directly to the right atrium. Blocka
