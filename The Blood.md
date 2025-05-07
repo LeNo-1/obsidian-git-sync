@@ -32,9 +32,16 @@ Plasma is the liquid part of the blood. It is a straw-coloured liquid consisting
 - The function of haemoglobin is to combine with oxygen to form **oxyhaemoglobin**. This is the form that oxygen is carried around the body
 - Pregnant women are often given iron tablets because the baby drains the iron that it needs, putting the mother at risk of becoming anaemic
 - Athletes do high altitude training to increase their red blood cell count. This allows them to carry oxygen more efficiently for energy release
-###### Functions of blood
+### Functions of blood
 - Transport
 	1. **Oxygen** $O_2$ from the lungs to all cells combined to haemoglobin (*oxyhaemoglobin*) in red blood cells
 	2. **Carbon Dioxide** $CO_2$ from all cells to the lungs. Most of the carbon dioxide is carried as bicarbonate ions dissolved ion plasma
-	3. **Digested foods** from teh
-	4. 
+	3. **Digested foods** from the digestive system (ileum) to cells, dissolved in plasma
+	4. **Wastes e.g. urea** from liver to kidney, dissolved in the plasma
+	5. **Hormones** from endocrine gland to target organ, dissolved in plasma
+- Defence
+	1. **Monocytes**  engulf germs (*these cells are also called phagocytes*). Engulfing process called Phagocytosis
+	2. **Lymphocytes** produce antibiotics
+	3. **Platelets** help to clot blood and seal wound when you have a cut
+
+### Blood Groups (ABO / RHESUS)
