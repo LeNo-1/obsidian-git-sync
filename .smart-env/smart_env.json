@@ -43,8 +43,8 @@
         "azure_api_version": "2024-10-01-preview"
       },
       "lm_studio": {
-        "model_key": "meta-llama-3.1-8b-instruct",
-        "api_key": "http://127.0.0.1:1234",
+        "model_key": "mistral-7b-instruct-v0.3",
+        "api_key": "",
         "models": {
           "mistral-7b-instruct-v0.3": {
             "id": "mistral-7b-instruct-v0.3",
@@ -52,16 +52,16 @@
             "description": "LM Studio model: mistral-7b-instruct-v0.3",
             "multimodal": false
           },
-          "deepseek-coder-v2-lite-instruct": {
-            "id": "deepseek-coder-v2-lite-instruct",
-            "model_name": "deepseek-coder-v2-lite-instruct",
-            "description": "LM Studio model: deepseek-coder-v2-lite-instruct",
-            "multimodal": false
-          },
           "gemma-3-4b-it-qat": {
             "id": "gemma-3-4b-it-qat",
             "model_name": "gemma-3-4b-it-qat",
             "description": "LM Studio model: gemma-3-4b-it-qat",
+            "multimodal": false
+          },
+          "deepseek-coder-v2-lite-instruct": {
+            "id": "deepseek-coder-v2-lite-instruct",
+            "model_name": "deepseek-coder-v2-lite-instruct",
+            "description": "LM Studio model: deepseek-coder-v2-lite-instruct",
             "multimodal": false
           },
           "meta-llama-3.1-8b-instruct": {
