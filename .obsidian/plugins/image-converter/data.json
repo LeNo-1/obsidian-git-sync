@@ -215,9 +215,9 @@
   "singleImageModalSettings": {
     "conversionPresetName": "None",
     "outputFormat": "WEBP",
-    "quality": 100,
+    "quality": 1,
     "colorDepth": 1,
-    "resizeMode": "None",
+    "resizeMode": "Fill",
     "desiredWidth": 600,
     "desiredHeight": 800,
     "desiredLongestEdge": 1000,
