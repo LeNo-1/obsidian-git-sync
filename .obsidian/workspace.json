@@ -178,7 +178,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 534.5
+    "width": 498.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,7 +201,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "df138729ffd1cb06",
+  "active": "0697164c7c393bb0",
   "lastOpenFiles": [
     "30 - Permanent/Chapters/download.png",
     "30 - Permanent/Chapters/Geometrical Optics.md",
