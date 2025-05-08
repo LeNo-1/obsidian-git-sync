@@ -131,6 +131,19 @@
       "stream": true,
       "displayName": "Mathstral",
       "enableCors": true
+    },
+    {
+      "name": "mistral-7b-instruct-v0.3",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "displayName": "Mistral 7B",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
