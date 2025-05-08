@@ -120,7 +120,7 @@
       "enableCors": true
     },
     {
-      "name": "deepseek-math-7b-instruct",
+      "name": "mathstral-7b-v0.1",
       "provider": "lm-studio",
       "enabled": true,
       "isBuiltIn": false,
@@ -129,7 +129,7 @@
       "isEmbeddingModel": false,
       "capabilities": [],
       "stream": true,
-      "displayName": "Math AI",
+      "displayName": "Mathstral",
       "enableCors": true
     }
   ],
