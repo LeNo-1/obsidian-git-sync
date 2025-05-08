@@ -1,0 +1,109 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1746723952370.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1746723952370,
+  "responses": {
+    "chatcmpl-3bj9ibvsyl6gno088nurxu": {
+      "id": "chatcmpl-3bj9ibvsyl6gno088nurxu",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": " Hello! How can I help you today? If you have any questions or need assistance with something, feel free to ask. I'm here to help!"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-3bj9ibvsyl6gno088nurxu",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": " Hello! How can I help you today? If you have any questions or need assistance with something, feel free to ask. I'm here to help!"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    }
+  },
+  "messages": {
+    "user-1-1746723962922-1": 1,
+    "assistant-2-1746723963947-1": 2
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1746723952370",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746723952370",
+      "content": [
+        {
+          "type": "text",
+          "text": "hello"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1746723962922-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1746723962922-1",
+      "key": "Untitled 1746723952370#user-1-1746723962922-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746723952370",
+      "content": " Hello! How can I help you today? If you have any questions or need assistance with something, feel free to ask. I'm here to help!",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1746723963947-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-3bj9ibvsyl6gno088nurxu",
+      "branch_i": "1746723963947-1",
+      "key": "Untitled 1746723952370#assistant-2-1746723963947-1"
+    }
+  ]
+}

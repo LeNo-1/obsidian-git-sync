@@ -99,7 +99,6 @@
       {
         "id": "262c67dfd41553fd",
         "type": "tabs",
-        "dimension": 45.44000000000001,
         "children": [
           {
             "id": "3e25589f955c65ac",
@@ -176,54 +175,10 @@
           }
         ],
         "currentTab": 4
-      },
-      {
-        "id": "4eb8e6cdee976020",
-        "type": "tabs",
-        "dimension": 54.55999999999999,
-        "children": [
-          {
-            "id": "6a0cbb91ce9cad30",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "30 - Permanent/Chapters/Geometrical Optics.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": true,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.25883865621816277,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Geometrical Optics"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 771.5
+    "width": 786.5
   },
   "left-ribbon": {
     "hiddenItems": {

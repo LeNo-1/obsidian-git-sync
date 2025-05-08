@@ -1,0 +1,197 @@
+{
+  "path": ".smart-env/smart_threads/Untitled 1746723914099.json",
+  "last_embed": {
+    "hash": null
+  },
+  "embeddings": {},
+  "last_read": {
+    "hash": null,
+    "mtime": 0
+  },
+  "created_at": 1746723914099,
+  "responses": {
+    "chatcmpl-jx3dl3rslv7ncuh1ow5co": {
+      "id": "chatcmpl-jx3dl3rslv7ncuh1ow5co",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "Hello there! How can I help you today? 😊 \n\nDo you want to:\n\n*   Ask me a question?\n*   Chat about something specific?\n*   Have me write something for you (like a poem, story, or code)?"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-jx3dl3rslv7ncuh1ow5co",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "Hello there! How can I help you today? 😊 \n\nDo you want to:\n\n*   Ask me a question?\n*   Chat about something specific?\n*   Have me write something for you (like a poem, story, or code)?"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    },
+    "chatcmpl-z8j0ht35030pcdlq8oax3": {
+      "id": "chatcmpl-z8j0ht35030pcdlq8oax3",
+      "object": "chat.completion",
+      "created": null,
+      "choices": [
+        {
+          "message": {
+            "role": "assistant",
+            "content": "That's a great question! I’m a large language model, created by Google. \n\nEssentially, I’m an AI – artificial intelligence – that has been trained on a massive amount of text and code. This training allows me to:\n\n*   **Understand your questions:** I try to figure out what you're asking even if it's not perfectly phrased.\n*   **Generate text:** I can write different kinds of creative content, like poems, stories, articles, summaries, etc. \n*   **Translate languages:**  I can translate between many different languages.\n*   **Answer your questions in a comprehensive way:** I’ll do my best to provide helpful and informative answers based on the knowledge I've been trained on.\n\nThink of me like a really advanced chatbot – but with a much broader understanding of language and information. \n\nI’m still under development, so I’m always learning and improving! 😊\n\nDo you want me to tell you more about *how* I was created, or would you like to try asking me something?"
+          }
+        }
+      ],
+      "usage": {},
+      "raw": {
+        "id": "chatcmpl-z8j0ht35030pcdlq8oax3",
+        "object": "chat.completion",
+        "created": 0,
+        "model": "",
+        "choices": [
+          {
+            "message": {
+              "index": 0,
+              "role": "assistant",
+              "content": "That's a great question! I’m a large language model, created by Google. \n\nEssentially, I’m an AI – artificial intelligence – that has been trained on a massive amount of text and code. This training allows me to:\n\n*   **Understand your questions:** I try to figure out what you're asking even if it's not perfectly phrased.\n*   **Generate text:** I can write different kinds of creative content, like poems, stories, articles, summaries, etc. \n*   **Translate languages:**  I can translate between many different languages.\n*   **Answer your questions in a comprehensive way:** I’ll do my best to provide helpful and informative answers based on the knowledge I've been trained on.\n\nThink of me like a really advanced chatbot – but with a much broader understanding of language and information. \n\nI’m still under development, so I’m always learning and improving! 😊\n\nDo you want me to tell you more about *how* I was created, or would you like to try asking me something?"
+            }
+          }
+        ],
+        "usage": {}
+      }
+    }
+  },
+  "messages": {
+    "user-1-1746723919267-1": 1,
+    "assistant-2-1746723920070-1": 2,
+    "user-3-1746723928315-1": 3,
+    "assistant-4-1746723928734-1": 4
+  },
+  "branches": {},
+  "class_name": "SmartThread2",
+  "key": "Untitled 1746723914099",
+  "blocks": [
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746723914099",
+      "content": [
+        {
+          "type": "text",
+          "text": "hello"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 1,
+      "id": "user-1-1746723919267-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1746723919267-1",
+      "key": "Untitled 1746723914099#user-1-1746723919267-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746723914099",
+      "content": "Hello there! How can I help you today? 😊 \n\nDo you want to:\n\n*   Ask me a question?\n*   Chat about something specific?\n*   Have me write something for you (like a poem, story, or code)?",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 2,
+      "id": "assistant-2-1746723920070-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-jx3dl3rslv7ncuh1ow5co",
+      "branch_i": "1746723920070-1",
+      "key": "Untitled 1746723914099#assistant-2-1746723920070-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746723914099",
+      "content": [
+        {
+          "type": "text",
+          "text": "what are you"
+        }
+      ],
+      "role": "user",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 3,
+      "id": "user-3-1746723928315-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "branch_i": "1746723928315-1",
+      "key": "Untitled 1746723914099#user-3-1746723928315-1"
+    },
+    {
+      "path": null,
+      "last_embed": {
+        "hash": null
+      },
+      "embeddings": {},
+      "text": null,
+      "length": 0,
+      "last_read": {
+        "hash": null,
+        "at": 0
+      },
+      "thread_key": "Untitled 1746723914099",
+      "content": "That's a great question! I’m a large language model, created by Google. \n\nEssentially, I’m an AI – artificial intelligence – that has been trained on a massive amount of text and code. This training allows me to:\n\n*   **Understand your questions:** I try to figure out what you're asking even if it's not perfectly phrased.\n*   **Generate text:** I can write different kinds of creative content, like poems, stories, articles, summaries, etc. \n*   **Translate languages:**  I can translate between many different languages.\n*   **Answer your questions in a comprehensive way:** I’ll do my best to provide helpful and informative answers based on the knowledge I've been trained on.\n\nThink of me like a really advanced chatbot – but with a much broader understanding of language and information. \n\nI’m still under development, so I’m always learning and improving! 😊\n\nDo you want me to tell you more about *how* I was created, or would you like to try asking me something?",
+      "role": "assistant",
+      "tool_calls": null,
+      "tool_call_id": null,
+      "msg_i": 4,
+      "id": "assistant-4-1746723928734-1",
+      "context": {},
+      "tool_call_output": null,
+      "class_name": "SmartMessage",
+      "response_id": "chatcmpl-z8j0ht35030pcdlq8oax3",
+      "branch_i": "1746723928734-1",
+      "key": "Untitled 1746723914099#assistant-4-1746723928734-1"
+    }
+  ]
+}
