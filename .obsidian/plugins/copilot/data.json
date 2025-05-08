@@ -118,6 +118,19 @@
       "stream": true,
       "displayName": "Gemma 3 4B",
       "enableCors": true
+    },
+    {
+      "name": "deepseek-math-7b-instruct",
+      "provider": "lm-studio",
+      "enabled": true,
+      "isBuiltIn": false,
+      "baseUrl": "",
+      "apiKey": "",
+      "isEmbeddingModel": false,
+      "capabilities": [],
+      "stream": true,
+      "displayName": "Math AI",
+      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
