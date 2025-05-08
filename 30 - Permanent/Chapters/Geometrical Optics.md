@@ -27,5 +27,6 @@ cssclasses:
 >Law 1: The incident ray the normal at the point of incidence and the reflected ray all lie in the same plane
 >Law 2: The angle of incidence is equal to the angle of reflection ($i=r$)
 
-#### How an im
+#### How an Image is Formed in a Plane Mirror
 ![[download.png]]
+[[]]
