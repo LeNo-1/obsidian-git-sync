@@ -163,9 +163,19 @@
               "icon": "lucide-list",
               "title": "Outline of Geometrical Optics"
             }
+          },
+          {
+            "id": "161693ae572276a3",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Smart Chat"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "4eb8e6cdee976020",
@@ -213,8 +223,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 582.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,10 +240,12 @@
       "obsidian-book-search-plugin:Create new book note": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-media-db-plugin:Add new Media DB entry": false
+      "obsidian-media-db-plugin:Add new Media DB entry": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "df138729ffd1cb06",
+  "active": "161693ae572276a3",
   "lastOpenFiles": [
     "30 - Permanent/Chapters/download.webp",
     "Databases.md",
