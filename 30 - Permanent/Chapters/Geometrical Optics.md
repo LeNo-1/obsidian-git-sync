@@ -23,4 +23,4 @@ cssclasses:
  - The ray
 
 
-
+A mass M kg is at rest on a smooth horizontal table. It is attached to a light, inextensible string. The string passes over a small, fixed pulley at the edge of the table and then passes under a small moveable pulley P, of mass m kg. Finally, the string passes over a smooth fixed pulley and supports a mass of 1 kg
