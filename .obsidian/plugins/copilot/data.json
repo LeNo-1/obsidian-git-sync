@@ -118,19 +118,6 @@
       "stream": true,
       "displayName": "Gemma 3 4B",
       "enableCors": true
-    },
-    {
-      "name": "rho-math-7b-interpreter-v0.1:2",
-      "provider": "lm-studio",
-      "enabled": true,
-      "isBuiltIn": false,
-      "baseUrl": "",
-      "apiKey": "",
-      "isEmbeddingModel": false,
-      "capabilities": [],
-      "stream": true,
-      "displayName": "Math ao",
-      "enableCors": true
     }
   ],
   "activeEmbeddingModels": [
