@@ -43,7 +43,7 @@
         "azure_api_version": "2024-10-01-preview"
       },
       "lm_studio": {
-        "model_key": "mistral-7b-instruct-v0.3",
+        "model_key": "gemma-3-4b-it-qat",
         "api_key": "",
         "models": {
           "mistral-7b-instruct-v0.3": {
