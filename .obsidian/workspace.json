@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 - M.O.C/2 -Biology-.md",
+                "file": "30 - Permanent/Chapters/Geometrical Optics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2 -Biology-"
+              "title": "Geometrical Optics"
             }
           }
         ]
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 - M.O.C/2 -Biology-.md",
+                "file": "30 - Permanent/Chapters/Geometrical Optics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2 -Biology-"
+              "title": "Outline of Geometrical Optics"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 - M.O.C/2 -Biology-.md",
+                "file": "30 - Permanent/Chapters/Geometrical Optics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,14 +206,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2 -Biology-"
+              "title": "Graph of Geometrical Optics"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,6 +236,7 @@
   },
   "active": "df138729ffd1cb06",
   "lastOpenFiles": [
+    "00 - M.O.C/4 -Physics-.md",
     "30 - Permanent/Chapters/Transport in Humans.md",
     "00 - M.O.C/2 -Biology-.md",
     "20 - Resources/Bucket List.md",
@@ -264,7 +266,6 @@
     "Algebra 3.md",
     "20 - Resources/Cool Things.md",
     "10 - Areas/Computer Science/C.md",
-    "10 - Areas/Computer Science/10.01 - {Project Ideas}.md",
     "50 - Daily/2025/05",
     "50 - Daily/2025",
     "10 - Areas/Food & Recipes/Roisin's Cookies.cook",
