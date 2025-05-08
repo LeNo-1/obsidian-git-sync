@@ -162,13 +162,23 @@
               "icon": "lucide-list",
               "title": "Outline of Geometrical Optics"
             }
+          },
+          {
+            "id": "0697164c7c393bb0",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 786.5
+    "width": 567.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,7 +201,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "4d2a88311d2a2cbc",
+  "active": "0697164c7c393bb0",
   "lastOpenFiles": [
     "30 - Permanent/Chapters/download.webp",
     "Databases.md",
