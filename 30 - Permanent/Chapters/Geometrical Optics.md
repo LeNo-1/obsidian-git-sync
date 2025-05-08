@@ -20,4 +20,11 @@ cssclasses:
 ***Regular Reflection***: If the surface of an object on which light shines is silvered and polished smooth the light falling on it is not scattered in all directions. Instead the **reflected rays are parallel to each other**.
  - The ray of light falling on the mirror is called the incident ray
  - The line drawn perpendicular to the mirror where the ray strikes the mirror is called the normal at the point of incidence
- - The ray
+ - The ray of light leaving the mirror is called the reflected ray
+ - The angle between the incident ray and the normal is called the angle of incidence. Its symbol is $i$
+ - The angle between the reflected ray and the normal is called the angle of reflection. Its symbol is $r$
+#### The Laws of Reflection of Light
+>[!NOTE] 
+>Law 1: The incident ray the normal at the point of incidence and the reflected ray all lie in the same plane
+>Law 2: The angle of incidence is equal 
+
