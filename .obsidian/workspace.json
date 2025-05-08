@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 - Permanent/Chapters/Geometrical Optics.md",
+                "file": "30 - Permanent/Chapters/Lenses.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Geometrical Optics"
+              "title": "Lenses"
             }
           }
         ]
@@ -154,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "30 - Permanent/Chapters/Lenses.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Lenses"
             }
           },
           {
@@ -183,11 +184,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 498.5
+    "width": 450.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,46 +211,7 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "floating": {
-    "id": "978b413781702b83",
-    "type": "floating",
-    "children": [
-      {
-        "id": "04e8bc358c28a994",
-        "type": "window",
-        "children": [
-          {
-            "id": "58852a7399b87b8c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "924843dd4e941f3a",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://lu.ma/calendar/cal-ZJtdnzAdURyouM7",
-                    "title": "Smart Connections Community · Events Calendar",
-                    "mode": "blank"
-                  },
-                  "icon": "globe-2",
-                  "title": "Smart Connections Community · Events Calendar"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 448,
-        "y": 116,
-        "width": 1024,
-        "height": 800,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "924843dd4e941f3a",
+  "active": "0697164c7c393bb0",
   "lastOpenFiles": [
     "30 - Permanent/Chapters/Geometrical Optics.md",
     "00 - M.O.C/4 -Physics-.md",
