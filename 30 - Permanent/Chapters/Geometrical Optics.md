@@ -17,7 +17,10 @@ cssclasses:
 > The bouncing of light off an object is called **reflection**
 
 ***Diffusion Reflection***: If the surface on which the light shines is rough, the **reflected light is scattered in all directions** from the surface. 
-***Regular Reflection***: If the surface of an object on which light shines is silvered and polished smooth - such a surface is called a mirror - the light falling on it is not scattered in all directions. Instead the **reflected rays are parallel to each other**.
+***Regular Reflection***: If the surface of an object on which light shines is silvered and polished smooth the light falling on it is not scattered in all directions. Instead the **reflected rays are parallel to each other**.
+ - The ray of light falling on the mirror is called the incident ray
+ - The line drawn perpendicular to the mirror where the ray strikes the mirror is called the normal at the point of incidence
+ - The ray
 
 
 
