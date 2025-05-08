@@ -23,8 +23,7 @@ cssclasses:
  - The ray of light leaving the mirror is called the reflected ray
  - The angle between the incident ray and the normal is called the angle of incidence. Its symbol is $i$
  - The angle between the reflected ray and the normal is called the angle of reflection. Its symbol is $r$
-#### The Laws of Reflection of Light
->[!NOTE] 
+>[!NOTE] The Laws of Reflection of Light
 >Law 1: The incident ray the normal at the point of incidence and the reflected ray all lie in the same plane
->Law 2: The angle of incidence is equal 
+>Law 2: The angle of incidence is equal to the angle of reflection ($i=r$)
 
