@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df138729ffd1cb06",
+            "id": "e2829d1c3c5cc84b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -154,13 +154,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "30 - Permanent/Chapters/Geometrical Optics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Geometrical Optics"
+              "title": "Outline"
             }
           },
           {
@@ -172,9 +171,19 @@
               "icon": "message-square",
               "title": "Copilot"
             }
+          },
+          {
+            "id": "52705e69aa2ea92e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,14 +210,55 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0697164c7c393bb0",
+  "floating": {
+    "id": "978b413781702b83",
+    "type": "floating",
+    "children": [
+      {
+        "id": "04e8bc358c28a994",
+        "type": "window",
+        "children": [
+          {
+            "id": "58852a7399b87b8c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "924843dd4e941f3a",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://lu.ma/calendar/cal-ZJtdnzAdURyouM7",
+                    "title": "Smart Connections Community · Events Calendar",
+                    "mode": "blank"
+                  },
+                  "icon": "globe-2",
+                  "title": "Smart Connections Community · Events Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 448,
+        "y": 116,
+        "width": 1024,
+        "height": 800,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "924843dd4e941f3a",
   "lastOpenFiles": [
-    "30 - Permanent/Chapters/download.png",
     "30 - Permanent/Chapters/Geometrical Optics.md",
+    "00 - M.O.C/4 -Physics-.md",
+    "30 - Permanent/Chapters/Lenses.md",
+    "30 - Permanent/Chapters/Refraction.md",
+    "30 - Permanent/Chapters/download.png",
     "30 - Permanent/Chapters/download.webp",
     "Databases.md",
     "~syncthing~Databases.md.tmp",
-    "00 - M.O.C/4 -Physics-.md",
     "30 - Permanent/Chapters/Transport in Humans.md",
     "00 - M.O.C/2 -Biology-.md",
     "20 - Resources/Bucket List.md",
@@ -234,7 +284,6 @@
     "30 - Permanent/School Projects/ALT 2.md",
     "30 - Permanent/Self  Storage/Functions.py.md",
     "30 - Permanent/Chapters/Networks and Graphs.md",
-    "10 - Areas/10 - Areas.md",
     "50 - Daily/2025/05",
     "50 - Daily/2025",
     "10 - Areas/Food & Recipes/Roisin's Cookies.cook",
@@ -248,7 +297,6 @@
     "99 - Meta/Images/EN-EX-40634415 19 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 18 of 21.png",
     "99 - Meta/Images/EN-EX-40634415 17 of 21.png",
-    "99 - Meta/Images/EN-EX-40634415 16 of 21.png",
     "30 - Permanent/School Projects/Untitled.canvas",
     "ALT 2 - Flow Chart.canvas",
     "10 - Areas/Literature/Bookshelf.canvas",

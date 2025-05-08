@@ -8,8 +8,7 @@
  1. The incident ray, the normal at the point of incidence and the refracted ray all lie in the same plane
  $$\frac{\sin i}{\sin r}= n$$
 ### Inverse
-For any two media x and y:
-### $\scriptsize{x}\normalsize{n}\scriptsize{y} = \frac{1}{\scriptsize{y}\normalsize{n}\scriptsize{x}}$
+For any two media x and y:  $\scriptsize{x}\normalsize{n}\scriptsize{y} = \frac{1}{\scriptsize{y}\normalsize{n}\scriptsize{x}}$
 
 # Formulae
 ### Real depth vs Apparent depth
